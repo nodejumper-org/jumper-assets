@@ -462,43 +462,6 @@
     ]
   },
   {
-    "id":"uptick",
-    "chainName":"Uptick",
-    "chainId":"uptick_117-1",
-    "logo":"uptick.webp",
-    "snapshotServer":"https://snapshots2.nodejumper.io",
-    "rpcServer":"https://uptick.nodejumper.io",
-    "rpcPeer":"595a77c5ac670fea788829b6df8cb4347fd77412@uptick.nodejumper.io:26656",
-    "binaryName":"uptickd",
-    "homeDirectoryName":".uptickd",
-    "twitter":"https://twitter.com/uptickproject",
-    "github":"https://github.com/UptickNetwork",
-    "globe":"https://www.uptick.network/",
-    "medium":"https://medium.com/@uptickproject",
-    "discord":"https://discord.gg/w7mYy8btu7",
-    "blockExplorer":"https://uptick.explorers.guru",
-    "validatorUrl":"https://restake.app/uptick/uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
-    "gasDenomName":"auptick",
-    "githubRepoName":"uptick",
-    "isLeaderboardEnabled":true,
-    "hardwareRequirements":{
-      "minSpecification":"3CPU 4RAM 80GB",
-      "recommendedSpecification":"4CPU 8RAM 160GB"
-    },
-    "externalRpcArray":[
-      "https://rpc-1.uptick.nodes.guru",
-      "https://uptick-rpc.brocha.in:443",
-      "https://rpc-uptick.mms.team",
-      "https://uptick.rpc.kjnodes.com"
-    ],
-    "externalApiArray":[
-      "https://api-1.uptick.nodes.guru",
-      "https://uptick-rest.brocha.in",
-      "https://api-uptick.mms.team",
-      "https://uptick.api.kjnodes.com"
-    ]
-  },
-  {
     "id":"nois",
     "chainName":"nois",
     "prettyChainName":"Nois Network",
