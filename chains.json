@@ -1,0 +1,2263 @@
+[
+  {
+    "id": "rizon",
+    "chainName": "Rizon",
+    "chainId": "titan-1",
+    "logo": "rizon.svg",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://rizon.nodejumper.io",
+    "rpcPeer": "0d51e8b9eb24f412dffc855c7bd854a8ecb3dff5@rizon.nodejumper.io:26656",
+    "binaryName": "rizond",
+    "homeDirectoryName": ".rizon",
+    "twitter": "https://twitter.com/hdac_rizon",
+    "github": "https://github.com/rizon-world",
+    "globe": "https://rizon.world",
+    "medium": "https://medium.com/hdac",
+    "discord": "https://discord.gg/Vgbcu5Hhmz",
+    "blockExplorer": "https://www.mintscan.io/rizon",
+    "validatorUrl": "https://restake.app/rizon/rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr/delegate",
+    "gasDenomName": "uatolo",
+    "githubRepoName": "rizon",
+    "externalRpcArray": [
+      "https://rpcapi.rizon.world",
+      "https://rizon-rpc.ibs.team",
+      "https://rpc.cosmos.directory/rizon",
+      "https://rpc.rizon.chaintools.tech"
+    ],
+    "externalApiArray": [
+      "https://restapi.rizon.world",
+      "https://rizon-api.ibs.team",
+      "https://api.rizon.chaintools.tech"
+    ]
+  },
+  {
+    "id": "bitcanna",
+    "chainName": "Bitcanna",
+    "chainId": "bitcanna-1",
+    "logo": "bitcanna.svg",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://bitcanna.nodejumper.io",
+    "rpcPeer": "45589e6147e36dda9e429668484d7614fb25b142@bitcanna.nodejumper.io:27656",
+    "binaryName": "bcnad",
+    "homeDirectoryName": ".bcna",
+    "twitter": "https://twitter.com/BitCannaGlobal",
+    "github": "https://github.com/BitCannaGlobal",
+    "globe": "https://www.bitcanna.io",
+    "medium": "https://medium.com/@bitcannaglobal",
+    "docs": "https://docs.bitcanna.io/",
+    "discord": "https://discord.gg/GaubcRyg3t",
+    "blockExplorer": "https://www.mintscan.io/bitcanna",
+    "validatorUrl": "https://restake.app/bitcanna/bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y/delegate",
+    "gasDenomName": "ubcna",
+    "githubRepoName": "bcna",
+    "externalRpcArray": [
+      "https://rpc.bitcanna.io",
+      "https://rpc.cosmos.directory/bitcanna",
+      "https://bitcanna-rpc.polkachu.com",
+      "https://rpc-bitcanna-ia.cosmosia.notional.ventures",
+      "https://bitcanna-rpc.lavenderfive.com"
+    ],
+    "externalApiArray": [
+      "https://bitcanna-api.lavenderfive.com",
+      "https://api-bitcanna-ia.cosmosia.notional.ventures",
+      "https://lcd.bitcanna.io"
+    ]
+  },
+  {
+    "id": "desmos",
+    "chainName": "Desmos",
+    "chainId": "desmos-mainnet",
+    "logo": "desmos.svg",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://desmos.nodejumper.io",
+    "rpcPeer": "f090ead239426219d605b392314bdd73d16a795f@desmos.nodejumper.io:32656",
+    "binaryName": "desmos",
+    "serviceName": "desmosd",
+    "homeDirectoryName": ".desmos",
+    "twitter": "https://twitter.com/DesmosNetwork",
+    "github": "https://github.com/desmos-labs",
+    "globe": "https://www.desmos.network/",
+    "medium": "https://medium.com/desmosnetwork",
+    "discord": "https://discord.com/invite/ckFcU5vxxc",
+    "blockExplorer": "https://www.mintscan.io/desmos",
+    "validatorUrl": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate",
+    "gasDenomName": "udsm",
+    "githubRepoName": "desmos",
+    "externalRpcArray": [
+      "https://rpc.cosmos.directory/desmos",
+      "https://desmos-rpc.lavenderfive.com",
+      "https://rpc-desmos.starsquid.io"
+    ],
+    "externalApiArray": [
+      "https://api.mainnet.desmos.network",
+      "https://desmos-api.ibs.team",
+      "https://desmos-api.panthea.eu",
+      "https://desmos-api.lavenderfive.com"
+    ]
+  },
+  {
+    "id": "omniflix",
+    "chainName": "Omniflix",
+    "chainId": "omniflixhub-1",
+    "logo": "omniflix.webp",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://omniflix.nodejumper.io",
+    "rpcPeer": "b7ac7a52dbb4041133e31e0552f4e01e926d3bb4@omniflix.nodejumper.io:33656",
+    "binaryName": "omniflixhubd",
+    "homeDirectoryName": ".omniflixhub",
+    "twitter": "https://twitter.com/@OmniFlixNetwork",
+    "github": "https://github.com/OmniFlix",
+    "globe": "https://omniflix.network/",
+    "medium": "https://medium.com/@OmniFlix",
+    "discord": "https://discord.com/invite/6gdQ4yZSTC",
+    "blockExplorer": "https://www.mintscan.io/omniflix",
+    "coingekoCoinId": "omniflix-network",
+    "validatorUrl": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe",
+    "gasDenomName": "uflix",
+    "githubRepoName": "omniflixhub",
+    "externalRpcArray": [
+      "https://rpc.cosmos.directory/omniflixhub",
+      "https://rpc-omniflixhub-ia.cosmosia.notional.ventures",
+      "https://omniflix-rpc.lavenderfive.com",
+      "https://rpc-omniflix.huginn.tech:443"
+    ],
+    "externalApiArray": [
+      "https://api-omniflixhub-ia.cosmosia.notional.ventures",
+      "https://api.omniflix.nodestake.top",
+      "https://omniflix-api.lavenderfive.com",
+      "https://api.omniflix.kingnodes.com"
+    ]
+  },
+  {
+    "id": "starname",
+    "chainName": "Starname",
+    "chainId": "iov-mainnet-ibc",
+    "logo": "starname.svg",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://starname.nodejumper.io",
+    "rpcPeer": "3180fdc5e477e675acd22e63477ce3a2db20edf9@starname.nodejumper.io:34656",
+    "binaryName": "starnamed",
+    "homeDirectoryName": ".starnamed",
+    "twitter": "https://twitter.com/starname_me",
+    "github": "https://github.com/iov-one",
+    "globe": "https://www.starname.me",
+    "medium": "https://medium.com/iov-internet-of-values",
+    "discord": "https://discord.gg/xE36Rcsv37",
+    "blockExplorer": "https://www.mintscan.io/starname",
+    "validatorUrl": "https://restake.app/starname/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate",
+    "gasDenomName": "uiov",
+    "githubRepoName": "starnamed",
+    "isStateSyncEnabled": true,
+    "externalRpcArray": [
+      "https://rpc-iov.keplr.app",
+      "https://rpc.cosmos.directory/starname",
+      "https://rpc-starname-ia.cosmosia.notional.ventures"
+    ],
+    "externalApiArray": [
+      "https://api-starname-ia.cosmosia.notional.ventures",
+      "https://lcd-iov.keplr.app/",
+      "https://rest.cosmos.directory/starname"
+    ]
+  },
+  {
+    "id": "stafihub",
+    "chainName": "StaFiHub",
+    "chainId": "stafihub-1",
+    "logo": "stafihub.svg",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://stafihub.nodejumper.io",
+    "rpcPeer": "967d2fc0e58f5d7f7954c2059cef4de62e4c513f@stafihub.nodejumper.io:26656",
+    "binaryName": "stafihubd",
+    "homeDirectoryName": ".stafihub",
+    "twitter": "https://twitter.com/StaFiHub_",
+    "github": "https://github.com/stafihub",
+    "globe": "https://www.stafihub.io",
+    "discord": "https://discord.gg/98GuF8AE3D",
+    "blockExplorer": "https://mintscan.io/stafi",
+    "validatorUrl": "https://www.mintscan.io/stafi/validators/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv",
+    "coingekoCoinId": "stafi",
+    "gasDenomName": "ufis",
+    "githubRepoName": "stafihub",
+    "externalRpcArray": [
+      "https://public-rpc1.stafihub.io:443",
+      "https://public-rpc2.stafihub.io:443",
+      "https://rpc.cosmos.directory/stafihub",
+      "https://rpc.stafihub.nodestake.top"
+    ],
+    "externalApiArray": [
+      "https://public-rest-rpc1.stafihub.io",
+      "https://public-rest-rpc2.stafihub.io",
+      "https://api.stafihub.nodestake.top"
+    ]
+  },
+  {
+    "id": "rebus",
+    "chainName": "Rebus",
+    "chainId": "reb_1111-1",
+    "logo": "rebus.webp",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://rebus.nodejumper.io",
+    "rpcPeer": "b574e11e103058a121cc03d1c4d9867ba3daed34@rebus.nodejumper.io:31656",
+    "binaryName": "rebusd",
+    "homeDirectoryName": ".rebusd",
+    "twitter": "https://twitter.com/RebusChain",
+    "github": "https://github.com/rebuschain",
+    "globe": "https://www.rebuschain.com",
+    "discord": "https://discord.gg/cBGpcyHmBH",
+    "medium": "https://medium.com/@RebusChain",
+    "docs": "https://docs.rebuschain.com",
+    "blockExplorer": "https://rebus.explorers.guru",
+    "validatorUrl": "https://restake.app/rebus/rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8/delegate",
+    "gasDenomName": "arebus",
+    "isStateSyncEnabled": false,
+    "githubRepoName": "rebus.core",
+    "externalRpcArray": [
+      "https://api.rebuschain.com:26657",
+      "https://rpc.cosmos.directory/rebus",
+      "https://rebus.rpc.manticore.team:443",
+      "https://rpc-1.rebus.nodes.guru",
+      "https://rebus.rpc.kjnodes.com"
+    ],
+    "externalApiArray": [
+      "https://rebus.api.manticore.team:443",
+      "https://api-1.rebus.nodes.guru",
+      "https://rebus-rest.brocha.in",
+      "https://rebus.api.kjnodes.com"
+    ]
+  },
+  {
+    "id": "teritori",
+    "chainName": "Teritori",
+    "chainId": "teritori-1",
+    "logo": "teritori.webp",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://teritori.nodejumper.io",
+    "rpcPeer": "26175f13ada3d61c93bca342819fd5dc797bced0@teritori.nodejumper.io:28656",
+    "binaryName": "teritorid",
+    "homeDirectoryName": ".teritorid",
+    "twitter": "https://twitter.com/TeritoriNetwork",
+    "github": "https://github.com/TERITORI",
+    "globe": "https://teritori.com",
+    "discord": "https://discord.gg/UAzKUpsZhn",
+    "blockExplorer": "https://mintscan.io/teritori",
+    "validatorUrl": "https://restake.app/teritori/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0/delegate",
+    "gasDenomName": "utori",
+    "githubRepoName": "teritori-chain",
+    "isWasmOnStateSyncEnabled": true,
+    "externalRpcArray": [
+      "https://rpc.cosmos.directory/teritori",
+      "https://teritori-rpc.lavenderfive.com",
+      "https://teritori-rpc.polkachu.com",
+      "https://teritori-rpc.brocha.in",
+      "https://teritori.rpc.kjnodes.com"
+    ],
+    "externalApiArray": [
+      "https://teritori-rest.brocha.in",
+      "https://teritori.api.kjnodes.com",
+      "https://teritori-api.lavenderfive.com"
+    ]
+  },
+  {
+    "id": "jackal",
+    "chainName": "Jackal",
+    "chainId": "jackal-1",
+    "logo": "jackal.webp",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://jackal.nodejumper.io",
+    "rpcPeer": "b8b29fe5391749ca1425e60212a944e24ac4a03e@jackal.nodejumper.io:31656",
+    "binaryName": "canined",
+    "homeDirectoryName": ".canine",
+    "twitter": "https://twitter.com/Jackal_Labs",
+    "github": "https://github.com/JackalLabs",
+    "globe": "https://jackalprotocol.com",
+    "discord": "https://discord.com/invite/5GKym3p6rj",
+    "docs": "https://docs.jackalprotocol.com/",
+    "medium": "https://jackaldao.medium.com",
+    "blockExplorer": "https://ping.pub/jackal",
+    "validatorUrl": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
+    "gasDenomName": "ujkl",
+    "githubRepoName": "canine-chain",
+    "coingekoCoinId": "jackal-protocol",
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "externalRpcArray": [
+      "https://rpc.cosmos.directory/jackal",
+      "https://jackal.rpc.kjnodes.com",
+      "https://jackal-rpc.polkachu.com",
+      "https://m-jackal.rpc.utsa.tech"
+    ],
+    "externalApiArray": [
+      "https://jackal-api.lavenderfive.com:443",
+      "https://api.jackal.nodestake.top",
+      "https://api.jackalprotocol.com"
+    ]
+  },
+  {
+    "id": "pylons",
+    "chainName": "Pylons",
+    "chainId": "pylons-mainnet-1",
+    "logo": "pylons.webp",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://pylons.nodejumper.io",
+    "rpcPeer": "7b6b13bcbd30311a407e193d0c7b21ed3dc15cd1@pylons.nodejumper.io:30656",
+    "binaryName": "pylonsd",
+    "homeDirectoryName": ".pylons",
+    "twitter": "https://twitter.com/pylonstech",
+    "github": "https://github.com/Pylons-tech",
+    "globe": "https://www.pylons.tech",
+    "discord": "https://discord.com/invite/pylons",
+    "blockExplorer": "https://pylons.explorers.guru/",
+    "validatorUrl": "https://pylons.explorers.guru/validator/pylovaloper1gaxmegsarn8vquy573750ffklulw8pf8g2usyw",
+    "gasDenomName": "ubedrock",
+    "githubRepoName": "pylons",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 160GB",
+      "recommendedSpecification": "8CPU 16RAM 500GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.pylons.nodes.guru",
+      "https://rpc.pylons.nodestake.top",
+      "https://rpc.pylons.mcbnode.online",
+      "https://pylons-rpc.punq.info"
+    ],
+    "externalApiArray": [
+      "https://api-1.pylons.nodes.guru",
+      "https://api.pylons.nodestake.top",
+      "https://api.pylons.mcbnode.online",
+      "https://pylons-api.punq.info"
+    ]
+  },
+  {
+    "id": "paloma",
+    "chainName": "Paloma",
+    "chainId": "messenger",
+    "logo": "paloma.webp",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://paloma.nodejumper.io",
+    "rpcPeer": "8ed8cddfac504d986a2c6545def0e57b2c6aa5db@paloma.nodejumper.io:38656",
+    "binaryName": "palomad",
+    "homeDirectoryName": ".paloma",
+    "twitter": "https://twitter.com/paloma_chain",
+    "github": "https://github.com/palomachain",
+    "globe": "https://www.palomachain.com",
+    "telegram": "https://t.me/palomachain",
+    "discord": "https://discord.gg/ET4tEgWQCj",
+    "blockExplorer": "https://paloma.explorers.guru",
+    "validatorUrl": "https://paloma.explorers.guru/validator/palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
+    "gasDenomName": "ugrain",
+    "githubRepoName": "paloma",
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.paloma.nodes.guru",
+      "https://rpc.paloma.mcbnode.online",
+      "https://paloma.rpc.kjnodes.com"
+    ],
+    "externalApiArray": [
+      "https://api-1.paloma.nodes.guru",
+      "https://api.paloma.mcbnode.online",
+      "https://paloma.api.kjnodes.com"
+    ]
+  },
+  {
+    "id": "assetmantle",
+    "chainName": "AssetMantle",
+    "chainId": "mantle-1",
+    "logo": "assetmantle.svg",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://assetmantle.nodejumper.io",
+    "rpcPeer": "c75a48b7dfbad051443eb79db51ab7ccc770e152@assetmantle.nodejumper.io:28656",
+    "binaryName": "mantleNode",
+    "homeDirectoryName": ".mantleNode",
+    "twitter": "https://twitter.com/AssetMantle",
+    "github": "https://github.com/AssetMantle",
+    "globe": "https://assetmantle.one/",
+    "medium": "https://blog.assetmantle.one/",
+    "discord": "https://discord.gg/BSdBQ4495d",
+    "blockExplorer": "https://www.mintscan.io/asset-mantle",
+    "coingekoCoinId": "assetmantle",
+    "validatorUrl": "https://restake.app/assetmantle/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje",
+    "gasDenomName": "umntl",
+    "githubRepoName": "node",
+    "externalRpcArray": [
+      "https://rpc.assetmantle.one",
+      "https://rpc.cosmos.directory/assetmantle",
+      "https://rpc-assetmantle.blockpower.capital",
+      "https://rpc-assetmantle.ecostake.com",
+      "https://assetmantle-rpc.polkachu.com",
+      "https://rpc-assetmanle.d-stake.xyz"
+    ],
+    "externalApiArray": [
+      "https://api.assetmantle.nodestake.top",
+      "https://rest-assetmantle.ecostake.com",
+      "https://api-assetmantle-ia.cosmosia.notional.ventures"
+    ]
+  },
+  {
+    "id": "ununifi",
+    "chainName": "UnUniFi",
+    "chainId": "ununifi-beta-v1",
+    "logo": "ununifi.webp",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://ununifi.nodejumper.io",
+    "rpcPeer": "c2fa01d37fc1ea4880a63022848873c1f7705ad1@ununifi.nodejumper.io:39656",
+    "binaryName": "ununifid",
+    "homeDirectoryName": ".ununifi",
+    "twitter": "https://twitter.com/ununifi/",
+    "github": "https://github.com/UnUniFi",
+    "globe": "https://ununifi.io/",
+    "medium": "https://medium.com/@ununifi",
+    "discord": "https://discord.com/invite/gxEkFyu5rn",
+    "blockExplorer": "https://ununifi.io/explorer/",
+    "validatorUrl": "https://restake.app/ununifi/ununifivaloper15lp2nwccku06xnrgfpany9elrt75exy2hngplz/stake",
+    "gasDenomName": "uguu",
+    "githubRepoName": "ununifi",
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "externalRpcArray": [
+      "https://ununifi.rpc.m.anode.team",
+      "http://65.108.199.120:60657",
+      "https://rpc.ununifi.nodestake.top"
+    ],
+    "externalApiArray": [
+      "https://ununifi.api.m.anode.team",
+      "http://65.108.199.120:1367",
+      "https://api.ununifi.nodestake.top"
+    ]
+  },
+  {
+    "id": "aura",
+    "chainName": "aura",
+    "prettyChainName": "Aura Network",
+    "chainId": "xstaxy-1",
+    "logo": "aura.webp",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://aura.nodejumper.io",
+    "rpcPeer": "5ce29d0d9ef1230eab07444dd73745d68a832d6f@aura.nodejumper.io:40656",
+    "binaryName": "aurad",
+    "homeDirectoryName": ".aura",
+    "twitter": "https://twitter.com/AuraNetworkHQ",
+    "github": "https://github.com/aura-nw",
+    "globe": "https://aura.network",
+    "telegram": "https://t.me/AuraNetworkOfficial",
+    "discord": "https://discord.gg/ZhbsAVuB7U",
+    "docs": "https://docs.aura.network/",
+    "blockExplorer": "https://aura.exploreme.pro",
+    "validatorUrl": "https://restake.app/aura/auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu",
+    "gasDenomName": "uaura",
+    "githubRepoName": "aura",
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "externalRpcArray": [
+      "https://rpc.aura.network",
+      "https://aura.rpc.kjnodes.com",
+      "https://snapshot-1.aura.network:443",
+      "https://snapshot-2.aura.network:443"
+    ],
+    "externalApiArray": [
+      "https://lcd.aura.network",
+      "https://aura.api.kjnodes.com"
+    ]
+  },
+  {
+    "id": "uptick",
+    "chainName": "Uptick",
+    "chainId": "uptick_117-1",
+    "logo": "uptick.webp",
+    "snapshotServer": "https://snapshots2.nodejumper.io",
+    "rpcServer": "https://uptick.nodejumper.io",
+    "rpcPeer": "595a77c5ac670fea788829b6df8cb4347fd77412@uptick.nodejumper.io:26656",
+    "binaryName": "uptickd",
+    "homeDirectoryName": ".uptickd",
+    "twitter": "https://twitter.com/uptickproject",
+    "github": "https://github.com/UptickNetwork",
+    "globe": "https://www.uptick.network/",
+    "medium": "https://medium.com/@uptickproject",
+    "discord": "https://discord.gg/w7mYy8btu7",
+    "blockExplorer": "https://uptick.explorers.guru",
+    "validatorUrl": "https://restake.app/uptick/uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
+    "gasDenomName": "auptick",
+    "githubRepoName": "uptick",
+    "isLeaderboardEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.uptick.nodes.guru",
+      "https://uptick-rpc.brocha.in:443",
+      "https://rpc-uptick.mms.team",
+      "https://uptick.rpc.kjnodes.com"
+    ],
+    "externalApiArray": [
+      "https://api-1.uptick.nodes.guru",
+      "https://uptick-rest.brocha.in",
+      "https://api-uptick.mms.team",
+      "https://uptick.api.kjnodes.com"
+    ]
+  },
+  {
+    "id": "nois",
+    "chainName": "nois",
+    "prettyChainName": "Nois Network",
+    "chainId": "nois-1",
+    "logo": "nois.webp",
+    "snapshotServer": "https://snapshots2.nodejumper.io",
+    "rpcServer": "https://nois.nodejumper.io",
+    "rpcPeer": "a5224f7375f156c07c28f336355e4e727699fad5@nois.nodejumper.io:27656",
+    "binaryName": "noisd",
+    "homeDirectoryName": ".noisd",
+    "twitter": "https://twitter.com/NoisNetwork",
+    "github": "https://github.com/noislabs",
+    "globe": "https://nois.network",
+    "discord": "https://discord.com/invite/UzwtKWjTcA",
+    "docs": "https://docs.nois.network",
+    "blockExplorer": "https://nois.explorers.guru",
+    "validatorUrl": "https://restake.app/nois/noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
+    "gasDenomName": "unois",
+    "githubRepoName": "noisd",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.nois.nodes.guru",
+      "https://nois.rpc.kjnodes.com",
+      "https://rpc.noismain.mcbnode.online"
+    ],
+    "externalApiArray": [
+      "https://api-1.nois.nodes.guru",
+      "https://nois.api.kjnodes.com",
+      "https://api.noismain.mcbnode.online"
+    ]
+  },
+  {
+    "id": "kujira",
+    "chainName": "kujira",
+    "prettyChainName": "Kujira",
+    "chainId": "kaiyo-1",
+    "logo": "kujira.svg",
+    "snapshotServer": "https://snapshots2.nodejumper.io",
+    "rpcServer": "https://kujira.nodejumper.io",
+    "rpcPeer": "553dfc2712cd890a423c70fce1f60781a20876ad@kujira.nodejumper.io:28656",
+    "binaryName": "kujirad",
+    "homeDirectoryName": ".kujira",
+    "twitter": "https://twitter.com/TeamKujira",
+    "github": "https://github.com/Team-Kujira",
+    "globe": "https://kujira.app/",
+    "discord": "https://discord.gg/teamkujira",
+    "docs": "https://docs.kujira.app/",
+    "blockExplorer": "https://www.mintscan.io/kujira",
+    "validatorUrl": "https://restake.app/kujira/kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
+    "gasDenomName": "ukuji",
+    "githubRepoName": "core",
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 16RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-kujira.whispernode.com:443",
+      "https://rpc.kaiyo.kujira.setten.io",
+      "https://kujira-rpc.polkachu.com",
+      "https://rpc-kujira.ecostake.com",
+      "https://kujira-rpc.lavenderfive.com:443",
+      "https://rpc.kujira.chaintools.tech",
+      "https://kujira.rpc.kjnodes.com"
+    ],
+    "externalApiArray": [
+      "https://lcd-kujira.whispernode.com:443",
+      "https://lcd.kaiyo.kujira.setten.io",
+      "https://kujira-api.polkachu.com",
+      "https://kujira.api.kjnodes.com",
+      "https://kujira-mainnet-lcd.autostake.com:443"
+    ]
+  },
+  {
+    "id": "terpnetwork",
+    "chainName": "terp",
+    "prettyChainName": "Terp Network",
+    "chainId": "morocco-1",
+    "logo": "terp.webp",
+    "snapshotServer": "https://snapshots2.nodejumper.io",
+    "rpcServer": "https://terpnetwork.nodejumper.io",
+    "rpcPeer": "309ea99a1e55c4a3df66e80d12fc0ff0fed0fa26@terpnetwork.nodejumper.io:29656",
+    "binaryName": "terpd",
+    "homeDirectoryName": ".terp",
+    "twitter": "https://twitter.com/terpculture",
+    "github": "https://github.com/terpnetwork",
+    "globe": "https://terp.network",
+    "docs": "https://docs.terp.network",
+    "discord": "https://discord.gg/CnsMGn47tP",
+    "blockExplorer": "https://terp.zenscan.io",
+    "validatorUrl": "https://restake.app/terpnetwork/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
+    "gasDenomName": "uterp",
+    "githubRepoName": "terp-core",
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-terp.zenchainlabs.io",
+      "https://rpc.terp.network:443",
+      "https://rpc.terp.nodestake.top:443"
+    ],
+    "externalApiArray": [
+      "https://api-terp.zenchainlabs.io:443",
+      "https://rpc.terp.nodestake.top:443",
+      "https://api.terp.network:443"
+    ]
+  },
+  {
+    "id": "firmachain",
+    "chainName": "firmachain",
+    "prettyChainName": "Firmachain",
+    "chainId": "colosseum-1",
+    "logo": "firmachain.svg",
+    "snapshotServer": "https://snapshots2.nodejumper.io",
+    "rpcServer": "https://firmachain.nodejumper.io",
+    "rpcPeer": "742a8f342934bb8391a34c824c141279a3b8d7c5@firmachain.nodejumper.io:30656",
+    "binaryName": "firmachaind",
+    "homeDirectoryName": ".firmachain",
+    "twitter": "https://twitter.com/firmachain",
+    "github": "https://github.com/firmachain",
+    "globe": "https://firmachain.org/",
+    "docs": "https://docs.firmachain.org/",
+    "telegram": "https://t.me/firmachain_global",
+    "medium": "https://medium.com/firmachain",
+    "blockExplorer": "https://explorer.firmachain.dev",
+    "validatorUrl": "https://restake.app/firmachain/firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst",
+    "gasDenomName": "ufct",
+    "githubRepoName": "firmachain",
+    "isWasmOnStateSyncEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 100GB",
+      "recommendedSpecification": "4CPU 8RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://lcd-mainnet.firmachain.dev:26657",
+      "https://rpc.firmachain.chaintools.tech",
+      "https://firmachain-rpc.lavenderfive.com",
+      "https://firmachain-rpc.ramuchi.tech"
+    ],
+    "externalApiArray": [
+      "https://lcd-mainnet.firmachain.dev:1317",
+      "https://api.firmachain.chaintools.tech",
+      "https://firmachain-api.lavenderfive.com",
+      "https://firmachain-api.ramuchi.tech"
+    ]
+  },
+  {
+    "id": "gitopia",
+    "chainName": "gitopia",
+    "prettyChainName": "Gitopia",
+    "chainId": "gitopia",
+    "logo": "gitopia.webp",
+    "snapshotServer": "https://snapshots2.nodejumper.io",
+    "rpcServer": "https://gitopia.nodejumper.io",
+    "rpcPeer": "5b12e0a1c70df1cb0b37de14da1b0cb4e44bd0e5@gitopia.nodejumper.io:32656",
+    "binaryName": "gitopiad",
+    "homeDirectoryName": ".gitopia",
+    "github": "https://gitopia.com/gitopia",
+    "twitter": "https://twitter.com/gitopiaDAO",
+    "globe": "https://gitopia.com",
+    "discord": "https://discord.com/invite/aqsKW3hUHD",
+    "docs": "https://docs.gitopia.com",
+    "blockExplorer": "https://gitopia.exploreme.pro",
+    "validatorUrl": "https://restake.app/gitopia/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4/stake",
+    "gasDenomName": "ulore",
+    "githubRepoName": "gitopia",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://gitopia-rpc.polkachu.com",
+      "https://gitopia.rpc.kjnodes.com",
+      "https://rpc-gitopia.mms.team"
+    ],
+    "externalApiArray": [
+      "https://gitopia-api.polkachu.com",
+      "https://gitopia.api.kjnodes.com",
+      "https://api-gitopia.mms.team"
+    ]
+  },
+  {
+    "id": "humans",
+    "chainName": "humans",
+    "prettyChainName": "Humans AI",
+    "chainId": "humans_1089-1",
+    "logo": "humans.webp",
+    "snapshotServer": "https://snapshots2.nodejumper.io",
+    "rpcServer": "https://humans.nodejumper.io",
+    "rpcPeer": "5889ea00677d3ffa998a18c59f99a23632190c8d@humans.nodejumper.io:33656",
+    "binaryName": "humansd",
+    "homeDirectoryName": ".humansd",
+    "twitter": "https://twitter.com/humansdotai",
+    "github": "https://github.com/humansdotai",
+    "globe": "https://humans.ai",
+    "medium": "https://medium.com/humansdotai",
+    "discord": "https://discord.gg/humansdotai",
+    "docs": "https://docs.humans.zone",
+    "blockExplorer": "https://humans.explorers.guru",
+    "validatorUrl": "https://humans.explorers.guru/validator/humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt",
+    "gasDenomName": "aheart",
+    "githubRepoName": "humans",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.humans.nodes.guru",
+      "https://humans.rpc.kjnodes.com",
+      "https://humans-rpc.staketab.org:443",
+      "https://rpc.humans.nodestake.top",
+      "https://humans-mainnet-rpc.itrocket.net"
+    ],
+    "externalApiArray": [
+      "https://api-1.humans.nodes.guru",
+      "https://humans.api.kjnodes.com",
+      "https://humans-rest.staketab.org"
+    ]
+  },
+  {
+    "id": "agoric",
+    "chainName": "Agoric",
+    "chainId": "agoric-3",
+    "logo": "agoric.webp",
+    "snapshotServer": "https://snapshots2.nodejumper.io",
+    "rpcServer": "https://agoric.nodejumper.io",
+    "rpcPeer": "5ca414e6ca93df904c7382f577c61175666177f5@agoric.nodejumper.io:34656",
+    "binaryName": "agd",
+    "homeDirectoryName": ".agoric",
+    "twitter": "https://twitter.com/agoric",
+    "github": "https://github.com/Agoric",
+    "globe": "https://agoric.com",
+    "telegram": "https://agoric.com/telegram",
+    "discord": "https://discord.com/invite/qDW8DRes4s",
+    "docs": "https://docs.agoric.com",
+    "blockExplorer": "https://agoric.explorers.guru",
+    "validatorUrl": "https://restake.app/agoric/agoricvaloper12ehd03atjwrhrhlpvgsvuqegrmydzz67mw079v/stake",
+    "gasDenomName": "ubld",
+    "githubRepoName": "agoric-sdk",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 16RAM 200GB",
+      "recommendedSpecification": "8CPU 32RAM 500GB"
+    },
+    "externalRpcArray": [
+      "https://main.rpc.agoric.net:443",
+      "https://rpc-1.agoric.nodes.guru",
+      "https://agoric.rpc.kjnodes.com",
+      "https://agoric-rpc.polkachu.com"
+    ],
+    "externalApiArray": [
+      "https://main.api.agoric.net:443",
+      "https://api-1.agoric.nodes.guru",
+      "https://agoric.api.kjnodes.com",
+      "https://agoric-api.polkachu.com"
+    ]
+  },
+  {
+    "id": "composable",
+    "chainName": "Composable",
+    "chainId": "centauri-1",
+    "logo": "composable.webp",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://composable.nodejumper.io",
+    "rpcPeer": "ac4e4746b7c37dd27a0f9f55cf5aca558e1ebc48@composable.nodejumper.io:31656",
+    "binaryName": "centaurid",
+    "homeDirectoryName": ".banksy",
+    "twitter": "https://twitter.com/ComposableFin",
+    "github": "https://github.com/notional-labs",
+    "globe": "https://www.composable.finance/",
+    "medium": "https://composablefi.medium.com/",
+    "docs": "https://docs.composable.finance/",
+    "discord": "https://discord.gg/composable",
+    "telegram": "https://t.me/composablefinance",
+    "githubRepoName": "composable-centauri",
+    "blockExplorer": "https://explorer.kjnodes.com/composable",
+    "validatorUrl": "https://restake.app/composable/centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz/stake",
+    "gasDenomName": "ppica",
+    "externalRpcArray": [
+      "https://composable.rpc.kjnodes.com/",
+      "https://composable-mainnet.rpc.l0vd.com/",
+      "https://rpc.composable.nodestake.top",
+      "https://composable-rpc.genznodev.dev/"
+    ],
+    "externalApiArray": [
+      "https://composable.api.kjnodes.com/",
+      "https://composable-mainnet.api.l0vd.com/",
+      "https://api.composable.nodestake.top/",
+      "https://composable-api.genznodev.dev/"
+    ]
+  },
+  {
+    "id": "sei-testnet",
+    "chainName": "Sei",
+    "chainId": "atlantic-2",
+    "logo": "sei.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://sei-testnet.nodejumper.io",
+    "rpcPeer": "1d3e3c08e5a39e7f211a1b256739aa2a3704e9e1@sei-testnet.nodejumper.io:26656",
+    "binaryName": "seid",
+    "homeDirectoryName": ".sei",
+    "twitter": "https://twitter.com/SeiNetwork",
+    "github": "https://github.com/sei-protocol",
+    "globe": "https://www.seinetwork.io/",
+    "discord": "https://discord.gg/sei",
+    "telegram": "https://t.me/seinetwork",
+    "blockExplorer": "https://sei.explorers.guru",
+    "validatorUrl": "https://sei.explorers.guru/validator/seivaloper1l60fhszfdk9nu6w69v8y8anhvw2m3cmq0d8xzm",
+    "gasDenomName": "usei",
+    "githubRepoName": "sei-chain",
+    "isTestnet": true,
+    "isStateSyncEnabled": false,
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "isAddressBookEnabled": false,
+    "hardwareRequirements": {
+      "minSpecification": "8CPU 32RAM 500GB",
+      "recommendedSpecification": "16CPU 64GB 1TB"
+    },
+    "externalRpcArray": [
+      "https://sei-testnet-2-rpc.brocha.in",
+      "https://rpc-1.sei.nodes.guru",
+      "https://sei-testnet-rpc.polkachu.com"
+    ],
+    "externalApiArray": [
+      "https://sei-testnet-2-rest.brocha.in",
+      "https://api-1.sei.nodes.guru",
+      "https://sei-testnet-api.polkachu.com"
+    ]
+  },
+  {
+    "id": "uptick-testnet",
+    "chainName": "Uptick",
+    "chainId": "uptick_7000-2",
+    "logo": "uptick.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://uptick-testnet.nodejumper.io",
+    "rpcPeer": "9ffdc3cd450758f09e1c31f2548c812a5c86f141@uptick-testnet.nodejumper.io:29656",
+    "binaryName": "uptickd",
+    "homeDirectoryName": ".uptickd",
+    "twitter": "https://twitter.com/uptickproject",
+    "github": "https://github.com/UptickNetwork",
+    "globe": "https://uptick.network",
+    "medium": "https://medium.com/@uptickproject",
+    "discord": "https://discord.gg/w7mYy8btu7",
+    "blockExplorer": "https://explorer.kjnodes.com/uptick-testnet",
+    "validatorUrl": "https://explorer.kjnodes.com/uptick-testnet/staking/uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
+    "gasDenomName": "auptick",
+    "githubRepoName": "uptick",
+    "isTestnet": true,
+    "isArchive": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://uptick-testnet.rpc.kjnodes.com",
+      "https://uptick-testnet-rpc.brocha.in:443"
+    ],
+    "externalApiArray": [
+      "https://uptick-testnet.api.kjnodes.com",
+      "https://uptick-testnet-rest.brocha.in:443"
+    ]
+  },
+  {
+    "id": "cardchain-testnet",
+    "chainName": "Cardchain",
+    "chainId": "Testnet3",
+    "logo": "cardchain.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://cardchain-testnet.nodejumper.io",
+    "rpcPeer": "c33a6ea0c7f82b4cc99f6f62a0e7ffdb3046a345@cardchain-testnet.nodejumper.io:30656",
+    "binaryName": "Cardchaind",
+    "homeDirectoryName": ".Cardchain",
+    "twitter": "https://twitter.com/CrowdControlNet",
+    "github": "https://github.com/DecentralCardGame",
+    "globe": "https://crowdcontrol.network/",
+    "discord": "https://discord.gg/CttUtFH5W4",
+    "blockExplorer": "https://explorer.stavr.tech/cardchain",
+    "validatorUrl": "https://explorer.stavr.tech/cardchain/staking/ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl",
+    "gasDenomName": "ubpf",
+    "isTestnet": true,
+    "githubRepoName": "Cardchain",
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://cardchain-testnet-rpc.itrocket.net",
+      "https://rpc-t.crowd.nodestake.top"
+    ],
+    "externalApiArray": [
+      "https://cardchain-testnet-api.itrocket.net:443",
+      "https://api-t.crowd.nodestake.top",
+      "https://cc.api.t.stavr.tech"
+    ]
+  },
+  {
+    "id": "ollo-testnet",
+    "chainName": "Ollo",
+    "prettyChainName": "OLLO",
+    "chainId": "ollo-testnet-1",
+    "logo": "ollo.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://ollo-testnet.nodejumper.io",
+    "rpcPeer": "6aa3e31cc85922be69779df9747d7a08326a44f2@ollo-testnet.nodejumper.io:28656",
+    "binaryName": "ollod",
+    "homeDirectoryName": ".ollo",
+    "twitter": "https://twitter.com/OllOStation",
+    "github": "https://github.com/OllO-Station",
+    "telegram": "https://t.me/+s8i4AKk0Tt44Yzgx",
+    "globe": "https://www.ollostation.zone",
+    "discord": "https://discord.gg/bmDSF7jtZP",
+    "blockExplorer": "https://ollo.explorers.guru/",
+    "validatorUrl": "https://ollo.explorers.guru/validator/ollovaloper1dw8n8wygrf7ylaf6qcly2wf3k9q0ffwy22nej4",
+    "gasDenomName": "utollo",
+    "githubRepoName": "ollo",
+    "isTestnet": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.ollo.nodes.guru",
+      "https://ollo-testnet.rpc.kjnodes.com"
+    ],
+    "externalApiArray": [
+      "https://api-1.ollo.nodes.guru",
+      "https://ollo-testnet.api.kjnodes.com"
+    ]
+  },
+  {
+    "id": "okp4-testnet",
+    "chainName": "OKP4",
+    "chainId": "okp4-nemeton-1",
+    "logo": "okp4.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://okp4-testnet.nodejumper.io",
+    "rpcPeer": "8d8fdad759361a57121903632adbd66ad072b1ab@okp4-testnet.nodejumper.io:29656",
+    "binaryName": "okp4d",
+    "homeDirectoryName": ".okp4d",
+    "twitter": "https://twitter.com/OKP4_Protocol",
+    "github": "https://github.com/okp4",
+    "medium": "https://blog.okp4.network",
+    "globe": "https://okp4.network",
+    "discord": "https://discord.gg/nfPMBqc7Qe",
+    "blockExplorer": "https://okp4.explorers.guru",
+    "validatorUrl": "https://okp4.explorers.guru/validator/okp4valoper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6eu6nelp",
+    "gasDenomName": "uknow",
+    "githubRepoName": "okp4d",
+    "isTestnet": true,
+    "hardwareRequirements": {
+      "minSpecification": "2CPU 4RAM 100GB",
+      "recommendedSpecification": "2CPU 8RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.okp4.nodes.guru",
+      "https://okp4-testnet.rpc.kjnodes.com",
+      "https://okp4-rpc.42cabi.net"
+    ],
+    "externalApiArray": [
+      "https://api-1.okp4.nodes.guru",
+      "https://okp4-testnet.api.kjnodes.com",
+      "https://okp4-api.42cabi.net"
+    ]
+  },
+  {
+    "id": "nibiru-testnet",
+    "chainName": "nibiru",
+    "prettyChainName": "Nibiru Chain",
+    "chainId": "nibiru-itn-1",
+    "logo": "nibiru.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://nibiru-testnet.nodejumper.io",
+    "rpcPeer": "a1b96d1437fb82d3d77823ecbd565c6268f06e34@nibiru-testnet.nodejumper.io:27656",
+    "binaryName": "nibid",
+    "homeDirectoryName": ".nibid",
+    "twitter": "https://twitter.com/NibiruChain",
+    "github": "https://github.com/NibiruChain",
+    "globe": "https://nibiru.fi",
+    "discord": "https://discord.com/invite/zjkzZwrez5",
+    "medium": "https://blog.nibiru.fi/",
+    "blockExplorer": "https://explorer.nibiru.fi/nibiru-itn-1",
+    "validatorUrl": "https://explorer.nibiru.fi/nibiru-itn-1/staking/nibivaloper1r9kmadqs9nsppn4wz5yp4rw8zn9545rcueqhyr",
+    "gasDenomName": "unibi",
+    "githubRepoName": "nibiru",
+    "isTestnet": true,
+    "isWasmOnStateSyncEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.nibiru.nodes.guru",
+      "https://nibiru-testnet.rpc.kjnodes.com",
+      "https://rpc-nibiru.nodeist.net"
+    ],
+    "externalApiArray": [
+      "https://api-1.nibiru.nodes.guru",
+      "https://nibiru-testnet.api.kjnodes.com"
+    ]
+  },
+  {
+    "id": "defund-testnet",
+    "chainName": "defund",
+    "prettyChainName": "DeFund Finance",
+    "chainId": "orbit-alpha-1",
+    "logo": "defund.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://defund-testnet.nodejumper.io",
+    "rpcPeer": "fd3353908a1e3eedb019451b2e55054bca2e5303@defund-testnet.nodejumper.io:28656",
+    "binaryName": "defundd",
+    "homeDirectoryName": ".defund",
+    "twitter": "https://twitter.com/defund_finance",
+    "github": "https://github.com/defund-labs",
+    "globe": "https://defund.app",
+    "discord": "https://discord.gg/UsER6bWuUq",
+    "blockExplorer": "https://defund.explorers.guru",
+    "validatorUrl": "https://defund.explorers.guru/validator/defundvaloper1lgjudr8nz4p772m04h5rdz66xks3q6jxgaf297",
+    "isTestnet": true,
+    "isStateSyncEnabled": false,
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "gasDenomName": "ufetf",
+    "githubRepoName": "defund",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.defund.nodes.guru",
+      "https://defund-testnet.rpc.kjnodes.com",
+      "https://defund.rpc.bccnodes.com"
+    ],
+    "externalApiArray": [
+      "https://api-1.defund.nodes.guru",
+      "https://defund-testnet.api.kjnodes.com",
+      "https://defund.api.bccnodes.com"
+    ]
+  },
+  {
+    "id": "celestia-testnet",
+    "chainName": "Celestia",
+    "chainId": "mocha",
+    "logo": "celestia.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://celestia-testnet.nodejumper.io",
+    "rpcPeer": "e5fa03c0d18d1e51182a7d787fc25c3e57f03d7b@celestia-testnet.nodejumper.io:29656",
+    "binaryName": "celestia-appd",
+    "homeDirectoryName": ".celestia-app",
+    "twitter": "https://twitter.com/CelestiaOrg",
+    "telegram": "https://t.me/CelestiaCommunity",
+    "github": "https://github.com/celestiaorg",
+    "globe": "https://celestia.org/",
+    "discord": "https://discord.gg/kUSueaB22b",
+    "isTestnet": true,
+    "blockExplorer": "https://celestia.explorers.guru/",
+    "validatorUrl": "https://celestia.explorers.guru/validator/celestiavaloper1aecswhtwadfdzunq38zqcfsc29hg64tcv8jcpg",
+    "gasDenomName": "utia",
+    "githubRepoName": "celestia-app",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 250GB",
+      "recommendedSpecification": "8CPU 16RAM 500GB"
+    },
+    "regularBlockTime": 300,
+    "isStateSyncEnabled": false,
+    "externalRpcArray": [
+      "https://rpc-1.celestia.nodes.guru",
+      "https://rpc-t.celestia.nodestake.top",
+      "https://celestia-testnet-rpc.brocha.in:443",
+      "https://rpc-celestia.nodeist.net"
+    ],
+    "externalApiArray": [
+      "https://api-1.celestia.nodes.guru",
+      "https://api-t.celestia.nodestake.top",
+      "https://celestia-testnet-rest.brocha.in:443",
+      "https://api-celestia.nodeist.net"
+    ]
+  },
+  {
+    "id": "lava-testnet",
+    "chainName": "lava",
+    "prettyChainName": "Lava Network",
+    "chainId": "lava-testnet-1",
+    "logo": "lava.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://lava-testnet.nodejumper.io",
+    "rpcPeer": "37fc77cca6c945d12c6e54166c3b9be2802ad1e6@lava-testnet.nodejumper.io:27656",
+    "binaryName": "lavad",
+    "homeDirectoryName": ".lava",
+    "github": "https://github.com/lavanet",
+    "twitter": "https://twitter.com/lavanetxyz",
+    "globe": "https://lavanet.xyz",
+    "discord": "https://discord.com/invite/5VcqgwMmkA",
+    "docs": "https://docs.lavanet.xyz",
+    "blockExplorer": "https://lava.explorers.guru",
+    "validatorUrl": "https://lava.explorers.guru/validator/lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty",
+    "isTestnet": true,
+    "isStateSyncEnabled": false,
+    "gasDenomName": "ulava",
+    "githubRepoName": "lava",
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "regularBlockTime": 300,
+    "externalRpcArray": [
+      "https://rpc-1.lava.nodes.guru",
+      "https://lava-testnet.rpc.kjnodes.com",
+      "https://t-lava.rpc.utsa.tech"
+    ],
+    "externalApiArray": [
+      "https://api-1.lava.nodes.guru",
+      "https://lava-testnet.api.kjnodes.com",
+      "https://t-lava.api.utsa.tech"
+    ]
+  },
+  {
+    "id": "babylon-testnet",
+    "chainName": "Babylon",
+    "chainId": "bbn-test-2",
+    "logo": "babylon.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://babylon-testnet.nodejumper.io",
+    "rpcPeer": "88bed747abef320552d84d02947d0dd2b6d9c71c@babylon-testnet.nodejumper.io:44656",
+    "binaryName": "babylond",
+    "homeDirectoryName": ".babylond",
+    "github": "https://github.com/babylonchain",
+    "twitter": "https://twitter.com/babylon_chain",
+    "globe": "https://babylonchain.io",
+    "discord": "https://discord.gg/babylonglobal",
+    "blockExplorer": "https://babylon.explorers.guru",
+    "validatorUrl": "https://babylon.explorers.guru/validator/bbnvaloper1d6z48lnw0g9l8ndumsy9r4cc5xw334mgqf3g68",
+    "isTestnet": true,
+    "gasDenomName": "ubbn",
+    "githubRepoName": "babylon",
+    "isWasmOnRootLevelEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.babylon.nodes.guru",
+      "https://babylon.rpc.yeksin.net",
+      "https://rpc-babylon.nodeist.net"
+    ],
+    "externalApiArray": [
+      "https://api-1.babylon.nodes.guru",
+      "https://babylon.api.yeksin.net",
+      "https://api-babylon.nodeist.net"
+    ]
+  },
+  {
+    "id": "andromeda-testnet",
+    "chainName": "Andromeda",
+    "chainId": "galileo-3",
+    "logo": "andromeda.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://andromeda-testnet.nodejumper.io",
+    "rpcPeer": "9d058b4c4eb63122dfab2278d8be1bf6bf07f9ef@andromeda-testnet.nodejumper.io:26656",
+    "binaryName": "andromedad",
+    "homeDirectoryName": ".andromedad",
+    "twitter": "https://twitter.com/andromedaprot",
+    "github": "https://github.com/andromedaprotocol",
+    "globe": "https://www.andromedaprotocol.io/",
+    "discord": "https://discord.gg/EtSRGbPEXP",
+    "telegram": "https://t.me/andromedaprotocol",
+    "docs": "https://docs.andromedaprotocol.io/andromeda/platform-and-framework/introduction",
+    "blockExplorer": "https://andromeda.explorers.guru/",
+    "validatorUrl": "https://andromeda.explorers.guru/validator/andrvaloper1p04a3zkxkjayepwtud2gufyht3hxs36ufm7twl",
+    "gasDenomName": "uandr",
+    "githubRepoName": "andromedad",
+    "isTestnet": true,
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.andromeda.nodes.guru",
+      "https://andromeda-testnet-rpc.itrocket.net",
+      "https://rpc.andromeda-tn.elationodes.xyz"
+    ],
+    "externalApiArray": [
+      "https://api-1.andromeda.nodes.guru",
+      "https://andromeda-testnet-api.itrocket.net",
+      "https://api.andromeda-tn.elationodes.xyz"
+    ]
+  },
+  {
+    "id": "dymension-testnet",
+    "chainName": "Dymension",
+    "chainId": "35-C",
+    "logo": "dymension.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://dymension-testnet.nodejumper.io",
+    "rpcPeer": "76fb074cb54791afa399979ca863da211404bad6@dymension-testnet.nodejumper.io:27656",
+    "binaryName": "dymd",
+    "homeDirectoryName": ".dymension",
+    "twitter": "https://twitter.com/dymensionXYZ",
+    "github": "https://github.com/dymensionxyz",
+    "globe": "https://dymension.xyz/",
+    "discord": "https://discord.com/invite/dymension",
+    "telegram": "https://t.me/dymensionXYZ",
+    "medium": "https://medium.com/@dymensionXYZ",
+    "docs": "https://docs.dymension.xyz/",
+    "blockExplorer": "https://exp.utsa.tech/dymension-test",
+    "validatorUrl": "https://exp.utsa.tech/dymension-test/staking/dymvaloper18j3ancg4tvtq559k5x8xzsat2gs3q3ujehruq2",
+    "gasDenomName": "udym",
+    "githubRepoName": "dymension",
+    "isTestnet": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.dymension.nodes.guru",
+      "https://rpc.dym.apramweb.tech",
+      "https://rpc-t.dymension.nodestake.top"
+    ],
+    "externalApiArray": [
+      "https://api-1.dymension.nodes.guru",
+      "https://api.dym.apramweb.tech",
+      "https://dymension.api.t.stavr.tech"
+    ]
+  },
+  {
+    "id": "althea-testnet",
+    "chainName": "Althea",
+    "chainId": "althea_7357-1",
+    "logo": "althea.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://althea-testnet.nodejumper.io",
+    "rpcPeer": "695f6de1a39a5f189015a50ef5f9df144a76b4d8@althea-testnet.nodejumper.io:36656",
+    "binaryName": "althea",
+    "serviceName": "althead",
+    "homeDirectoryName": ".althea",
+    "twitter": "https://twitter.com/AltheaNetwork",
+    "github": "https://github.com/althea-net",
+    "globe": "https://www.althea.net",
+    "discord": "https://discord.gg/ZxrhxebZA8",
+    "blockExplorer": "https://althea.explorers.guru",
+    "validatorUrl": "https://althea.explorers.guru/validator/altheavaloper1u8952g337qtgkszzmz3vr5ykkyf3gddxt88uk0",
+    "gasDenomName": "ualthea",
+    "denomExponent": 18,
+    "githubRepoName": "althea-chain",
+    "isTestnet": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://althea.rpc.yeksin.net",
+      "https://althea.api.bccnodes.com",
+      "https://althea.rpc.skynodejs.net"
+    ],
+    "externalApiArray": [
+      "https://althea.api.yeksin.net",
+      "https://althea.api.bccnodes.com",
+      "https://althea.api.skynodejs.net"
+    ]
+  },
+  {
+    "id": "ojo-testnet",
+    "chainName": "Ojo",
+    "chainId": "ojo-devnet",
+    "logo": "ojo.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://ojo-testnet.nodejumper.io",
+    "rpcPeer": "17a5fad48064ee3da42f435925f7bbe055e6348d@ojo-testnet.nodejumper.io:37656",
+    "binaryName": "ojod",
+    "homeDirectoryName": ".ojo",
+    "twitter": "https://twitter.com/ojo_network",
+    "github": "https://github.com/ojo-network",
+    "globe": "https://ojo.network",
+    "discord": "https://discord.gg/rneu743gKf",
+    "telegram": "https://t.me/OjoNetwork",
+    "blockExplorer": "https://ojo.explorers.guru/",
+    "validatorUrl": "https://ojo.explorers.guru/validator/ojovaloper1ela8c0jhqgjsj2cq7twu9uhda2n8e6cslz0wnw",
+    "gasDenomName": "uojo",
+    "githubRepoName": "ojo",
+    "isTestnet": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.ojo.nodes.guru",
+      "https://ojo-testnet.rpc.kjnodes.com",
+      "https://rpc.ojo-t.indonode.net"
+    ],
+    "externalApiArray": [
+      "https://api-1.ojo.nodes.guru",
+      "https://ojo-testnet.api.kjnodes.com",
+      "https://api.ojo-t.indonode.net"
+    ]
+  },
+  {
+    "id": "humans-testnet",
+    "chainName": "humans",
+    "prettyChainName": "Humans AI",
+    "chainId": "humans_3000-31",
+    "logo": "humans.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://humans-testnet.nodejumper.io",
+    "rpcPeer": "907cb9da5d7d7182a80a6e38aad59bd067059bb3@humans-testnet.nodejumper.io:26656",
+    "binaryName": "humansd",
+    "homeDirectoryName": ".humansd",
+    "twitter": "https://twitter.com/humansdotai",
+    "github": "https://github.com/humansdotai",
+    "globe": "https://humans.ai",
+    "medium": "https://medium.com/humansdotai",
+    "discord": "https://discord.gg/humansdotai",
+    "docs": "https://docs.humans.zone",
+    "blockExplorer": "https://explorer.humans.zone",
+    "validatorUrl": "https://explorer.humans.zone/humans-testnet/staking/humanvaloper1nl28wjjnue6lv83wh4le06hc5rnj7a30hvc5sm",
+    "isTestnet": true,
+    "gasDenomName": "aheart",
+    "githubRepoName": "humans",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://humans-testnet-rpc.itrocket.net",
+      "https://rpc-t.humans.nodestake.top",
+      "https://rpc-1.humans.nodes.guru"
+    ],
+    "externalApiArray": [
+      "https://humans-testnet-api.itrocket.net",
+      "https://api-t.humans.nodestake.top",
+      "https://api-1.humans.nodes.guru"
+    ]
+  },
+  {
+    "id": "cascadia-testnet",
+    "chainName": "Cascadia",
+    "chainId": "cascadia_6102-1",
+    "logo": "cascadia.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://cascadia-testnet.nodejumper.io",
+    "rpcPeer": "fd92709f34b393b01b329c11dc0c41c7c4a2fcef@cascadia-testnet.nodejumper.io:38656",
+    "binaryName": "cascadiad",
+    "homeDirectoryName": ".cascadiad",
+    "twitter": "https://twitter.com/CascadiaSystems",
+    "github": "https://github.com/cascadiafoundation",
+    "globe": "https://www.cascadia.foundation",
+    "medium": "https://medium.com/@CascadiaFoundation",
+    "discord": "https://discord.com/invite/cascadia",
+    "telegram": "https://t.me/CascadiaFoundation",
+    "blockExplorer": "https://testnet.cascadia.explorers.guru",
+    "validatorUrl": "https://testnet.cascadia.explorers.guru/validator/cascadiavaloper104g6jcsg6fmmvn2a2t0nqg4ex68xgqdt4yvxh2",
+    "isTestnet": true,
+    "gasDenomName": "aCC",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.testnet.cascadia.nodes.guru",
+      "https://cascadia-testnet.rpc.kjnodes.com",
+      "https://rpc-cascadia-testnet.mms.team",
+      "https://cascadia-testnet-rpc.itrocket.net:443"
+    ],
+    "externalApiArray": [
+      "https://api-1.testnet.cascadia.nodes.guru",
+      "https://cascadia-testnet.api.kjnodes.com",
+      "https://api-cascadia-testnet.mms.team",
+      "https://cascadia-testnet-api.itrocket.net:443"
+    ]
+  },
+  {
+    "id": "archway-testnet",
+    "chainName": "Archway",
+    "chainId": "constantine-3",
+    "logo": "archway.png",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://archway-testnet.nodejumper.io",
+    "rpcPeer": "900950a031cb758b761198e52b07fcc17616bd76@archway-testnet.nodejumper.io:40656",
+    "binaryName": "archwayd",
+    "homeDirectoryName": ".archway",
+    "twitter": "https://twitter.com/archwayhq",
+    "github": "https://github.com/archway-network",
+    "globe": "https://archway.io/",
+    "discord": "https://discord.gg/5FVvx3WGfa",
+    "telegram": "https://t.me/archway_hq",
+    "blockExplorer": "https://testnet.mintscan.io/archway-testnet",
+    "validatorUrl": "https://testnet.mintscan.io/archway-testnet/validators/archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx",
+    "isTestnet": true,
+    "gasDenomName": "aconst",
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc.constantine.archway.tech",
+      "https://archway-testnet.rpc.kjnodes.com"
+    ],
+    "externalApiArray": [
+      "https://api.constantine.archway.tech",
+      "https://archway-testnet.api.kjnodes.com"
+    ]
+  },
+  {
+    "id": "bitcanna-testnet",
+    "chainName": "Bitcanna",
+    "chainId": "bitcanna-dev-1",
+    "logo": "bitcanna.svg",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://bitcanna-testnet.nodejumper.io",
+    "rpcPeer": "d592a4e7dbdae33d0ed6c6248e582dcab5d38c87@bitcanna-testnet.nodejumper.io:41656",
+    "binaryName": "bcnad",
+    "homeDirectoryName": ".bcna",
+    "twitter": "https://twitter.com/BitCannaGlobal",
+    "github": "https://github.com/BitCannaGlobal",
+    "globe": "https://www.bitcanna.io",
+    "medium": "https://medium.com/@bitcannaglobal",
+    "docs": "https://docs.bitcanna.io/",
+    "discord": "https://discord.gg/GaubcRyg3t",
+    "blockExplorer": "https://testnet.ping.pub/bitcanna",
+    "validatorUrl": "https://testnet.ping.pub/bitcanna/staking/bcnavaloper14dk9qlwqc272kag6q99rugm6rqj30fwa7gh0f2",
+    "gasDenomName": "ubcna",
+    "githubRepoName": "bcna",
+    "isTestnet": true,
+    "externalRpcArray": [
+      "https://rpc-testnet.bitcanna.io/",
+      "https://bitcanna-testnet.rpc.kjnodes.com/",
+      "https://testnet-bitcanna-rpc.konsortech.xyz/"
+    ],
+    "externalApiArray": [
+      "https://bitcanna-testnet.api.kjnodes.com/",
+      "https://api.bitcanna-dev-1.bitcanna.aviaone.com/",
+      "https://testnet-bitcanna-api.konsortech.xyz/"
+    ]
+  },
+  {
+    "id": "composable-testnet",
+    "chainName": "Composable",
+    "chainId": "banksy-testnet-2",
+    "logo": "composable.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://composable-testnet.nodejumper.io",
+    "rpcPeer": "8b25a4db346430963f94b383898c5b09b5c6ba91@composable-testnet.nodejumper.io:30656",
+    "binaryName": "banksyd",
+    "homeDirectoryName": ".banksy",
+    "twitter": "https://twitter.com/ComposableFin",
+    "github": "https://github.com/notional-labs",
+    "globe": "https://www.composable.finance/",
+    "medium": "https://composablefi.medium.com/",
+    "docs": "https://docs.composable.finance/",
+    "discord": "https://discord.gg/composable",
+    "telegram": "https://t.me/composablefinance",
+    "blockExplorer": "https://composable.exploreme.pro/dashboard",
+    "validatorUrl": "https://composable.exploreme.pro/validator/banksyvaloper19s29u5araztclpum4em5pf7fzw04pw6f6mxhj4",
+    "gasDenomName": "upica",
+    "githubRepoName": "composable-centauri",
+    "isTestnet": true,
+    "externalRpcArray": [
+      "https://composable-testnet.rpc.kjnodes.com/",
+      "https://rpc-composable.nodeist.net"
+    ],
+    "externalApiArray": [
+      "https://composable-testnet.api.kjnodes.com/",
+      "https://api-composable.nodeist.net"
+    ]
+  },
+  {
+    "id": "banksy-testnet-3",
+    "chainName": "Composable",
+    "chainId": "banksy-testnet-3",
+    "logo": "composable.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://banksy-testnet-3.nodejumper.io",
+    "rpcPeer": "0038c200adc435ad9a21cde4e945fe2f48f405ff@banksy-testnet-3.nodejumper.io:34656",
+    "binaryName": "centaurid",
+    "homeDirectoryName": ".banksy",
+    "twitter": "https://twitter.com/ComposableFin",
+    "github": "https://github.com/notional-labs",
+    "globe": "https://www.composable.finance/",
+    "medium": "https://composablefi.medium.com/",
+    "docs": "https://docs.composable.finance/",
+    "discord": "https://discord.gg/composable",
+    "telegram": "https://t.me/composablefinance",
+    "blockExplorer": "https://explorer.kjnodes.com/composable-testnet/",
+    "validatorUrl": "https://explorer.kjnodes.com/composable-testnet/staking/centaurivaloper19s29u5araztclpum4em5pf7fzw04pw6fswz4uv",
+    "gasDenomName": "ppica",
+    "githubRepoName": "composable-centauri",
+    "isTestnet": true,
+    "externalRpcArray": [
+      "https://composable-testnet.rpc.kjnodes.com/",
+      "https://composable-testnet-3.rpc.l0vd.com/",
+      "https://rpc-composable.nodeist.net/"
+    ],
+    "externalApiArray": [
+      "https://composable-testnet.api.kjnodes.com/",
+      "https://composable-testnet-3.api.l0vd.com/",
+      "https://api-composable.nodeist.net/"
+    ]
+  },
+  {
+    "id": "empower-testnet",
+    "chainName": "empower",
+    "prettyChainName": "Empower Chain",
+    "chainId": "circulus-1",
+    "logo": "empower.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://empower-testnet.nodejumper.io",
+    "rpcPeer": "b897014f22e932e461e7fc98353a57d642dbe16e@empower-testnet.nodejumper.io:32656",
+    "binaryName": "empowerd",
+    "homeDirectoryName": ".empowerchain",
+    "twitter": "https://twitter.com/empowerchain_io",
+    "github": "https://github.com/empowerchain",
+    "globe": "https://www.empowerchain.io",
+    "discord": "https://discord.gg/xVMWBreSfN",
+    "telegram": "https://t.me/empowerchain",
+    "blockExplorer": "https://empower.explorers.guru",
+    "validatorUrl": "https://empower.explorers.guru/validator/empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
+    "gasDenomName": "umpwr",
+    "isTestnet": true,
+    "isStateSyncEnabled": false,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://rpc.circulus-1.empower.aviaone.com",
+      "https://rpc-t.empower.nodestake.top",
+      "https://empower-testnet-rpc.polkachu.com"
+    ],
+    "externalApiArray": [
+      "https://api.circulus-1.empower.aviaone.com",
+      "https://api-t.empower.nodestake.top",
+      "https://empower-testnet-api.polkachu.com"
+    ]
+  },
+  {
+    "id": "zetachain-testnet",
+    "chainName": "zetachain",
+    "prettyChainName": "ZetaChain",
+    "chainId": "athens_7001-1",
+    "logo": "zetachain.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://zetachain-testnet.nodejumper.io",
+    "rpcPeer": "9eb53fceff1e992bdc11c09c9bdafef502770cfe@zetachain-testnet.nodejumper.io:31656",
+    "binaryName": "zetacored",
+    "homeDirectoryName": ".zetacored",
+    "twitter": "https://twitter.com/zetablockchain",
+    "github": "https://github.com/zeta-chain",
+    "globe": "https://www.zetachain.com/",
+    "discord": "https://discord.gg/zetachain",
+    "telegram": "https://t.me/zetachainofficial",
+    "docs": "https://www.zetachain.com/docs/",
+    "blockExplorer": "https://zetachain.exploreme.pro",
+    "validatorUrl": "https://zetachain.exploreme.pro/validator/zetavaloper1meq97nclpc3vd9zj6y43wvgfncshqg2l9lwg94",
+    "gasDenomName": "azeta",
+    "isTestnet": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 300GB",
+      "recommendedSpecification": "8CPU 32RAM 300GB"
+    },
+    "externalRpcArray": [
+      "https://zetachain-testnet.rpc.kjnodes.com/"
+    ],
+    "externalApiArray": [
+      "https://zetachain-testnet.api.kjnodes.com/"
+    ]
+  },
+  {
+    "id": "noria-testnet",
+    "chainName": "Noria",
+    "chainId": "oasis-3",
+    "logo": "noria.png",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://noria-testnet.nodejumper.io",
+    "rpcPeer": "725c9918c40ab15d4309f0dc38c0040d809babdf@noria-testnet.nodejumper.io:33656",
+    "binaryName": "noriad",
+    "homeDirectoryName": ".noria",
+    "twitter": "https://twitter.com/NoriaNetwork",
+    "github": "https://github.com/noria-net",
+    "globe": "https://noria.network",
+    "discord": "https://discord.gg/cMVTyavpNN",
+    "blockExplorer": "https://app.noria.network/noria",
+    "validatorUrl": "https://app.noria.network/noria/staking/noriavaloper18mvny5jpve6lmtvykxn7uslnlnwts3y2w4rmtu",
+    "gasDenomName": "ucrd",
+    "stakingDenomName": "unoria",
+    "isTestnet": true,
+    "isWasmOnRootLevelEnabled": true,
+    "isWasmOnStateSyncEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://noria-testnet.rpc.kjnodes.com",
+      "https://rpc-t.noria.nodestake.top",
+      "https://noria-testnet-rpc.polkachu.com",
+      "https://rpc-noria.nodeist.net"
+    ],
+    "externalApiArray": [
+      "https://noria-testnet.api.kjnodes.com",
+      "https://api-t.noria.nodestake.top",
+      "https://noria-testnet-api.polkachu.com",
+      "https://api-noria.nodeist.net",
+      "https://noria.api.t.stavr.tech"
+    ]
+  },
+  {
+    "id": "another1-testnet",
+    "chainName": "Another-1",
+    "chainId": "anone-testnet-1",
+    "logo": "another1.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcPeer": "2b540c43d640befc35959eb062c8505612b7d67f@another1-testnet.nodejumper.io:26656",
+    "binaryName": "anoned",
+    "homeDirectoryName": ".anone",
+    "twitter": "https://twitter.com/AN1official",
+    "github": "https://github.com/notional-labs",
+    "globe": "https://another-1.io",
+    "medium": "https://medium.com/@TharsisHQ",
+    "discord": "https://discord.gg/wHP4sYwHCJ",
+    "validatorUrl": "https://anone.explorers.guru/validator/onevaloper1fngfsax3w9mywln2njh5s3nf92nyfaueqg6jhy",
+    "gasDenomName": "uan1",
+    "githubRepoName": "anone",
+    "isTestnet": true,
+    "isArchive": true
+  },
+  {
+    "id": "quicksilver-testnet",
+    "chainName": "Quicksilver",
+    "chainId": "killerqueen-1",
+    "logo": "quicksilver.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcPeer": "420ddb75ac0c0eb27d46c41007f18a0bf5588fc0@quicksilver-testnet.nodejumper.io:31656",
+    "binaryName": "quicksilverd",
+    "homeDirectoryName": ".quicksilverd",
+    "twitter": "https://twitter.com/quicksilverzone",
+    "github": "https://github.com/ingenuity-build",
+    "globe": "https://quicksilver.zone/",
+    "medium": "https://medium.com/quicksilverzone",
+    "discord": "https://discord.gg/6BXWvuGZYn",
+    "blockExplorer": "https://quicksilver.explorers.guru",
+    "validatorUrl": "https://quicksilver.explorers.guru/validator/quickvaloper159njc3xk0xv76x323936frgwxf9zn3wvp0dj8n",
+    "gasDenomName": "uqck",
+    "githubRepoName": "quicksilver",
+    "testnetTasksLink": "https://github.com/ingenuity-build/testnets/blob/main/killerqueen/VALIDATOR_TASKS.md",
+    "isTestnet": true,
+    "isArchive": true
+  },
+  {
+    "id": "rebus-testnet",
+    "chainName": "Rebus",
+    "chainId": "reb_3333-1",
+    "logo": "rebus.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcPeer": "cfaaa1aa3b47a3d457bd7bad4ca54a18829b83cc@rebus-testnet.nodejumper.io:29656",
+    "binaryName": "rebusd",
+    "homeDirectoryName": ".rebusd",
+    "twitter": "https://twitter.com/RebusChain",
+    "github": "https://github.com/rebuschain",
+    "globe": "https://www.rebuschain.com",
+    "discord": "https://discord.gg/cBGpcyHmBH",
+    "medium": "https://medium.com/@RebusChain",
+    "blockExplorer": "https://rebus.explorers.guru",
+    "validatorUrl": "https://rebus.explorers.guru/validator/rebusvaloper1nntq6xqgcpjgpuz5jl85lhatpmlefywfvrd70f",
+    "gasDenomName": "arebus",
+    "githubRepoName": "rebus.core",
+    "isTestnet": true,
+    "isArchive": true
+  },
+  {
+    "id": "stafihub-testnet",
+    "chainName": "StaFiHub",
+    "chainId": "stafihub-public-testnet-3",
+    "logo": "stafihub.svg",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcPeer": "4b5afbe0bd0d128f98943c0f2941976bd3fb0b9b@stafihub-testnet.nodejumper.io:26656",
+    "binaryName": "stafihubd",
+    "homeDirectoryName": ".stafihub",
+    "twitter": "https://twitter.com/StaFiHub_",
+    "github": "https://github.com/stafihub",
+    "globe": "https://www.stafihub.io",
+    "discord": "https://discord.gg/98GuF8AE3D",
+    "blockExplorer": "https://testnet-explorer.stafihub.io/stafi-hub-testnet",
+    "validatorUrl": "https://restake.app/stafihub/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv/stake",
+    "gasDenomName": "ufis",
+    "githubRepoName": "stafihub",
+    "isTestnet": true,
+    "isArchive": true
+  },
+  {
+    "id": "stride-testnet",
+    "chainName": "Stride",
+    "chainId": "STRIDE-TESTNET-4",
+    "logo": "stride.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcPeer": "17b24705533d633cb3501233a18912ae6cc36a41@stride-testnet.nodejumper.io:28656",
+    "binaryName": "strided",
+    "homeDirectoryName": ".stride",
+    "twitter": "https://twitter.com/stride_zone",
+    "github": "https://github.com/Stride-Labs",
+    "globe": "https://stride.zone/",
+    "discord": "https://discord.gg/ut6JucWWR3",
+    "blockExplorer": "https://stride.explorers.guru",
+    "validatorUrl": "https://stride.explorers.guru/validator/stridevaloper1l8vtxx634c6hkqr0q3zccnsk0dj3njlvwq0faf",
+    "gasDenomName": "ustrd",
+    "testnetTasksLink": "https://github.com/Stride-Labs/testnet/tree/main/incentivized-testnet",
+    "githubRepoName": "stride",
+    "isTestnet": true,
+    "isArchive": true
+  },
+  {
+    "id": "empower-testnet",
+    "chainName": "empower",
+    "prettyChainName": "Empower Chain",
+    "chainId": "altruistic-1",
+    "logo": "empower.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcPeer": "ca8b9d5fecd3258cb8bb4164017114898cd63ad5@empower-testnet.nodejumper.io:31656",
+    "binaryName": "empowerd",
+    "homeDirectoryName": ".empowerchain",
+    "twitter": "https://twitter.com/empowerchain_io",
+    "github": "https://github.com/empowerchain",
+    "globe": "https://www.empowerchain.io",
+    "discord": "https://discord.gg/xVMWBreSfN",
+    "telegram": "https://t.me/empowerchain",
+    "blockExplorer": "https://empower.explorers.guru",
+    "validatorUrl": "https://empower.explorers.guru/validator/empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
+    "gasDenomName": "umpwr",
+    "isStateSyncEnabled": false,
+    "isTestnet": true,
+    "isArchive": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    }
+  },
+  {
+    "id": "pylons-testnet",
+    "chainName": "Pylons",
+    "chainId": "pylons-testnet-3",
+    "logo": "pylons.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcPeer": "910875c9577b0b51179ca8ab485196bab7c9b892@pylons-testnet.nodejumper.io:28656",
+    "binaryName": "pylonsd",
+    "homeDirectoryName": ".pylons",
+    "twitter": "https://twitter.com/pylonstech",
+    "github": "https://github.com/Pylons-tech",
+    "globe": "https://www.pylons.tech",
+    "discord": "https://discord.com/invite/pylons",
+    "isTestnet": true,
+    "isArchive": true,
+    "isStateSyncEnabled": false,
+    "blockExplorer": "https://pylons.explorers.guru",
+    "validatorUrl": "https://pylons.explorers.guru/validator/pylovaloper198f2dvdx8hprdtghqhg2823vhh9xltskjjf8ak",
+    "gasDenomName": "ubedrock",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 160GB",
+      "recommendedSpecification": "8CPU 16RAM 500GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.pylons.nodes.guru"
+    ]
+  },
+  {
+    "id": "haqq-testnet",
+    "chainName": "haqq",
+    "prettyChainName": "Haqq Network",
+    "chainId": "haqq_54211-3",
+    "logo": "haqq.svg",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcPeer": "eba8c88bb316eb42deed201c84013d2a945537f4@haqq-testnet.nodejumper.io:30656",
+    "binaryName": "haqqd",
+    "homeDirectoryName": ".haqqd",
+    "twitter": "https://twitter.com/Islamic_coin",
+    "github": "https://github.com/haqq-network",
+    "telegram": "https://t.me/islamiccoin_int",
+    "globe": "https://islamiccoin.net/",
+    "discord": "https://discord.gg/aZMm8pekhZ",
+    "blockExplorer": "https://haqq.explorers.guru/",
+    "validatorUrl": "",
+    "gasDenomName": "aISLM",
+    "isTestnet": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "isArchive": true,
+    "externalRpcArray": [
+    ]
+  },
+  {
+    "id": "dws-testnet",
+    "chainName": "DWS",
+    "chainId": "deweb-testnet-sirius",
+    "logo": "dws.svg",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcPeer": "c5b45045b0555c439d94f4d81a5ec4d1a578f98c@dws-testnet.nodejumper.io:27656",
+    "binaryName": "dewebd",
+    "homeDirectoryName": ".deweb",
+    "twitter": "https://twitter.com/dewebservices",
+    "github": "https://github.com/deweb-services",
+    "globe": "https://deweb.services",
+    "discord": "https://discord.gg/EeH8C8gUuX",
+    "blockExplorer": "https://dws.explorers.guru",
+    "validatorUrl": "https://dws.explorers.guru/validator/dewebvaloper1pdhaj6ct3wyfahn2u6zllxp3dq6dfuatwtkf6n",
+    "gasDenomName": "udws",
+    "githubRepoName": "deweb",
+    "isTestnet": true,
+    "isArchive": true,
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.dws.nodes.guru",
+      "https://rpc-deweb.nodeist.net"
+    ]
+  },
+  {
+    "id": "mars-testnet",
+    "chainName": "mars",
+    "prettyChainName": "Mars Protocol",
+    "chainId": "ares-1",
+    "logo": "mars.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://mars-testnet.nodejumper.io",
+    "rpcPeer": "37fc77cca6c945d12c6e54166c3b9be2802ad1e6@mars-testnet.nodejumper.io:30656",
+    "binaryName": "marsd",
+    "homeDirectoryName": ".mars",
+    "globe": "https://marsprotocol.io",
+    "github": "https://github.com/mars-protocol",
+    "twitter": "https://twitter.com/mars_protocol",
+    "telegram": "https://t.me/martiannews",
+    "discord": "https://discord.com/invite/marsprotocol",
+    "validatorUrl": "https://mars.explorers.guru/validator/marsvaloper186t4ggaf2sgqqvjcyspgwretzk8ktczsyzayf5",
+    "isTestnet": true,
+    "isArchive": true,
+    "gasDenomName": "umars",
+    "githubRepoName": "hub",
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.mars.nodes.guru",
+      "https://mars-testnet-rpc.itrocket.net",
+      "https://mars.rpc.yeksin.net",
+      "https://rpc-mars-testnet.mms.team"
+    ]
+  },
+  {
+    "id": "nova-testnet",
+    "chainName": "NOVA (Supernova)",
+    "logo": "nova.webp",
+    "twitter": "https://twitter.com/Supernovazone",
+    "globe": "https://www.supernovaprotocol.xyz",
+    "discord": "https://discord.gg/d4VX6pRTmG",
+    "medium": "https://medium.com/supernovazone",
+    "isTestnet": true,
+    "isArchive": true
+  },
+  {
+    "id": "nolus-testnet",
+    "chainName": "nolus",
+    "prettyChainName": "Nolus Protocol",
+    "chainId": "nolus-rila",
+    "logo": "nolus.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://nolus-testnet.nodejumper.io",
+    "rpcPeer": "5c236704215735ea722a3ca742a5161c2e871ec6@nolus-testnet.nodejumper.io:29656",
+    "binaryName": "nolusd",
+    "homeDirectoryName": ".nolus",
+    "github": "https://github.com/Nolus-Protocol",
+    "twitter": "https://twitter.com/NolusProtocol",
+    "globe": "https://www.nolus.io",
+    "discord": "https://discord.com/invite/nolus-protocol",
+    "telegram": "https://t.me/NolusProtocol",
+    "blockExplorer": "https://nolus.explorers.guru",
+    "validatorUrl": "https://nolus.explorers.guru/validator/nolusvaloper1y7lfy9909gjfrrudwa3y8z0ndp9xlf0a2ukn2n",
+    "isTestnet": true,
+    "isArchive": true,
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "gasDenomName": "unls",
+    "githubRepoName": "nolus-core",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.nolus.nodes.guru",
+      "https://nolus-testnet.rpc.kjnodes.com",
+      "https://net-rila.nolus.io:26657"
+    ],
+    "externalApiArray": [
+      "https://api-1.nolus.nodes.guru",
+      "https://nolus-testnet.api.kjnodes.com"
+    ]
+  },
+  {
+    "id": "nois-testnet",
+    "chainName": "nois",
+    "prettyChainName": "Nois Network",
+    "chainId": "nois-testnet-004",
+    "logo": "nois.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://nois-testnet.nodejumper.io",
+    "rpcPeer": "a759d4971c4aa2dc9e83158203bce38997f2f123@nois-testnet.nodejumper.io:38656",
+    "binaryName": "noisd",
+    "homeDirectoryName": ".noisd",
+    "twitter": "https://twitter.com/NoisNetwork",
+    "github": "https://github.com/noislabs",
+    "globe": "https://nois.network",
+    "discord": "https://discord.com/invite/UzwtKWjTcA",
+    "docs": "https://docs.nois.network",
+    "blockExplorer": "https://testnet.ping.pub/nois",
+    "validatorUrl": "https://testnet.ping.pub/nois/staking/noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
+    "isTestnet": true,
+    "isStateSyncEnabled": false,
+    "isArchive": true,
+    "gasDenomName": "unois",
+    "githubRepoName": "noisd",
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.testnet.nois.nodes.guru",
+      "https://nois-testnet.rpc.kjnodes.com",
+      "https://rpc.nois.mcbnode.online",
+      "https://rpc-t.nois.nodestake.top"
+    ],
+    "externalApiArray": [
+      "https://api-1.testnet.nois.nodes.guru",
+      "https://nois-testnet.api.kjnodes.com",
+      "https://api.nois.mcbnode.online/",
+      "https://api-t.nois.nodestake.top"
+    ]
+  },
+  {
+    "id": "quasar-testnet",
+    "chainName": "Quasar",
+    "chainId": "qsr-questnet-04",
+    "logo": "quasar.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://quasar-testnet.nodejumper.io",
+    "rpcPeer": "5fbe0db041bbd7e92d02017cd7c84604b29698a7@quasar-testnet.nodejumper.io:33656",
+    "binaryName": "quasard",
+    "homeDirectoryName": ".quasarnode",
+    "twitter": "https://twitter.com/quasarfi",
+    "github": "https://github.com/orgs/quasar-finance",
+    "globe": "https://www.quasar.fi",
+    "discord": "https://discord.com/invite/quasarfi",
+    "telegram": "https://t.me/quasarfi",
+    "blockExplorer": "https://quasar.explorers.guru",
+    "validatorUrl": "https://quasar.explorers.guru/validator/quasarvaloper13wdg92565xy93m2cucqk90qm0q390za3nv4he5",
+    "gasDenomName": "uqsr",
+    "githubRepoName": "",
+    "isTestnet": true,
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "isArchive": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.quasar.nodes.guru",
+      "https://quasar-testnet.rpc.kjnodes.com",
+      "https://quasar-testnet-rpc.itrocket.net"
+    ],
+    "externalApiArray": [
+      "https://api-1.quasar.nodes.guru",
+      "https://quasar-testnet.api.kjnodes.com",
+      "https://quasar-testnet-api.itrocket.net"
+    ]
+  },
+  {
+    "id": "stride",
+    "chainName": "Stride",
+    "chainId": "stride-1",
+    "logo": "stride.webp",
+    "snapshotServer": "https://snapshots1.nodejumper.io",
+    "rpcServer": "https://stride.nodejumper.io",
+    "rpcPeer": "de048f413e6cceeba02139f581adb97d331651b8@stride.nodejumper.io:29656",
+    "binaryName": "strided",
+    "homeDirectoryName": ".stride",
+    "twitter": "https://twitter.com/stride_zone",
+    "github": "https://github.com/Stride-Labs",
+    "globe": "https://stride.zone",
+    "discord": "https://discord.gg/ut6JucWWR3",
+    "blockExplorer": "https://www.mintscan.io/stride",
+    "validatorUrl": "https://restake.app/stride/stridevaloper1y7p8qd4sk5k95mewazug73ag8vza8u7uzy2f2f",
+    "gasDenomName": "ustrd",
+    "githubRepoName": "stride",
+    "isArchive": true,
+    "externalRpcArray": [
+      "https://rpc.cosmos.directory/stride",
+      "https://stride-rpc.polkachu.com",
+      "https://stride.rpc.kjnodes.com",
+      "https://rpc-stride.nodeist.net"
+    ],
+    "externalApiArray": [
+      "https://stride.api.kjnodes.com",
+      "https://stride-api.lavenderfive.com"
+    ]
+  },
+  {
+    "id": "axelar-testnet",
+    "chainName": "axelar",
+    "prettyChainName": "Axelar",
+    "chainId": "axelar-testnet-lisbon-3",
+    "logo": "axelar.svg",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://axelar-testnet.nodejumper.io",
+    "rpcPeer": "d536456dc175e71463c1687bbfe0da930150a660@axelar-testnet.nodejumper.io:26656",
+    "binaryName": "axelard",
+    "homeDirectoryName": ".axelar_testnet",
+    "twitter": "https://twitter.com/axelarcore",
+    "github": "https://github.com/axelarnetwork",
+    "globe": "https://axelar.network/",
+    "discord": "https://discord.com/invite/aRZ3Ra6f7D",
+    "blockExplorer": "https://testnet.axelarscan.io",
+    "validatorUrl": "https://testnet.axelarscan.io/validator/axelarvaloper1e3ckcfvevgss32an3pgp98ymyu4e27hm4t6xgl",
+    "isTestnet": true,
+    "isArchive": true,
+    "gasDenomName": "uaxl",
+    "githubRepoName": "axelar-core",
+    "hardwareRequirements": {
+      "minSpecification": "16CPU 16RAM 1.5TB+",
+      "recommendedSpecification": "32CPU 32RAM 2TB+"
+    },
+    "externalRpcArray": [
+      "https://axelartest-rpc.quickapi.com",
+      "https://axelar-testnet-rpc.polkachu.com"
+    ],
+    "externalApiArray": [
+      "https://axelartest-lcd.quickapi.com"
+    ]
+  },
+  {
+    "id": "teritori-testnet",
+    "chainName": "Teritori",
+    "chainId": "teritori-testnet-v3",
+    "logo": "teritori.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://teritori-testnet.nodejumper.io",
+    "rpcPeer": "0d19829b0dd1fc324cfde1f7bc15860c896b7ac1@teritori-testnet.nodejumper.io:27656",
+    "binaryName": "teritorid",
+    "homeDirectoryName": ".teritorid",
+    "twitter": "https://twitter.com/TeritoriNetwork",
+    "github": "https://github.com/TERITORI",
+    "globe": "https://teritori.com",
+    "discord": "https://discord.gg/UAzKUpsZhn",
+    "gasDenomName": "utori",
+    "githubRepoName": "teritori-chain",
+    "testnetTasksLink": "https://teritori.crew3.xyz/questboard",
+    "blockExplorer": "https://explorer.stavr.tech/teritori",
+    "validatorUrl": "https://explorer.stavr.tech/teritori/staking/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
+    "isTestnet": true,
+    "isArchive": true,
+    "isWasmOnStateSyncEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://teritori-testnet.rpc.kjnodes.com"
+    ],
+    "externalApiArray": [
+      "https://teritori-testnet.api.kjnodes.com"
+    ]
+  },
+  {
+    "id": "neutron-testnet",
+    "chainName": "Neutron",
+    "chainId": "baryon-1",
+    "logo": "neutron.jpeg",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://neutron-testnet.nodejumper.io",
+    "rpcPeer": "565d24d796d6d907253b1080b685b9d21c32c1a6@neutron-testnet.nodejumper.io:34656",
+    "binaryName": "neutrond",
+    "homeDirectoryName": ".neutrond",
+    "twitter": "https://twitter.com/Neutron_org",
+    "github": "https://github.com/neutron-org",
+    "globe": "https://neutron.org",
+    "discord": "https://discord.gg/U7c5uaxFSq",
+    "blockExplorer": "https://explorer.rs-testnet.polypore.xyz/baryon-1",
+    "gasDenomName": "untrn",
+    "githubRepoName": "neutron",
+    "isTestnet": true,
+    "isArchive": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc.baryon.ntrn.info",
+      "https://rpc.baryon.remedy.tm.p2p.org",
+      "https://rpc.baryon-sentry-01.rs-testnet.polypore.xyz"
+    ],
+    "externalApiArray": [
+      "https://rest.baryon.ntrn.info",
+      "https://api.baryon.remedy.tm.p2p.org",
+      "https://rest.baryon-sentry-01.rs-testnet.polypore.xyz"
+    ]
+  },
+  {
+    "id": "cosmos-testnet",
+    "chainName": "cosmoshub",
+    "prettyChainName": "Cosmos Network",
+    "chainId": "provider",
+    "logo": "cosmos.webp",
+    "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
+    "rpcServer": "https://cosmos-testnet.nodejumper.io",
+    "rpcPeer": "3c4075882fc6e91676baa471a239ebb72d442f9d@cosmos-testnet.nodejumper.io:35656",
+    "binaryName": "gaiad",
+    "homeDirectoryName": ".gaia",
+    "twitter": "https://twitter.com/cosmos",
+    "github": "https://github.com/cosmos",
+    "globe": "https://cosmos.network",
+    "discord": "https://discord.gg/cosmosnetwork",
+    "docs": "https://docs.cosmos.network/main",
+    "medium": "https://blog.cosmos.network",
+    "blockExplorer": "https://explorer.rs-testnet.polypore.xyz/provider",
+    "validatorUrl": "https://explorer.rs-testnet.polypore.xyz/provider/staking/cosmosvaloper102w6jk6jpakck3xknt7g9pr0wr2plhv5phpmm3",
+    "gasDenomName": "uatom",
+    "githubRepoName": "",
+    "isTestnet": true,
+    "isArchive": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc.provider-sentry-01.rs-testnet.polypore.xyz",
+      "https://rpc.provider-sentry-02.rs-testnet.polypore.xyz"
+    ],
+    "externalApiArray": [
+      "https://rest.provider-sentry-01.rs-testnet.polypore.xyz",
+      "https://rest.provider-sentry-02.rs-testnet.polypore.xyz"
+    ]
+  },
+  {
+    "id": "gitopia-testnet",
+    "chainName": "gitopia",
+    "prettyChainName": "Gitopia",
+    "chainId": "gitopia-janus-testnet-2",
+    "logo": "gitopia.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://gitopia-testnet.nodejumper.io",
+    "rpcPeer": "6146658ffe2d148524a9fdcc3d701440053442bf@gitopia-testnet.nodejumper.io:30656",
+    "binaryName": "gitopiad",
+    "homeDirectoryName": ".gitopia",
+    "github": "https://gitopia.com/gitopia",
+    "twitter": "https://twitter.com/gitopiaDAO",
+    "globe": "https://gitopia.com",
+    "discord": "https://discord.com/invite/aqsKW3hUHD",
+    "docs": "https://docs.gitopia.com",
+    "blockExplorer": "https://gitopia.explorers.guru",
+    "validatorUrl": "https://gitopia.explorers.guru/validator/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
+    "isTestnet": true,
+    "gasDenomName": "utlore",
+    "githubRepoName": "gitopia",
+    "isArchive": true,
+    "hardwareRequirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-gitopia-testnet.mms.team",
+      "https://t-gitopia.rpc.utsa.tech",
+      "https://gitopia-testnet.rpc.kjnodes.com"
+    ],
+    "externalApiArray": [
+      "https://t-gitopia.api.utsa.tech",
+      "https://gitopia-testnet.api.kjnodes.com",
+      "https://testnet-gitopia-api.konsortech.xyz"
+    ]
+  },
+  {
+    "id": "paloma-testnet",
+    "chainName": "Paloma",
+    "chainId": "paloma-testnet-15",
+    "logo": "paloma.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://paloma-testnet.nodejumper.io",
+    "rpcPeer": "484e0d3cc02ba868d4ad68ec44caf89dd14d1845@paloma-testnet.nodejumper.io:33659",
+    "binaryName": "palomad",
+    "homeDirectoryName": ".paloma",
+    "twitter": "https://twitter.com/paloma_chain",
+    "github": "https://github.com/palomachain",
+    "globe": "https://www.palomachain.com",
+    "telegram": "https://t.me/palomachain",
+    "discord": "https://discord.gg/ET4tEgWQCj",
+    "blockExplorer": "https://testnet.paloma.explorers.guru/",
+    "validatorUrl": "https://testnet.paloma.explorers.guru/validator/palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
+    "gasDenomName": "ugrain",
+    "isTestnet": true,
+    "isArchive": true,
+    "githubRepoName": "paloma",
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-1.paloma.nodes.guru",
+      "https://paloma-testnet.rpc.kjnodes.com"
+    ],
+    "externalApiArray": [
+      "https://api-1.paloma.nodes.guru",
+      "https://paloma-testnet.api.kjnodes.com"
+    ]
+  },
+  {
+    "id": "terpnetwork-testnet",
+    "chainName": "terp",
+    "prettyChainName": "Terp Network",
+    "chainId": "90u-1",
+    "logo": "terp.webp",
+    "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
+    "rpcServer": "https://terpnetwork-testnet.nodejumper.io",
+    "rpcPeer": "15f5bc75be9746fd1f712ca046502cae8a0f6ce7@terpnetwork-testnet.nodejumper.io:30656",
+    "binaryName": "terpd",
+    "homeDirectoryName": ".terp",
+    "twitter": "https://twitter.com/terpculture",
+    "github": "https://github.com/terpnetwork",
+    "globe": "https://terp.network",
+    "discord": "https://discord.gg/CnsMGn47tP",
+    "blockExplorer": "https://testnet.itrocket.net/terp",
+    "validatorUrl": "https://testnet.itrocket.net/terp/staking/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
+    "gasDenomName": "uthiol",
+    "githubRepoName": "terp-core",
+    "isTestnet": true,
+    "isArchive": true,
+    "isWasmOnStateSyncEnabled": true,
+    "isWasmOnRootLevelEnabled": true,
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://terp-testnet.rpc.kjnodes.com",
+      "https://rpc-terp.nodeist.net"
+    ],
+    "externalApiArray": [
+      "https://api-terp.nodeist.net",
+      "https://terp-testnet.api.kjnodes.com"
+    ]
+  }
+]
