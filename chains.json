@@ -1,7 +1,7 @@
 [
   {
     "id": "rizon",
-    "chainName": "Rizon",
+    "path": "Rizon",
     "chainId": "titan-1",
     "logo": "rizon.svg",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -32,7 +32,7 @@
   },
   {
     "id": "bitcanna",
-    "chainName": "Bitcanna",
+    "path": "Bitcanna",
     "chainId": "bitcanna-1",
     "logo": "bitcanna.svg",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -65,7 +65,7 @@
   },
   {
     "id": "desmos",
-    "chainName": "Desmos",
+    "path": "Desmos",
     "chainId": "desmos-mainnet",
     "logo": "desmos.svg",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -97,7 +97,7 @@
   },
   {
     "id": "omniflix",
-    "chainName": "Omniflix",
+    "path": "Omniflix",
     "chainId": "omniflixhub-1",
     "logo": "omniflix.webp",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -130,7 +130,7 @@
   },
   {
     "id": "starname",
-    "chainName": "Starname",
+    "path": "Starname",
     "chainId": "iov-mainnet-ibc",
     "logo": "starname.svg",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -161,7 +161,7 @@
   },
   {
     "id": "stafihub",
-    "chainName": "StaFiHub",
+    "path": "StaFiHub",
     "chainId": "stafihub-1",
     "logo": "stafihub.svg",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -192,7 +192,7 @@
   },
   {
     "id": "rebus",
-    "chainName": "Rebus",
+    "path": "Rebus",
     "chainId": "reb_1111-1",
     "logo": "rebus.webp",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -227,7 +227,7 @@
   },
   {
     "id": "teritori",
-    "chainName": "Teritori",
+    "path": "Teritori",
     "chainId": "teritori-1",
     "logo": "teritori.webp",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -259,7 +259,7 @@
   },
   {
     "id": "jackal",
-    "chainName": "Jackal",
+    "path": "Jackal",
     "chainId": "jackal-1",
     "logo": "jackal.webp",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -294,7 +294,7 @@
   },
   {
     "id": "pylons",
-    "chainName": "Pylons",
+    "path": "Pylons",
     "chainId": "pylons-mainnet-1",
     "logo": "pylons.webp",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -329,7 +329,7 @@
   },
   {
     "id": "paloma",
-    "chainName": "Paloma",
+    "path": "Paloma",
     "chainId": "messenger",
     "logo": "paloma.webp",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -363,7 +363,7 @@
   },
   {
     "id": "assetmantle",
-    "chainName": "AssetMantle",
+    "path": "AssetMantle",
     "chainId": "mantle-1",
     "logo": "assetmantle.svg",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -397,7 +397,7 @@
   },
   {
     "id": "ununifi",
-    "chainName": "UnUniFi",
+    "path": "UnUniFi",
     "chainId": "ununifi-beta-v1",
     "logo": "ununifi.webp",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -429,7 +429,7 @@
   },
   {
     "id": "aura",
-    "chainName": "aura",
+    "path": "aura",
     "prettyChainName": "Aura Network",
     "chainId": "xstaxy-1",
     "logo": "aura.webp",
@@ -463,7 +463,7 @@
   },
   {
     "id": "uptick",
-    "chainName": "Uptick",
+    "path": "Uptick",
     "chainId": "uptick_117-1",
     "logo": "uptick.webp",
     "snapshotServer": "https://snapshots2.nodejumper.io",
@@ -500,7 +500,7 @@
   },
   {
     "id": "nois",
-    "chainName": "nois",
+    "path": "nois",
     "prettyChainName": "Nois Network",
     "chainId": "nois-1",
     "logo": "nois.webp",
@@ -535,7 +535,7 @@
   },
   {
     "id": "kujira",
-    "chainName": "kujira",
+    "path": "kujira",
     "prettyChainName": "Kujira",
     "chainId": "kaiyo-1",
     "logo": "kujira.svg",
@@ -578,7 +578,7 @@
   },
   {
     "id": "terpnetwork",
-    "chainName": "terp",
+    "path": "terp",
     "prettyChainName": "Terp Network",
     "chainId": "morocco-1",
     "logo": "terp.webp",
@@ -615,7 +615,7 @@
   },
   {
     "id": "firmachain",
-    "chainName": "firmachain",
+    "path": "firmachain",
     "prettyChainName": "Firmachain",
     "chainId": "colosseum-1",
     "logo": "firmachain.svg",
@@ -654,7 +654,7 @@
   },
   {
     "id": "gitopia",
-    "chainName": "gitopia",
+    "path": "gitopia",
     "prettyChainName": "Gitopia",
     "chainId": "gitopia",
     "logo": "gitopia.webp",
@@ -689,7 +689,7 @@
   },
   {
     "id": "humans",
-    "chainName": "humans",
+    "path": "humans",
     "prettyChainName": "Humans AI",
     "chainId": "humans_1089-1",
     "logo": "humans.webp",
@@ -727,7 +727,7 @@
   },
   {
     "id": "agoric",
-    "chainName": "Agoric",
+    "path": "Agoric",
     "chainId": "agoric-3",
     "logo": "agoric.webp",
     "snapshotServer": "https://snapshots2.nodejumper.io",
@@ -764,7 +764,7 @@
   },
   {
     "id": "composable",
-    "chainName": "Composable",
+    "path": "Composable",
     "chainId": "centauri-1",
     "logo": "composable.webp",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -798,7 +798,7 @@
   },
   {
     "id": "sei-testnet",
-    "chainName": "Sei",
+    "path": "Sei",
     "chainId": "atlantic-2",
     "logo": "sei.webp",
     "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
@@ -837,7 +837,7 @@
   },
   {
     "id": "uptick-testnet",
-    "chainName": "Uptick",
+    "path": "Uptick",
     "chainId": "uptick_7000-2",
     "logo": "uptick.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -871,7 +871,7 @@
   },
   {
     "id": "cardchain-testnet",
-    "chainName": "Cardchain",
+    "path": "Cardchain",
     "chainId": "Testnet3",
     "logo": "cardchain.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -904,7 +904,7 @@
   },
   {
     "id": "ollo-testnet",
-    "chainName": "Ollo",
+    "path": "Ollo",
     "prettyChainName": "OLLO",
     "chainId": "ollo-testnet-1",
     "logo": "ollo.webp",
@@ -938,7 +938,7 @@
   },
   {
     "id": "okp4-testnet",
-    "chainName": "OKP4",
+    "path": "OKP4",
     "chainId": "okp4-nemeton-1",
     "logo": "okp4.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -973,7 +973,7 @@
   },
   {
     "id": "nibiru-testnet",
-    "chainName": "nibiru",
+    "path": "nibiru",
     "prettyChainName": "Nibiru Chain",
     "chainId": "nibiru-itn-1",
     "logo": "nibiru.webp",
@@ -1009,7 +1009,7 @@
   },
   {
     "id": "defund-testnet",
-    "chainName": "defund",
+    "path": "defund",
     "prettyChainName": "DeFund Finance",
     "chainId": "orbit-alpha-1",
     "logo": "defund.webp",
@@ -1047,7 +1047,7 @@
   },
   {
     "id": "celestia-testnet",
-    "chainName": "Celestia",
+    "path": "Celestia",
     "chainId": "mocha",
     "logo": "celestia.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1086,7 +1086,7 @@
   },
   {
     "id": "lava-testnet",
-    "chainName": "lava",
+    "path": "lava",
     "prettyChainName": "Lava Network",
     "chainId": "lava-testnet-1",
     "logo": "lava.webp",
@@ -1124,7 +1124,7 @@
   },
   {
     "id": "babylon-testnet",
-    "chainName": "Babylon",
+    "path": "Babylon",
     "chainId": "bbn-test-2",
     "logo": "babylon.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1159,7 +1159,7 @@
   },
   {
     "id": "andromeda-testnet",
-    "chainName": "Andromeda",
+    "path": "Andromeda",
     "chainId": "galileo-3",
     "logo": "andromeda.webp",
     "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
@@ -1197,7 +1197,7 @@
   },
   {
     "id": "dymension-testnet",
-    "chainName": "Dymension",
+    "path": "Dymension",
     "chainId": "35-C",
     "logo": "dymension.webp",
     "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
@@ -1234,7 +1234,7 @@
   },
   {
     "id": "althea-testnet",
-    "chainName": "Althea",
+    "path": "Althea",
     "chainId": "althea_7357-1",
     "logo": "althea.webp",
     "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
@@ -1270,7 +1270,7 @@
   },
   {
     "id": "ojo-testnet",
-    "chainName": "Ojo",
+    "path": "Ojo",
     "chainId": "ojo-devnet",
     "logo": "ojo.webp",
     "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
@@ -1305,7 +1305,7 @@
   },
   {
     "id": "humans-testnet",
-    "chainName": "humans",
+    "path": "humans",
     "prettyChainName": "Humans AI",
     "chainId": "humans_3000-31",
     "logo": "humans.webp",
@@ -1342,7 +1342,7 @@
   },
   {
     "id": "cascadia-testnet",
-    "chainName": "Cascadia",
+    "path": "Cascadia",
     "chainId": "cascadia_6102-1",
     "logo": "cascadia.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1379,7 +1379,7 @@
   },
   {
     "id": "archway-testnet",
-    "chainName": "Archway",
+    "path": "Archway",
     "chainId": "constantine-3",
     "logo": "archway.png",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1413,7 +1413,7 @@
   },
   {
     "id": "bitcanna-testnet",
-    "chainName": "Bitcanna",
+    "path": "Bitcanna",
     "chainId": "bitcanna-dev-1",
     "logo": "bitcanna.svg",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1445,7 +1445,7 @@
   },
   {
     "id": "composable-testnet",
-    "chainName": "Composable",
+    "path": "Composable",
     "chainId": "banksy-testnet-2",
     "logo": "composable.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1476,7 +1476,7 @@
   },
   {
     "id": "banksy-testnet-3",
-    "chainName": "Composable",
+    "path": "Composable",
     "chainId": "banksy-testnet-3",
     "logo": "composable.webp",
     "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
@@ -1509,7 +1509,7 @@
   },
   {
     "id": "empower-testnet",
-    "chainName": "empower",
+    "path": "empower",
     "prettyChainName": "Empower Chain",
     "chainId": "circulus-1",
     "logo": "empower.webp",
@@ -1545,7 +1545,7 @@
   },
   {
     "id": "zetachain-testnet",
-    "chainName": "zetachain",
+    "path": "zetachain",
     "prettyChainName": "ZetaChain",
     "chainId": "athens_7001-1",
     "logo": "zetachain.webp",
@@ -1577,7 +1577,7 @@
   },
   {
     "id": "noria-testnet",
-    "chainName": "Noria",
+    "path": "Noria",
     "chainId": "oasis-3",
     "logo": "noria.png",
     "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
@@ -1616,7 +1616,7 @@
   },
   {
     "id": "another1-testnet",
-    "chainName": "Another-1",
+    "path": "Another-1",
     "chainId": "anone-testnet-1",
     "logo": "another1.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1636,7 +1636,7 @@
   },
   {
     "id": "quicksilver-testnet",
-    "chainName": "Quicksilver",
+    "path": "Quicksilver",
     "chainId": "killerqueen-1",
     "logo": "quicksilver.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1658,7 +1658,7 @@
   },
   {
     "id": "rebus-testnet",
-    "chainName": "Rebus",
+    "path": "Rebus",
     "chainId": "reb_3333-1",
     "logo": "rebus.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1679,7 +1679,7 @@
   },
   {
     "id": "stafihub-testnet",
-    "chainName": "StaFiHub",
+    "path": "StaFiHub",
     "chainId": "stafihub-public-testnet-3",
     "logo": "stafihub.svg",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1699,7 +1699,7 @@
   },
   {
     "id": "stride-testnet",
-    "chainName": "Stride",
+    "path": "Stride",
     "chainId": "STRIDE-TESTNET-4",
     "logo": "stride.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1720,7 +1720,7 @@
   },
   {
     "id": "empower-testnet",
-    "chainName": "empower",
+    "path": "empower",
     "prettyChainName": "Empower Chain",
     "chainId": "altruistic-1",
     "logo": "empower.webp",
@@ -1746,7 +1746,7 @@
   },
   {
     "id": "pylons-testnet",
-    "chainName": "Pylons",
+    "path": "Pylons",
     "chainId": "pylons-testnet-3",
     "logo": "pylons.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1773,7 +1773,7 @@
   },
   {
     "id": "haqq-testnet",
-    "chainName": "haqq",
+    "path": "haqq",
     "prettyChainName": "Haqq Network",
     "chainId": "haqq_54211-3",
     "logo": "haqq.svg",
@@ -1800,7 +1800,7 @@
   },
   {
     "id": "dws-testnet",
-    "chainName": "DWS",
+    "path": "DWS",
     "chainId": "deweb-testnet-sirius",
     "logo": "dws.svg",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -1830,7 +1830,7 @@
   },
   {
     "id": "mars-testnet",
-    "chainName": "mars",
+    "path": "mars",
     "prettyChainName": "Mars Protocol",
     "chainId": "ares-1",
     "logo": "mars.webp",
@@ -1862,7 +1862,7 @@
   },
   {
     "id": "nova-testnet",
-    "chainName": "NOVA (Supernova)",
+    "path": "NOVA (Supernova)",
     "logo": "nova.webp",
     "twitter": "https://twitter.com/Supernovazone",
     "globe": "https://www.supernovaprotocol.xyz",
@@ -1873,7 +1873,7 @@
   },
   {
     "id": "nolus-testnet",
-    "chainName": "nolus",
+    "path": "nolus",
     "prettyChainName": "Nolus Protocol",
     "chainId": "nolus-rila",
     "logo": "nolus.webp",
@@ -1911,7 +1911,7 @@
   },
   {
     "id": "nois-testnet",
-    "chainName": "nois",
+    "path": "nois",
     "prettyChainName": "Nois Network",
     "chainId": "nois-testnet-004",
     "logo": "nois.webp",
@@ -1951,7 +1951,7 @@
   },
   {
     "id": "quasar-testnet",
-    "chainName": "Quasar",
+    "path": "Quasar",
     "chainId": "qsr-questnet-04",
     "logo": "quasar.webp",
     "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
@@ -1989,7 +1989,7 @@
   },
   {
     "id": "stride",
-    "chainName": "Stride",
+    "path": "Stride",
     "chainId": "stride-1",
     "logo": "stride.webp",
     "snapshotServer": "https://snapshots1.nodejumper.io",
@@ -2019,7 +2019,7 @@
   },
   {
     "id": "axelar-testnet",
-    "chainName": "axelar",
+    "path": "axelar",
     "prettyChainName": "Axelar",
     "chainId": "axelar-testnet-lisbon-3",
     "logo": "axelar.svg",
@@ -2052,7 +2052,7 @@
   },
   {
     "id": "teritori-testnet",
-    "chainName": "Teritori",
+    "path": "Teritori",
     "chainId": "teritori-testnet-v3",
     "logo": "teritori.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -2085,7 +2085,7 @@
   },
   {
     "id": "neutron-testnet",
-    "chainName": "Neutron",
+    "path": "Neutron",
     "chainId": "baryon-1",
     "logo": "neutron.jpeg",
     "snapshotServer": "https://snapshots2-testnet.nodejumper.io",
@@ -2119,7 +2119,7 @@
   },
   {
     "id": "cosmos-testnet",
-    "chainName": "cosmoshub",
+    "path": "cosmoshub",
     "prettyChainName": "Cosmos Network",
     "chainId": "provider",
     "logo": "cosmos.webp",
@@ -2155,7 +2155,7 @@
   },
   {
     "id": "gitopia-testnet",
-    "chainName": "gitopia",
+    "path": "gitopia",
     "prettyChainName": "Gitopia",
     "chainId": "gitopia-janus-testnet-2",
     "logo": "gitopia.webp",
@@ -2192,7 +2192,7 @@
   },
   {
     "id": "paloma-testnet",
-    "chainName": "Paloma",
+    "path": "Paloma",
     "chainId": "paloma-testnet-15",
     "logo": "paloma.webp",
     "snapshotServer": "https://snapshots1-testnet.nodejumper.io",
@@ -2226,7 +2226,7 @@
   },
   {
     "id": "terpnetwork-testnet",
-    "chainName": "terp",
+    "path": "terp",
     "prettyChainName": "Terp Network",
     "chainId": "90u-1",
     "logo": "terp.webp",
