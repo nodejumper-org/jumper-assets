@@ -1,6 +1,6 @@
 [
   {
-    "chain_name": "rizon",
+    "id": "rizon",
     "chainName": "Rizon",
     "chainId": "titan-1",
     "logo": "rizon.svg",
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "chain_name": "bitcanna",
+    "id": "bitcanna",
     "chainName": "Bitcanna",
     "chainId": "bitcanna-1",
     "logo": "bitcanna.svg",
@@ -64,7 +64,7 @@
     ]
   },
   {
-    "chain_name": "desmos",
+    "id": "desmos",
     "chainName": "Desmos",
     "chainId": "desmos-mainnet",
     "logo": "desmos.svg",
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "chain_name": "omniflix",
+    "id": "omniflix",
     "chainName": "Omniflix",
     "chainId": "omniflixhub-1",
     "logo": "omniflix.webp",
@@ -129,7 +129,7 @@
     ]
   },
   {
-    "chain_name": "starname",
+    "id": "starname",
     "chainName": "Starname",
     "chainId": "iov-mainnet-ibc",
     "logo": "starname.svg",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "chain_name": "stafihub",
+    "id": "stafihub",
     "chainName": "StaFiHub",
     "chainId": "stafihub-1",
     "logo": "stafihub.svg",
@@ -191,7 +191,7 @@
     ]
   },
   {
-    "chain_name": "rebus",
+    "id": "rebus",
     "chainName": "Rebus",
     "chainId": "reb_1111-1",
     "logo": "rebus.webp",
@@ -226,7 +226,7 @@
     ]
   },
   {
-    "chain_name": "teritori",
+    "id": "teritori",
     "chainName": "Teritori",
     "chainId": "teritori-1",
     "logo": "teritori.webp",
@@ -258,7 +258,7 @@
     ]
   },
   {
-    "chain_name": "jackal",
+    "id": "jackal",
     "chainName": "Jackal",
     "chainId": "jackal-1",
     "logo": "jackal.webp",
@@ -293,7 +293,7 @@
     ]
   },
   {
-    "chain_name": "pylons",
+    "id": "pylons",
     "chainName": "Pylons",
     "chainId": "pylons-mainnet-1",
     "logo": "pylons.webp",
@@ -328,7 +328,7 @@
     ]
   },
   {
-    "chain_name": "paloma",
+    "id": "paloma",
     "chainName": "Paloma",
     "chainId": "messenger",
     "logo": "paloma.webp",
@@ -362,7 +362,7 @@
     ]
   },
   {
-    "chain_name": "assetmantle",
+    "id": "assetmantle",
     "chainName": "AssetMantle",
     "chainId": "mantle-1",
     "logo": "assetmantle.svg",
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "chain_name": "ununifi",
+    "id": "ununifi",
     "chainName": "UnUniFi",
     "chainId": "ununifi-beta-v1",
     "logo": "ununifi.webp",
@@ -428,7 +428,7 @@
     ]
   },
   {
-    "chain_name": "aura",
+    "id": "aura",
     "chainName": "aura",
     "prettyChainName": "Aura Network",
     "chainId": "xstaxy-1",
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "chain_name": "uptick",
+    "id": "uptick",
     "chainName": "Uptick",
     "chainId": "uptick_117-1",
     "logo": "uptick.webp",
@@ -499,7 +499,7 @@
     ]
   },
   {
-    "chain_name": "nois",
+    "id": "nois",
     "chainName": "nois",
     "prettyChainName": "Nois Network",
     "chainId": "nois-1",
@@ -534,7 +534,7 @@
     ]
   },
   {
-    "chain_name": "kujira",
+    "id": "kujira",
     "chainName": "kujira",
     "prettyChainName": "Kujira",
     "chainId": "kaiyo-1",
@@ -577,7 +577,7 @@
     ]
   },
   {
-    "chain_name": "terpnetwork",
+    "id": "terpnetwork",
     "chainName": "terp",
     "prettyChainName": "Terp Network",
     "chainId": "morocco-1",
@@ -614,7 +614,7 @@
     ]
   },
   {
-    "chain_name": "firmachain",
+    "id": "firmachain",
     "chainName": "firmachain",
     "prettyChainName": "Firmachain",
     "chainId": "colosseum-1",
@@ -653,7 +653,7 @@
     ]
   },
   {
-    "chain_name": "gitopia",
+    "id": "gitopia",
     "chainName": "gitopia",
     "prettyChainName": "Gitopia",
     "chainId": "gitopia",
@@ -688,7 +688,7 @@
     ]
   },
   {
-    "chain_name": "humans",
+    "id": "humans",
     "chainName": "humans",
     "prettyChainName": "Humans AI",
     "chainId": "humans_1089-1",
@@ -726,7 +726,7 @@
     ]
   },
   {
-    "chain_name": "agoric",
+    "id": "agoric",
     "chainName": "Agoric",
     "chainId": "agoric-3",
     "logo": "agoric.webp",
@@ -763,7 +763,7 @@
     ]
   },
   {
-    "chain_name": "composable",
+    "id": "composable",
     "chainName": "Composable",
     "chainId": "centauri-1",
     "logo": "composable.webp",
@@ -797,7 +797,7 @@
     ]
   },
   {
-    "chain_name": "seitestnet",
+    "id": "seitestnet",
     "chainName": "Sei",
     "chainId": "atlantic-2",
     "logo": "sei.webp",
@@ -836,7 +836,7 @@
     ]
   },
   {
-    "chain_name": "upticktestnet",
+    "id": "upticktestnet",
     "chainName": "Uptick",
     "chainId": "uptick_7000-2",
     "logo": "uptick.webp",
@@ -870,7 +870,7 @@
     ]
   },
   {
-    "chain_name": "cardchaintestnet",
+    "id": "cardchaintestnet",
     "chainName": "Cardchain",
     "chainId": "Testnet3",
     "logo": "cardchain.webp",
@@ -903,7 +903,7 @@
     ]
   },
   {
-    "chain_name": "ollotestnet",
+    "id": "ollotestnet",
     "chainName": "Ollo",
     "prettyChainName": "OLLO",
     "chainId": "ollo-testnet-1",
@@ -937,7 +937,7 @@
     ]
   },
   {
-    "chain_name": "okp4testnet",
+    "id": "okp4testnet",
     "chainName": "OKP4",
     "chainId": "okp4-nemeton-1",
     "logo": "okp4.webp",
@@ -972,7 +972,7 @@
     ]
   },
   {
-    "chain_name": "nibirutestnet",
+    "id": "nibirutestnet",
     "chainName": "nibiru",
     "prettyChainName": "Nibiru Chain",
     "chainId": "nibiru-itn-1",
@@ -1008,7 +1008,7 @@
     ]
   },
   {
-    "chain_name": "defundtestnet",
+    "id": "defundtestnet",
     "chainName": "defund",
     "prettyChainName": "DeFund Finance",
     "chainId": "orbit-alpha-1",
@@ -1046,7 +1046,7 @@
     ]
   },
   {
-    "chain_name": "celestiatestnet",
+    "id": "celestiatestnet",
     "chainName": "Celestia",
     "chainId": "mocha",
     "logo": "celestia.webp",
@@ -1085,7 +1085,7 @@
     ]
   },
   {
-    "chain_name": "lavatestnet",
+    "id": "lavatestnet",
     "chainName": "lava",
     "prettyChainName": "Lava Network",
     "chainId": "lava-testnet-1",
@@ -1123,7 +1123,7 @@
     ]
   },
   {
-    "chain_name": "babylontestnet",
+    "id": "babylontestnet",
     "chainName": "Babylon",
     "chainId": "bbn-test-2",
     "logo": "babylon.webp",
@@ -1158,7 +1158,7 @@
     ]
   },
   {
-    "chain_name": "andromedatestnet",
+    "id": "andromedatestnet",
     "chainName": "Andromeda",
     "chainId": "galileo-3",
     "logo": "andromeda.webp",
@@ -1196,7 +1196,7 @@
     ]
   },
   {
-    "chain_name": "dymensiontestnet",
+    "id": "dymensiontestnet",
     "chainName": "Dymension",
     "chainId": "35-C",
     "logo": "dymension.webp",
@@ -1233,7 +1233,7 @@
     ]
   },
   {
-    "chain_name": "altheatestnet",
+    "id": "altheatestnet",
     "chainName": "Althea",
     "chainId": "althea_7357-1",
     "logo": "althea.webp",
@@ -1269,7 +1269,7 @@
     ]
   },
   {
-    "chain_name": "ojotestnet",
+    "id": "ojotestnet",
     "chainName": "Ojo",
     "chainId": "ojo-devnet",
     "logo": "ojo.webp",
@@ -1304,7 +1304,7 @@
     ]
   },
   {
-    "chain_name": "humanstestnet",
+    "id": "humanstestnet",
     "chainName": "humans",
     "prettyChainName": "Humans AI",
     "chainId": "humans_3000-31",
@@ -1341,7 +1341,7 @@
     ]
   },
   {
-    "chain_name": "cascadiatestnet",
+    "id": "cascadiatestnet",
     "chainName": "Cascadia",
     "chainId": "cascadia_6102-1",
     "logo": "cascadia.webp",
@@ -1378,7 +1378,7 @@
     ]
   },
   {
-    "chain_name": "archwaytestnet",
+    "id": "archwaytestnet",
     "chainName": "Archway",
     "chainId": "constantine-3",
     "logo": "archway.png",
@@ -1412,7 +1412,7 @@
     ]
   },
   {
-    "chain_name": "bitcannatestnet",
+    "id": "bitcannatestnet",
     "chainName": "Bitcanna",
     "chainId": "bitcanna-dev-1",
     "logo": "bitcanna.svg",
@@ -1444,7 +1444,7 @@
     ]
   },
   {
-    "chain_name": "composabletestnet",
+    "id": "composabletestnet",
     "chainName": "Composable",
     "chainId": "banksy-testnet-2",
     "logo": "composable.webp",
@@ -1475,7 +1475,7 @@
     ]
   },
   {
-    "chain_name": "banksy-testnet-3",
+    "id": "banksy-testnet-3",
     "chainName": "Composable",
     "chainId": "banksy-testnet-3",
     "logo": "composable.webp",
@@ -1508,7 +1508,7 @@
     ]
   },
   {
-    "chain_name": "empowertestnet",
+    "id": "empowertestnet",
     "chainName": "empower",
     "prettyChainName": "Empower Chain",
     "chainId": "circulus-1",
@@ -1544,7 +1544,7 @@
     ]
   },
   {
-    "chain_name": "zetachaintestnet",
+    "id": "zetachaintestnet",
     "chainName": "zetachain",
     "prettyChainName": "ZetaChain",
     "chainId": "athens_7001-1",
@@ -1576,7 +1576,7 @@
     ]
   },
   {
-    "chain_name": "noriatestnet",
+    "id": "noriatestnet",
     "chainName": "Noria",
     "chainId": "oasis-3",
     "logo": "noria.png",
@@ -1615,7 +1615,7 @@
     ]
   },
   {
-    "chain_name": "another1testnet",
+    "id": "another1testnet",
     "chainName": "Another-1",
     "chainId": "anone-testnet-1",
     "logo": "another1.webp",
@@ -1635,7 +1635,7 @@
     "isArchive": true
   },
   {
-    "chain_name": "quicksilvertestnet",
+    "id": "quicksilvertestnet",
     "chainName": "Quicksilver",
     "chainId": "killerqueen-1",
     "logo": "quicksilver.webp",
@@ -1657,7 +1657,7 @@
     "isArchive": true
   },
   {
-    "chain_name": "rebustestnet",
+    "id": "rebustestnet",
     "chainName": "Rebus",
     "chainId": "reb_3333-1",
     "logo": "rebus.webp",
@@ -1678,7 +1678,7 @@
     "isArchive": true
   },
   {
-    "chain_name": "stafihubtestnet",
+    "id": "stafihubtestnet",
     "chainName": "StaFiHub",
     "chainId": "stafihub-public-testnet-3",
     "logo": "stafihub.svg",
@@ -1698,7 +1698,7 @@
     "isArchive": true
   },
   {
-    "chain_name": "stridetestnet",
+    "id": "stridetestnet",
     "chainName": "Stride",
     "chainId": "STRIDE-TESTNET-4",
     "logo": "stride.webp",
@@ -1719,7 +1719,7 @@
     "isArchive": true
   },
   {
-    "chain_name": "empowertestnet",
+    "id": "empowertestnet",
     "chainName": "empower",
     "prettyChainName": "Empower Chain",
     "chainId": "altruistic-1",
@@ -1745,7 +1745,7 @@
     }
   },
   {
-    "chain_name": "pylonstestnet",
+    "id": "pylonstestnet",
     "chainName": "Pylons",
     "chainId": "pylons-testnet-3",
     "logo": "pylons.webp",
@@ -1772,7 +1772,7 @@
     ]
   },
   {
-    "chain_name": "haqqtestnet",
+    "id": "haqqtestnet",
     "chainName": "haqq",
     "prettyChainName": "Haqq Network",
     "chainId": "haqq_54211-3",
@@ -1799,7 +1799,7 @@
     ]
   },
   {
-    "chain_name": "dwstestnet",
+    "id": "dwstestnet",
     "chainName": "DWS",
     "chainId": "deweb-testnet-sirius",
     "logo": "dws.svg",
@@ -1829,7 +1829,7 @@
     ]
   },
   {
-    "chain_name": "marstestnet",
+    "id": "marstestnet",
     "chainName": "mars",
     "prettyChainName": "Mars Protocol",
     "chainId": "ares-1",
@@ -1861,7 +1861,7 @@
     ]
   },
   {
-    "chain_name": "novatestnet",
+    "id": "novatestnet",
     "chainName": "NOVA (Supernova)",
     "logo": "nova.webp",
     "twitter": "https://twitter.com/Supernovazone",
@@ -1872,7 +1872,7 @@
     "isArchive": true
   },
   {
-    "chain_name": "nolustestnet",
+    "id": "nolustestnet",
     "chainName": "nolus",
     "prettyChainName": "Nolus Protocol",
     "chainId": "nolus-rila",
@@ -1910,7 +1910,7 @@
     ]
   },
   {
-    "chain_name": "noistestnet",
+    "id": "noistestnet",
     "chainName": "nois",
     "prettyChainName": "Nois Network",
     "chainId": "nois-testnet-004",
@@ -1950,7 +1950,7 @@
     ]
   },
   {
-    "chain_name": "quasartestnet",
+    "id": "quasartestnet",
     "chainName": "Quasar",
     "chainId": "qsr-questnet-04",
     "logo": "quasar.webp",
@@ -1988,7 +1988,7 @@
     ]
   },
   {
-    "chain_name": "stride",
+    "id": "stride",
     "chainName": "Stride",
     "chainId": "stride-1",
     "logo": "stride.webp",
@@ -2018,7 +2018,7 @@
     ]
   },
   {
-    "chain_name": "axelartestnet",
+    "id": "axelartestnet",
     "chainName": "axelar",
     "prettyChainName": "Axelar",
     "chainId": "axelar-testnet-lisbon-3",
@@ -2051,7 +2051,7 @@
     ]
   },
   {
-    "chain_name": "teritoritestnet",
+    "id": "teritoritestnet",
     "chainName": "Teritori",
     "chainId": "teritori-testnet-v3",
     "logo": "teritori.webp",
@@ -2084,7 +2084,7 @@
     ]
   },
   {
-    "chain_name": "neutrontestnet",
+    "id": "neutrontestnet",
     "chainName": "Neutron",
     "chainId": "baryon-1",
     "logo": "neutron.jpeg",
@@ -2118,7 +2118,7 @@
     ]
   },
   {
-    "chain_name": "cosmostestnet",
+    "id": "cosmostestnet",
     "chainName": "cosmoshub",
     "prettyChainName": "Cosmos Network",
     "chainId": "provider",
@@ -2154,7 +2154,7 @@
     ]
   },
   {
-    "chain_name": "gitopiatestnet",
+    "id": "gitopiatestnet",
     "chainName": "gitopia",
     "prettyChainName": "Gitopia",
     "chainId": "gitopia-janus-testnet-2",
@@ -2191,7 +2191,7 @@
     ]
   },
   {
-    "chain_name": "palomatestnet",
+    "id": "palomatestnet",
     "chainName": "Paloma",
     "chainId": "paloma-testnet-15",
     "logo": "paloma.webp",
@@ -2225,7 +2225,7 @@
     ]
   },
   {
-    "chain_name": "terpnetworktestnet",
+    "id": "terpnetworktestnet",
     "chainName": "terp",
     "prettyChainName": "Terp Network",
     "chainId": "90u-1",
