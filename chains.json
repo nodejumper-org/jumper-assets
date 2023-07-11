@@ -18,6 +18,9 @@
     "validatorUrl": "https://restake.app/rizon/rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr/delegate",
     "gasDenomName": "uatolo",
     "githubRepoName": "rizon",
+    "validator": {
+      "address": "rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr"
+    },
     "externalRpcArray": [
       "https://rpcapi.rizon.world",
       "https://rizon-rpc.ibs.team",
@@ -50,6 +53,9 @@
     "validatorUrl": "https://restake.app/bitcanna/bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y/delegate",
     "gasDenomName": "ubcna",
     "githubRepoName": "bcna",
+    "validator": {
+      "address": "bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y"
+    },
     "externalRpcArray": [
       "https://rpc.bitcanna.io",
       "https://rpc.cosmos.directory/bitcanna",
@@ -83,6 +89,9 @@
     "validatorUrl": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate",
     "gasDenomName": "udsm",
     "githubRepoName": "desmos",
+    "validator": {
+      "address": "desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x"
+    },
     "externalRpcArray": [
       "https://rpc.cosmos.directory/desmos",
       "https://desmos-rpc.lavenderfive.com",
@@ -93,6 +102,47 @@
       "https://desmos-api.ibs.team",
       "https://desmos-api.panthea.eu",
       "https://desmos-api.lavenderfive.com"
+    ]
+  },
+  {
+    "id": "empowerchain",
+    "chainName": "empower",
+    "prettyChainName": "Empower Chain",
+    "chainId": "empowerchain-1",
+    "logo": "empower.webp",
+    "snapshotServer": "https://snapshots2.nodejumper.io",
+    "rpcServer": "https://empower.nodejumper.io",
+    "rpcPeer": "3343ffb96cb73f52d66d684871246c395c1b27fb@empowerchain.nodejumper.io:35656",
+    "binaryName": "empowerd",
+    "homeDirectoryName": ".empowerchain",
+    "twitter": "https://twitter.com/empowerchain_io",
+    "github": "https://github.com/empowerchain",
+    "globe": "https://www.empowerchain.io",
+    "discord": "https://discord.gg/xVMWBreSfN",
+    "telegram": "https://t.me/empowerchain",
+    "blockExplorer": "https://empowerchain.exploreme.pro",
+    "validatorUrl": "https://restake.app/empowerchain/empowervaloper1ncxmgfs86khyuh0g3pruqetclrxd0f7843j485/stake",
+    "gasDenomName": "umpwr",
+    "isStateSyncEnabled": false,
+    "isWasmOnRootLevelEnabled": true,
+    "isWasmOnStateSyncEnabled": true,
+    "validator": {
+      "address": "empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
+      "genesis": true
+    },
+    "hardwareRequirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "externalRpcArray": [
+      "https://rpc-empowerchain.ecostake.com:443",
+      "https://empowerchain-mainnet-rpc.autostake.com:443",
+      "https://empower.rpc.liveraven.net"
+    ],
+    "externalApiArray": [
+      "https://rest-empowerchain.ecostake.com:443",
+      "https://empowerchain-mainnet-lcd.autostake.com:443",
+      "https://empower.api.liveraven.net"
     ]
   },
   {
@@ -115,6 +165,9 @@
     "validatorUrl": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe",
     "gasDenomName": "uflix",
     "githubRepoName": "omniflixhub",
+    "validator": {
+      "address": "omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe"
+    },
     "externalRpcArray": [
       "https://rpc.cosmos.directory/omniflixhub",
       "https://rpc-omniflixhub-ia.cosmosia.notional.ventures",
@@ -148,6 +201,9 @@
     "gasDenomName": "uiov",
     "githubRepoName": "starnamed",
     "isStateSyncEnabled": true,
+    "validator": {
+      "address": "starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf"
+    },
     "externalRpcArray": [
       "https://rpc-iov.keplr.app",
       "https://rpc.cosmos.directory/starname",
@@ -178,6 +234,10 @@
     "coingekoCoinId": "stafi",
     "gasDenomName": "ufis",
     "githubRepoName": "stafihub",
+    "validator": {
+      "address": "stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv",
+      "genesis": true
+    },
     "externalRpcArray": [
       "https://public-rpc1.stafihub.io:443",
       "https://public-rpc2.stafihub.io:443",
@@ -211,6 +271,10 @@
     "gasDenomName": "arebus",
     "isStateSyncEnabled": false,
     "githubRepoName": "rebus.core",
+    "validator": {
+      "address": "rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8",
+      "genesis": true
+    },
     "externalRpcArray": [
       "https://api.rebuschain.com:26657",
       "https://rpc.cosmos.directory/rebus",
@@ -244,6 +308,10 @@
     "gasDenomName": "utori",
     "githubRepoName": "teritori-chain",
     "isWasmOnStateSyncEnabled": true,
+    "validator": {
+      "address": "torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
+      "genesis": true
+    },
     "externalRpcArray": [
       "https://rpc.cosmos.directory/teritori",
       "https://teritori-rpc.lavenderfive.com",
@@ -280,6 +348,10 @@
     "coingekoCoinId": "jackal-protocol",
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
+    "validator": {
+      "address": "jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
+      "commissionRate": 0.06
+    },
     "externalRpcArray": [
       "https://rpc.cosmos.directory/jackal",
       "https://jackal.rpc.kjnodes.com",
@@ -346,6 +418,11 @@
     "validatorUrl": "https://paloma.explorers.guru/validator/palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
     "gasDenomName": "ugrain",
     "githubRepoName": "paloma",
+    "validator": {
+      "address": "palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
+      "genesis": true,
+      "commissionRate": 0.1
+    },
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
@@ -381,6 +458,10 @@
     "validatorUrl": "https://restake.app/assetmantle/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje",
     "gasDenomName": "umntl",
     "githubRepoName": "node",
+    "validator": {
+      "address": "mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje",
+      "genesis": true
+    },
     "externalRpcArray": [
       "https://rpc.assetmantle.one",
       "https://rpc.cosmos.directory/assetmantle",
@@ -416,6 +497,9 @@
     "githubRepoName": "ununifi",
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
+    "validator": {
+      "address": "ununifivaloper15lp2nwccku06xnrgfpany9elrt75exy2hngplz"
+    },
     "externalRpcArray": [
       "https://ununifi.rpc.m.anode.team",
       "http://65.108.199.120:60657",
@@ -450,6 +534,10 @@
     "githubRepoName": "aura",
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
+    "validator": {
+      "address": "auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu",
+      "genesis": true
+    },
     "externalRpcArray": [
       "https://rpc.aura.network",
       "https://aura.rpc.kjnodes.com",
@@ -481,6 +569,10 @@
     "gasDenomName": "auptick",
     "githubRepoName": "uptick",
     "isLeaderboardEnabled": true,
+    "validator": {
+      "address": "uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
+      "genesis": true
+    },
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
@@ -518,6 +610,10 @@
     "validatorUrl": "https://restake.app/nois/noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
     "gasDenomName": "unois",
     "githubRepoName": "noisd",
+    "validator": {
+      "address": "noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
+      "genesis": true
+    },
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
@@ -555,6 +651,10 @@
     "githubRepoName": "core",
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
+    "validator": {
+      "address": "kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
+      "genesis": true
+    },
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 16RAM 200GB"
@@ -598,6 +698,10 @@
     "githubRepoName": "terp-core",
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
+    "validator": {
+      "address": "terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
+      "genesis": true
+    },
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
@@ -635,6 +739,10 @@
     "gasDenomName": "ufct",
     "githubRepoName": "firmachain",
     "isWasmOnStateSyncEnabled": true,
+    "validator": {
+      "address": "firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst",
+      "genesis": true
+    },
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 100GB",
       "recommendedSpecification": "4CPU 8RAM 200GB"
@@ -672,6 +780,10 @@
     "validatorUrl": "https://restake.app/gitopia/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4/stake",
     "gasDenomName": "ulore",
     "githubRepoName": "gitopia",
+    "validator": {
+      "address": "gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
+      "genesis": true
+    },
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
@@ -708,6 +820,11 @@
     "validatorUrl": "https://humans.explorers.guru/validator/humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt",
     "gasDenomName": "aheart",
     "githubRepoName": "humans",
+    "validator": {
+      "address": "humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt",
+      "genesis": true,
+      "commissionRate": 0.1
+    },
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
@@ -783,6 +900,10 @@
     "blockExplorer": "https://explorer.kjnodes.com/composable",
     "validatorUrl": "https://restake.app/composable/centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz/stake",
     "gasDenomName": "ppica",
+    "validator": {
+      "address": "centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz",
+      "genesis": true
+    },
     "externalRpcArray": [
       "https://composable.rpc.kjnodes.com/",
       "https://composable-mainnet.rpc.l0vd.com/",
@@ -1763,6 +1884,11 @@
     "blockExplorer": "https://pylons.explorers.guru",
     "validatorUrl": "https://pylons.explorers.guru/validator/pylovaloper198f2dvdx8hprdtghqhg2823vhh9xltskjjf8ak",
     "gasDenomName": "ubedrock",
+    "validator": {
+      "address": "pylovaloper1gaxmegsarn8vquy573750ffklulw8pf8g2usyw",
+      "genesis": true,
+      "commissionRate": 0.05
+    },
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 160GB",
       "recommendedSpecification": "8CPU 16RAM 500GB"
