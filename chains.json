@@ -651,7 +651,7 @@
     "githubRepoName": "core",
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
-    "apr": 0.11,
+    "apr": 0.011,
     "validator": {
       "address": "kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
       "genesis": true
