@@ -978,7 +978,7 @@
     "gasDenomName": "auptick",
     "githubRepoName": "uptick",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
@@ -1755,7 +1755,7 @@
     "gasDenomName": "uan1",
     "githubRepoName": "anone",
     "isTestnet": true,
-    "isArchive": true
+    "is_archive": true
   },
   {
     "id": "quicksilvertestnet",
@@ -1777,7 +1777,7 @@
     "githubRepoName": "quicksilver",
     "testnetTasksLink": "https://github.com/ingenuity-build/testnets/blob/main/killerqueen/VALIDATOR_TASKS.md",
     "isTestnet": true,
-    "isArchive": true
+    "is_archive": true
   },
   {
     "id": "rebustestnet",
@@ -1798,7 +1798,7 @@
     "gasDenomName": "arebus",
     "githubRepoName": "rebus.core",
     "isTestnet": true,
-    "isArchive": true
+    "is_archive": true
   },
   {
     "id": "stafihubtestnet",
@@ -1818,7 +1818,7 @@
     "gasDenomName": "ufis",
     "githubRepoName": "stafihub",
     "isTestnet": true,
-    "isArchive": true
+    "is_archive": true
   },
   {
     "id": "stridetestnet",
@@ -1839,7 +1839,7 @@
     "testnetTasksLink": "https://github.com/Stride-Labs/testnet/tree/main/incentivized-testnet",
     "githubRepoName": "stride",
     "isTestnet": true,
-    "isArchive": true
+    "is_archive": true
   },
   {
     "id": "empowertestnet",
@@ -1861,7 +1861,7 @@
     "gasDenomName": "umpwr",
     "isStateSyncEnabled": false,
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
@@ -1881,7 +1881,7 @@
     "globe": "https://www.pylons.tech",
     "discord": "https://discord.com/invite/pylons",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "isStateSyncEnabled": false,
     "blockExplorer": "https://pylons.explorers.guru",
     "validatorUrl": "https://pylons.explorers.guru/validator/pylovaloper198f2dvdx8hprdtghqhg2823vhh9xltskjjf8ak",
@@ -1923,7 +1923,7 @@
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
-    "isArchive": true,
+    "is_archive": true,
     "externalRpcArray": [
     ]
   },
@@ -1945,7 +1945,7 @@
     "gasDenomName": "udws",
     "githubRepoName": "deweb",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
     "hardwareRequirements": {
@@ -1975,7 +1975,7 @@
     "discord": "https://discord.com/invite/marsprotocol",
     "validatorUrl": "https://mars.explorers.guru/validator/marsvaloper186t4ggaf2sgqqvjcyspgwretzk8ktczsyzayf5",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "gasDenomName": "umars",
     "githubRepoName": "hub",
     "hardwareRequirements": {
@@ -1998,7 +1998,7 @@
     "discord": "https://discord.gg/d4VX6pRTmG",
     "medium": "https://medium.com/supernovazone",
     "isTestnet": true,
-    "isArchive": true
+    "is_archive": true
   },
   {
     "id": "nolustestnet",
@@ -2019,7 +2019,7 @@
     "blockExplorer": "https://nolus.explorers.guru",
     "validatorUrl": "https://nolus.explorers.guru/validator/nolusvaloper1y7lfy9909gjfrrudwa3y8z0ndp9xlf0a2ukn2n",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
     "gasDenomName": "unls",
@@ -2058,7 +2058,7 @@
     "validatorUrl": "https://testnet.ping.pub/nois/staking/noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
     "isTestnet": true,
     "isStateSyncEnabled": false,
-    "isArchive": true,
+    "is_archive": true,
     "gasDenomName": "unois",
     "githubRepoName": "noisd",
     "hardwareRequirements": {
@@ -2100,7 +2100,7 @@
     "isTestnet": true,
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
-    "isArchive": true,
+    "is_archive": true,
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
@@ -2134,7 +2134,7 @@
     "validatorUrl": "https://restake.app/stride/stridevaloper1y7p8qd4sk5k95mewazug73ag8vza8u7uzy2f2f",
     "gasDenomName": "ustrd",
     "githubRepoName": "stride",
-    "isArchive": true,
+    "is_archive": true,
     "externalRpcArray": [
       "https://rpc.cosmos.directory/stride",
       "https://stride-rpc.polkachu.com",
@@ -2164,7 +2164,7 @@
     "blockExplorer": "https://testnet.axelarscan.io",
     "validatorUrl": "https://testnet.axelarscan.io/validator/axelarvaloper1e3ckcfvevgss32an3pgp98ymyu4e27hm4t6xgl",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "gasDenomName": "uaxl",
     "githubRepoName": "axelar-core",
     "hardwareRequirements": {
@@ -2199,7 +2199,7 @@
     "blockExplorer": "https://explorer.stavr.tech/teritori",
     "validatorUrl": "https://explorer.stavr.tech/teritori/staking/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "isWasmOnStateSyncEnabled": true,
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 80GB",
@@ -2230,7 +2230,7 @@
     "gasDenomName": "untrn",
     "githubRepoName": "neutron",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
@@ -2268,7 +2268,7 @@
     "gasDenomName": "uatom",
     "githubRepoName": "",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
@@ -2303,7 +2303,7 @@
     "isTestnet": true,
     "gasDenomName": "utlore",
     "githubRepoName": "gitopia",
-    "isArchive": true,
+    "is_archive": true,
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
@@ -2338,7 +2338,7 @@
     "validatorUrl": "https://testnet.paloma.explorers.guru/validator/palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
     "gasDenomName": "ugrain",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "githubRepoName": "paloma",
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 80GB",
@@ -2374,7 +2374,7 @@
     "gasDenomName": "uthiol",
     "githubRepoName": "terp-core",
     "isTestnet": true,
-    "isArchive": true,
+    "is_archive": true,
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
     "hardwareRequirements": {
