@@ -309,6 +309,7 @@
     "id": "kujira",
     "chainName": "kujira",
     "network_type": "mainnet",
+    "apr": 0.011,
     "logo": "kujira.svg",
     "snapshot_server": "https://snapshots2.nodejumper.io",
     "rpc_server": "https://kujira.nodejumper.io",
