@@ -123,9 +123,9 @@
     "blockExplorer": "https://empowerchain.exploreme.pro",
     "validatorUrl": "https://restake.app/empowerchain/empowervaloper1ncxmgfs86khyuh0g3pruqetclrxd0f7843j485/stake",
     "gasDenomName": "umpwr",
-    "isStateSyncEnabled": false,
-    "isWasmOnRootLevelEnabled": true,
-    "isWasmOnStateSyncEnabled": true,
+    "is_state_sync_enabled": false,
+    "is_wasm_on_root_level_enabled": true,
+    "is_wasm_on_state_sync_enabled": true,
     "validator": {
       "address": "empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
       "is_genesis": true
@@ -200,7 +200,7 @@
     "validatorUrl": "https://restake.app/starname/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate",
     "gasDenomName": "uiov",
     "githubRepoName": "starnamed",
-    "isStateSyncEnabled": true,
+    "is_state_sync_enabled": true,
     "validator": {
       "address": "starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf"
     },
@@ -269,7 +269,7 @@
     "blockExplorer": "https://rebus.explorers.guru",
     "validatorUrl": "https://restake.app/rebus/rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8/delegate",
     "gasDenomName": "arebus",
-    "isStateSyncEnabled": false,
+    "is_state_sync_enabled": false,
     "githubRepoName": "rebus.core",
     "validator": {
       "address": "rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8",
@@ -307,7 +307,7 @@
     "validatorUrl": "https://restake.app/teritori/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0/delegate",
     "gasDenomName": "utori",
     "githubRepoName": "teritori-chain",
-    "isWasmOnStateSyncEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
     "validator": {
       "address": "torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
       "is_genesis": true
@@ -346,8 +346,8 @@
     "gasDenomName": "ujkl",
     "githubRepoName": "canine-chain",
     "coingekoCoinId": "jackal-protocol",
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "validator": {
       "address": "jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
       "commissionRate": 0.06
@@ -495,8 +495,8 @@
     "validatorUrl": "https://restake.app/ununifi/ununifivaloper15lp2nwccku06xnrgfpany9elrt75exy2hngplz/stake",
     "gasDenomName": "uguu",
     "githubRepoName": "ununifi",
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "validator": {
       "address": "ununifivaloper15lp2nwccku06xnrgfpany9elrt75exy2hngplz"
     },
@@ -532,8 +532,8 @@
     "validatorUrl": "https://restake.app/aura/auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu",
     "gasDenomName": "uaura",
     "githubRepoName": "aura",
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "validator": {
       "address": "auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu",
       "is_genesis": true
@@ -649,8 +649,8 @@
     "validatorUrl": "https://restake.app/kujira/kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
     "gasDenomName": "ukuji",
     "githubRepoName": "core",
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "apr": 0.011,
     "validator": {
       "address": "kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
@@ -697,8 +697,8 @@
     "validatorUrl": "https://restake.app/terpnetwork/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
     "gasDenomName": "uterp",
     "githubRepoName": "terp-core",
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "validator": {
       "address": "terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
       "is_genesis": true
@@ -739,7 +739,7 @@
     "validatorUrl": "https://restake.app/firmachain/firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst",
     "gasDenomName": "ufct",
     "githubRepoName": "firmachain",
-    "isWasmOnStateSyncEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
     "validator": {
       "address": "firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst",
       "is_genesis": true
@@ -939,10 +939,10 @@
     "gasDenomName": "usei",
     "githubRepoName": "sei-chain",
     "isTestnet": true,
-    "isStateSyncEnabled": false,
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
-    "isAddressBookEnabled": false,
+    "is_state_sync_enabled": false,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
+    "is_address_book_enabled": false,
     "hardware_requirements": {
       "minSpecification": "8CPU 32RAM 500GB",
       "recommendedSpecification": "16CPU 64GB 1TB"
@@ -1115,7 +1115,7 @@
     "gasDenomName": "unibi",
     "githubRepoName": "nibiru",
     "isTestnet": true,
-    "isWasmOnStateSyncEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
@@ -1148,9 +1148,9 @@
     "blockExplorer": "https://defund.explorers.guru",
     "validatorUrl": "https://defund.explorers.guru/validator/defundvaloper1lgjudr8nz4p772m04h5rdz66xks3q6jxgaf297",
     "isTestnet": true,
-    "isStateSyncEnabled": false,
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_state_sync_enabled": false,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "gasDenomName": "ufetf",
     "githubRepoName": "defund",
     "hardware_requirements": {
@@ -1193,7 +1193,7 @@
       "recommendedSpecification": "8CPU 16RAM 500GB"
     },
     "regular_block_time": 300,
-    "isStateSyncEnabled": false,
+    "is_state_sync_enabled": false,
     "externalRpcArray": [
       "https://rpc-1.celestia.nodes.guru",
       "https://rpc-t.celestia.nodestake.top",
@@ -1226,7 +1226,7 @@
     "blockExplorer": "https://lava.explorers.guru",
     "validatorUrl": "https://lava.explorers.guru/validator/lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty",
     "isTestnet": true,
-    "isStateSyncEnabled": false,
+    "is_state_sync_enabled": false,
     "gasDenomName": "ulava",
     "githubRepoName": "lava",
     "hardware_requirements": {
@@ -1264,7 +1264,7 @@
     "isTestnet": true,
     "gasDenomName": "ubbn",
     "githubRepoName": "babylon",
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
@@ -1301,8 +1301,8 @@
     "gasDenomName": "uandr",
     "githubRepoName": "andromedad",
     "isTestnet": true,
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
@@ -1519,8 +1519,8 @@
     "validatorUrl": "https://testnet.mintscan.io/archway-testnet/validators/archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx",
     "isTestnet": true,
     "gasDenomName": "aconst",
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
@@ -1650,7 +1650,7 @@
     "validatorUrl": "https://empower.explorers.guru/validator/empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
     "gasDenomName": "umpwr",
     "isTestnet": true,
-    "isStateSyncEnabled": false,
+    "is_state_sync_enabled": false,
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
@@ -1717,8 +1717,8 @@
     "gasDenomName": "ucrd",
     "stakingDenomName": "unoria",
     "isTestnet": true,
-    "isWasmOnRootLevelEnabled": true,
-    "isWasmOnStateSyncEnabled": true,
+    "is_wasm_on_root_level_enabled": true,
+    "is_wasm_on_state_sync_enabled": true,
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
@@ -1859,7 +1859,7 @@
     "blockExplorer": "https://empower.explorers.guru",
     "validatorUrl": "https://empower.explorers.guru/validator/empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
     "gasDenomName": "umpwr",
-    "isStateSyncEnabled": false,
+    "is_state_sync_enabled": false,
     "isTestnet": true,
     "is_archive": true,
     "hardware_requirements": {
@@ -1882,7 +1882,7 @@
     "discord": "https://discord.com/invite/pylons",
     "isTestnet": true,
     "is_archive": true,
-    "isStateSyncEnabled": false,
+    "is_state_sync_enabled": false,
     "blockExplorer": "https://pylons.explorers.guru",
     "validatorUrl": "https://pylons.explorers.guru/validator/pylovaloper198f2dvdx8hprdtghqhg2823vhh9xltskjjf8ak",
     "gasDenomName": "ubedrock",
@@ -1946,8 +1946,8 @@
     "githubRepoName": "deweb",
     "isTestnet": true,
     "is_archive": true,
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
@@ -2020,8 +2020,8 @@
     "validatorUrl": "https://nolus.explorers.guru/validator/nolusvaloper1y7lfy9909gjfrrudwa3y8z0ndp9xlf0a2ukn2n",
     "isTestnet": true,
     "is_archive": true,
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "gasDenomName": "unls",
     "githubRepoName": "nolus-core",
     "hardware_requirements": {
@@ -2057,7 +2057,7 @@
     "blockExplorer": "https://testnet.ping.pub/nois",
     "validatorUrl": "https://testnet.ping.pub/nois/staking/noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
     "isTestnet": true,
-    "isStateSyncEnabled": false,
+    "is_state_sync_enabled": false,
     "is_archive": true,
     "gasDenomName": "unois",
     "githubRepoName": "noisd",
@@ -2098,8 +2098,8 @@
     "gasDenomName": "uqsr",
     "githubRepoName": "",
     "isTestnet": true,
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "is_archive": true,
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
@@ -2200,7 +2200,7 @@
     "validatorUrl": "https://explorer.stavr.tech/teritori/staking/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
     "isTestnet": true,
     "is_archive": true,
-    "isWasmOnStateSyncEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
@@ -2375,8 +2375,8 @@
     "githubRepoName": "terp-core",
     "isTestnet": true,
     "is_archive": true,
-    "isWasmOnStateSyncEnabled": true,
-    "isWasmOnRootLevelEnabled": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
