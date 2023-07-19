@@ -128,7 +128,7 @@
     "isWasmOnStateSyncEnabled": true,
     "validator": {
       "address": "empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
-      "genesis": true
+      "is_genesis": true
     },
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 80GB",
@@ -236,7 +236,7 @@
     "githubRepoName": "stafihub",
     "validator": {
       "address": "stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv",
-      "genesis": true
+      "is_genesis": true
     },
     "externalRpcArray": [
       "https://public-rpc1.stafihub.io:443",
@@ -273,7 +273,7 @@
     "githubRepoName": "rebus.core",
     "validator": {
       "address": "rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8",
-      "genesis": true
+      "is_genesis": true
     },
     "externalRpcArray": [
       "https://api.rebuschain.com:26657",
@@ -310,7 +310,7 @@
     "isWasmOnStateSyncEnabled": true,
     "validator": {
       "address": "torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
-      "genesis": true
+      "is_genesis": true
     },
     "externalRpcArray": [
       "https://rpc.cosmos.directory/teritori",
@@ -420,7 +420,7 @@
     "githubRepoName": "paloma",
     "validator": {
       "address": "palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
-      "genesis": true,
+      "is_genesis": true,
       "commissionRate": 0.1
     },
     "hardwareRequirements": {
@@ -460,7 +460,7 @@
     "githubRepoName": "node",
     "validator": {
       "address": "mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje",
-      "genesis": true
+      "is_genesis": true
     },
     "externalRpcArray": [
       "https://rpc.assetmantle.one",
@@ -536,7 +536,7 @@
     "isWasmOnRootLevelEnabled": true,
     "validator": {
       "address": "auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu",
-      "genesis": true
+      "is_genesis": true
     },
     "externalRpcArray": [
       "https://rpc.aura.network",
@@ -571,7 +571,7 @@
     "isLeaderboardEnabled": true,
     "validator": {
       "address": "uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
-      "genesis": true
+      "is_genesis": true
     },
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 80GB",
@@ -612,7 +612,7 @@
     "githubRepoName": "noisd",
     "validator": {
       "address": "noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
-      "genesis": true
+      "is_genesis": true
     },
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
@@ -654,7 +654,7 @@
     "apr": 0.011,
     "validator": {
       "address": "kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
-      "genesis": true
+      "is_genesis": true
     },
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
@@ -701,7 +701,7 @@
     "isWasmOnRootLevelEnabled": true,
     "validator": {
       "address": "terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
-      "genesis": true
+      "is_genesis": true
     },
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 80GB",
@@ -742,7 +742,7 @@
     "isWasmOnStateSyncEnabled": true,
     "validator": {
       "address": "firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst",
-      "genesis": true
+      "is_genesis": true
     },
     "hardwareRequirements": {
       "minSpecification": "3CPU 4RAM 100GB",
@@ -783,7 +783,7 @@
     "githubRepoName": "gitopia",
     "validator": {
       "address": "gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
-      "genesis": true
+      "is_genesis": true
     },
     "hardwareRequirements": {
       "minSpecification": "4CPU 8RAM 100GB",
@@ -823,7 +823,7 @@
     "githubRepoName": "humans",
     "validator": {
       "address": "humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt",
-      "genesis": true,
+      "is_genesis": true,
       "commissionRate": 0.1
     },
     "hardwareRequirements": {
@@ -904,7 +904,7 @@
     "gasDenomName": "ppica",
     "validator": {
       "address": "centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz",
-      "genesis": true
+      "is_genesis": true
     },
     "externalRpcArray": [
       "https://composable.rpc.kjnodes.com/",
@@ -1888,7 +1888,7 @@
     "gasDenomName": "ubedrock",
     "validator": {
       "address": "pylovaloper1gaxmegsarn8vquy573750ffklulw8pf8g2usyw",
-      "genesis": true,
+      "is_genesis": true,
       "commissionRate": 0.05
     },
     "hardwareRequirements": {
