@@ -130,7 +130,7 @@
       "address": "empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
       "is_genesis": true
     },
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -382,7 +382,7 @@
     "validatorUrl": "https://pylons.explorers.guru/validator/pylovaloper1gaxmegsarn8vquy573750ffklulw8pf8g2usyw",
     "gasDenomName": "ubedrock",
     "githubRepoName": "pylons",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 160GB",
       "recommendedSpecification": "8CPU 16RAM 500GB"
     },
@@ -423,7 +423,7 @@
       "is_genesis": true,
       "commissionRate": 0.1
     },
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -573,7 +573,7 @@
       "address": "uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
       "is_genesis": true
     },
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -614,7 +614,7 @@
       "address": "noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
       "is_genesis": true
     },
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -656,7 +656,7 @@
       "address": "kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
       "is_genesis": true
     },
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 16RAM 200GB"
     },
@@ -703,7 +703,7 @@
       "address": "terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
       "is_genesis": true
     },
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -744,7 +744,7 @@
       "address": "firmavaloper1rkcxlv6t6tygmfnnp3v270qru3uq0lnxpatjst",
       "is_genesis": true
     },
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 100GB",
       "recommendedSpecification": "4CPU 8RAM 200GB"
     },
@@ -785,7 +785,7 @@
       "address": "gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
       "is_genesis": true
     },
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -826,7 +826,7 @@
       "is_genesis": true,
       "commissionRate": 0.1
     },
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -864,7 +864,7 @@
     "validatorUrl": "https://restake.app/agoric/agoricvaloper12ehd03atjwrhrhlpvgsvuqegrmydzz67mw079v/stake",
     "gasDenomName": "ubld",
     "githubRepoName": "agoric-sdk",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 16RAM 200GB",
       "recommendedSpecification": "8CPU 32RAM 500GB"
     },
@@ -943,7 +943,7 @@
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
     "isAddressBookEnabled": false,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "8CPU 32RAM 500GB",
       "recommendedSpecification": "16CPU 64GB 1TB"
     },
@@ -979,7 +979,7 @@
     "githubRepoName": "uptick",
     "isTestnet": true,
     "is_archive": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -1011,7 +1011,7 @@
     "gasDenomName": "ubpf",
     "isTestnet": true,
     "githubRepoName": "Cardchain",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -1046,7 +1046,7 @@
     "gasDenomName": "utollo",
     "githubRepoName": "ollo",
     "isTestnet": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -1079,7 +1079,7 @@
     "gasDenomName": "uknow",
     "githubRepoName": "okp4d",
     "isTestnet": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "2CPU 4RAM 100GB",
       "recommendedSpecification": "2CPU 8RAM 200GB"
     },
@@ -1116,7 +1116,7 @@
     "githubRepoName": "nibiru",
     "isTestnet": true,
     "isWasmOnStateSyncEnabled": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -1153,7 +1153,7 @@
     "isWasmOnRootLevelEnabled": true,
     "gasDenomName": "ufetf",
     "githubRepoName": "defund",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -1188,11 +1188,11 @@
     "validatorUrl": "https://celestia.explorers.guru/validator/celestiavaloper1aecswhtwadfdzunq38zqcfsc29hg64tcv8jcpg",
     "gasDenomName": "utia",
     "githubRepoName": "celestia-app",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 250GB",
       "recommendedSpecification": "8CPU 16RAM 500GB"
     },
-    "regularBlockTime": 300,
+    "regular_block_time": 300,
     "isStateSyncEnabled": false,
     "externalRpcArray": [
       "https://rpc-1.celestia.nodes.guru",
@@ -1229,11 +1229,11 @@
     "isStateSyncEnabled": false,
     "gasDenomName": "ulava",
     "githubRepoName": "lava",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
-    "regularBlockTime": 300,
+    "regular_block_time": 300,
     "externalRpcArray": [
       "https://rpc-1.lava.nodes.guru",
       "https://lava-testnet.rpc.kjnodes.com",
@@ -1265,7 +1265,7 @@
     "gasDenomName": "ubbn",
     "githubRepoName": "babylon",
     "isWasmOnRootLevelEnabled": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -1303,7 +1303,7 @@
     "isTestnet": true,
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
     },
@@ -1340,7 +1340,7 @@
     "gasDenomName": "udym",
     "githubRepoName": "dymension",
     "isTestnet": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
     },
@@ -1373,10 +1373,10 @@
     "blockExplorer": "https://althea.explorers.guru",
     "validatorUrl": "https://althea.explorers.guru/validator/altheavaloper1u8952g337qtgkszzmz3vr5ykkyf3gddxt88uk0",
     "gasDenomName": "ualthea",
-    "denomExponent": 18,
+    "denom_exponent": 18,
     "githubRepoName": "althea-chain",
     "isTestnet": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
     },
@@ -1411,7 +1411,7 @@
     "gasDenomName": "uojo",
     "githubRepoName": "ojo",
     "isTestnet": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
     },
@@ -1448,7 +1448,7 @@
     "isTestnet": true,
     "gasDenomName": "aheart",
     "githubRepoName": "humans",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -1483,7 +1483,7 @@
     "validatorUrl": "https://testnet.cascadia.explorers.guru/validator/cascadiavaloper104g6jcsg6fmmvn2a2t0nqg4ex68xgqdt4yvxh2",
     "isTestnet": true,
     "gasDenomName": "aCC",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -1521,7 +1521,7 @@
     "gasDenomName": "aconst",
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -1651,7 +1651,7 @@
     "gasDenomName": "umpwr",
     "isTestnet": true,
     "isStateSyncEnabled": false,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -1687,7 +1687,7 @@
     "validatorUrl": "https://zetachain.exploreme.pro/validator/zetavaloper1meq97nclpc3vd9zj6y43wvgfncshqg2l9lwg94",
     "gasDenomName": "azeta",
     "isTestnet": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 300GB",
       "recommendedSpecification": "8CPU 32RAM 300GB"
     },
@@ -1719,7 +1719,7 @@
     "isTestnet": true,
     "isWasmOnRootLevelEnabled": true,
     "isWasmOnStateSyncEnabled": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -1862,7 +1862,7 @@
     "isStateSyncEnabled": false,
     "isTestnet": true,
     "is_archive": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     }
@@ -1891,7 +1891,7 @@
       "is_genesis": true,
       "commissionRate": 0.05
     },
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 160GB",
       "recommendedSpecification": "8CPU 16RAM 500GB"
     },
@@ -1919,7 +1919,7 @@
     "validatorUrl": "",
     "gasDenomName": "aISLM",
     "isTestnet": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -1948,7 +1948,7 @@
     "is_archive": true,
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -1978,7 +1978,7 @@
     "is_archive": true,
     "gasDenomName": "umars",
     "githubRepoName": "hub",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -2024,7 +2024,7 @@
     "isWasmOnRootLevelEnabled": true,
     "gasDenomName": "unls",
     "githubRepoName": "nolus-core",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -2061,7 +2061,7 @@
     "is_archive": true,
     "gasDenomName": "unois",
     "githubRepoName": "noisd",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -2101,7 +2101,7 @@
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
     "is_archive": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
     },
@@ -2167,7 +2167,7 @@
     "is_archive": true,
     "gasDenomName": "uaxl",
     "githubRepoName": "axelar-core",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "16CPU 16RAM 1.5TB+",
       "recommendedSpecification": "32CPU 32RAM 2TB+"
     },
@@ -2201,7 +2201,7 @@
     "isTestnet": true,
     "is_archive": true,
     "isWasmOnStateSyncEnabled": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -2231,7 +2231,7 @@
     "githubRepoName": "neutron",
     "isTestnet": true,
     "is_archive": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
     },
@@ -2269,7 +2269,7 @@
     "githubRepoName": "",
     "isTestnet": true,
     "is_archive": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
     },
@@ -2304,7 +2304,7 @@
     "gasDenomName": "utlore",
     "githubRepoName": "gitopia",
     "is_archive": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
@@ -2340,7 +2340,7 @@
     "isTestnet": true,
     "is_archive": true,
     "githubRepoName": "paloma",
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
@@ -2377,7 +2377,7 @@
     "is_archive": true,
     "isWasmOnStateSyncEnabled": true,
     "isWasmOnRootLevelEnabled": true,
-    "hardwareRequirements": {
+    "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
