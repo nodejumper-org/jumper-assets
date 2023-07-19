@@ -361,7 +361,7 @@
     }
   },
   {
-    "id": "omniflix",
+    "id": "omniflixhub",
     "chainName": "Omniflix",
     "network_type": "mainnet",
     "logo": "omniflix.webp",
@@ -546,7 +546,7 @@
     "is_wasm_on_state_sync_enabled": true
   },
   {
-    "id": "terp",
+    "id": "terpnetwork",
     "chainName": "terp",
     "network_type": "mainnet",
     "logo": "terp.webp",
