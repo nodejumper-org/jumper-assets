@@ -1775,7 +1775,7 @@
     "validatorUrl": "https://quicksilver.explorers.guru/validator/quickvaloper159njc3xk0xv76x323936frgwxf9zn3wvp0dj8n",
     "gasDenomName": "uqck",
     "githubRepoName": "quicksilver",
-    "testnetTasksLink": "https://github.com/ingenuity-build/testnets/blob/main/killerqueen/VALIDATOR_TASKS.md",
+    "testnet_tasks_url": "https://github.com/ingenuity-build/testnets/blob/main/killerqueen/VALIDATOR_TASKS.md",
     "isTestnet": true,
     "is_archive": true
   },
@@ -1836,7 +1836,7 @@
     "blockExplorer": "https://stride.explorers.guru",
     "validatorUrl": "https://stride.explorers.guru/validator/stridevaloper1l8vtxx634c6hkqr0q3zccnsk0dj3njlvwq0faf",
     "gasDenomName": "ustrd",
-    "testnetTasksLink": "https://github.com/Stride-Labs/testnet/tree/main/incentivized-testnet",
+    "testnet_tasks_url": "https://github.com/Stride-Labs/testnet/tree/main/incentivized-testnet",
     "githubRepoName": "stride",
     "isTestnet": true,
     "is_archive": true
@@ -2195,7 +2195,7 @@
     "discord": "https://discord.gg/UAzKUpsZhn",
     "gasDenomName": "utori",
     "githubRepoName": "teritori-chain",
-    "testnetTasksLink": "https://teritori.crew3.xyz/questboard",
+    "testnet_tasks_url": "https://teritori.crew3.xyz/questboard",
     "blockExplorer": "https://explorer.stavr.tech/teritori",
     "validatorUrl": "https://explorer.stavr.tech/teritori/staking/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
     "isTestnet": true,
