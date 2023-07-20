@@ -701,7 +701,7 @@
     "is_archive": true
   },
   {
-    "id": "archway",
+    "id": "archwaytestnet",
     "chainName": "Archway",
     "network_type": "testnet",
     "logo": "archway.png",
@@ -755,7 +755,7 @@
     "is_archive": true
   },
   {
-    "id": "babylon",
+    "id": "babylontestnet",
     "chainName": "Babylon",
     "network_type": "testnet",
     "logo": "babylon.webp",
@@ -781,7 +781,7 @@
     "is_wasm_on_root_level_enabled": true
   },
   {
-    "id": "bitcanna",
+    "id": "bitcannadevnet",
     "chainName": "Bitcanna",
     "network_type": "testnet",
     "logo": "bitcanna.svg",
@@ -829,7 +829,7 @@
     }
   },
   {
-    "id": "cascadia",
+    "id": "cascadiatestnet",
     "chainName": "Cascadia",
     "network_type": "testnet",
     "logo": "cascadia.webp",
@@ -885,31 +885,7 @@
     "is_state_sync_enabled": false
   },
   {
-    "id": "composable",
-    "chainName": "Composable",
-    "network_type": "testnet",
-    "logo": "composable.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
-    "rpc_server": "https://composable-testnet.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/ComposableFin",
-      "github": "https://github.com/notional-labs",
-      "globe": "https://www.composable.finance/",
-      "medium": "https://composablefi.medium.com/",
-      "docs": "https://docs.composable.finance/",
-      "discord": "https://discord.gg/composable",
-      "telegram": "https://t.me/composablefinance",
-      "block_explorer": "https://composable.exploreme.pro/dashboard"
-    },
-    "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://composable.exploreme.pro/validator/banksyvaloper19s29u5araztclpum4em5pf7fzw04pw6f6mxhj4",
-      "validator_url": "https://composable.exploreme.pro/validator/banksyvaloper19s29u5araztclpum4em5pf7fzw04pw6f6mxhj4"
-    }
-  },
-  {
-    "id": "composable",
+    "id": "composabletestnet",
     "chainName": "Composable",
     "network_type": "testnet",
     "logo": "composable.webp",
@@ -1044,7 +1020,7 @@
     }
   },
   {
-    "id": "empower",
+    "id": "empowertestnet",
     "chainName": "empower",
     "network_type": "testnet",
     "logo": "empower.webp",
@@ -1178,7 +1154,7 @@
     }
   },
   {
-    "id": "lava",
+    "id": "lavatestnet",
     "chainName": "lava",
     "network_type": "testnet",
     "logo": "lava.webp",
@@ -1410,7 +1386,7 @@
     }
   },
   {
-    "id": "okp4",
+    "id": "okp4testnet",
     "chainName": "OKP4",
     "network_type": "testnet",
     "logo": "okp4.webp",
@@ -1589,7 +1565,7 @@
     "is_archive": true
   },
   {
-    "id": "sei",
+    "id": "seitestnet2",
     "chainName": "Sei",
     "network_type": "testnet",
     "logo": "sei.webp",
