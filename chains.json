@@ -99,7 +99,7 @@
   },
   {
     "id": "bitcanna",
-    "name": "Bitcanna",
+    "name": "bitcanna",
     "network_type": "mainnet",
     "logo": "bitcanna.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
