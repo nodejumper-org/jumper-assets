@@ -1,7 +1,6 @@
 [
   {
     "id": "agoric",
-    "chainName": "Agoric",
     "network_type": "mainnet",
     "logo": "agoric.webp",
     "snapshot_server": "https://snapshots2.nodejumper.io",
@@ -28,7 +27,6 @@
   },
   {
     "id": "archway",
-    "chainName": "Archway",
     "network_type": "mainnet",
     "logo": "archway.png",
     "snapshot_server": "https://snapshots2.nodejumper.io",
@@ -56,7 +54,6 @@
   },
   {
     "id": "assetmantle",
-    "chainName": "AssetMantle",
     "network_type": "mainnet",
     "logo": "assetmantle.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -78,7 +75,6 @@
   },
   {
     "id": "aura",
-    "chainName": "aura",
     "network_type": "mainnet",
     "logo": "aura.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -103,7 +99,7 @@
   },
   {
     "id": "bitcanna",
-    "chainName": "Bitcanna",
+    "nj_chain_path": "Bitcanna",
     "network_type": "mainnet",
     "logo": "bitcanna.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -126,7 +122,6 @@
   },
   {
     "id": "composable",
-    "chainName": "Composable",
     "network_type": "mainnet",
     "logo": "composable.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -150,7 +145,6 @@
   },
   {
     "id": "desmos",
-    "chainName": "Desmos",
     "network_type": "mainnet",
     "logo": "desmos.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -173,7 +167,6 @@
   },
   {
     "id": "empowerchain",
-    "chainName": "empowerchain",
     "network_type": "mainnet",
     "logo": "empower.webp",
     "snapshot_server": "https://snapshots2.nodejumper.io",
@@ -201,7 +194,6 @@
   },
   {
     "id": "firmachain",
-    "chainName": "firmachain",
     "network_type": "mainnet",
     "logo": "firmachain.svg",
     "snapshot_server": "https://snapshots2.nodejumper.io",
@@ -229,7 +221,6 @@
   },
   {
     "id": "gitopia",
-    "chainName": "gitopia",
     "network_type": "mainnet",
     "logo": "gitopia.webp",
     "snapshot_server": "https://snapshots2.nodejumper.io",
@@ -255,7 +246,6 @@
   },
   {
     "id": "humans",
-    "chainName": "humans",
     "network_type": "mainnet",
     "logo": "humans.webp",
     "snapshot_server": "https://snapshots2.nodejumper.io",
@@ -282,7 +272,6 @@
   },
   {
     "id": "jackal",
-    "chainName": "Jackal",
     "network_type": "mainnet",
     "logo": "jackal.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -307,7 +296,6 @@
   },
   {
     "id": "kujira",
-    "chainName": "kujira",
     "network_type": "mainnet",
     "apr": 0.011,
     "logo": "kujira.svg",
@@ -336,7 +324,6 @@
   },
   {
     "id": "nois",
-    "chainName": "nois",
     "network_type": "mainnet",
     "logo": "nois.webp",
     "snapshot_server": "https://snapshots2.nodejumper.io",
@@ -362,7 +349,6 @@
   },
   {
     "id": "omniflixhub",
-    "chainName": "Omniflix",
     "network_type": "mainnet",
     "logo": "omniflix.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -384,7 +370,6 @@
   },
   {
     "id": "paloma",
-    "chainName": "Paloma",
     "network_type": "mainnet",
     "logo": "paloma.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -410,7 +395,6 @@
   },
   {
     "id": "pylons",
-    "chainName": "Pylons",
     "network_type": "mainnet",
     "logo": "pylons.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -435,7 +419,6 @@
   },
   {
     "id": "rebus",
-    "chainName": "Rebus",
     "network_type": "mainnet",
     "logo": "rebus.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -459,7 +442,6 @@
   },
   {
     "id": "rizon",
-    "chainName": "Rizon",
     "network_type": "mainnet",
     "logo": "rizon.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -481,7 +463,6 @@
   },
   {
     "id": "stafihub",
-    "chainName": "StaFiHub",
     "network_type": "mainnet",
     "logo": "stafihub.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -502,7 +483,6 @@
   },
   {
     "id": "starname",
-    "chainName": "Starname",
     "network_type": "mainnet",
     "logo": "starname.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -525,7 +505,6 @@
   },
   {
     "id": "teritori",
-    "chainName": "Teritori",
     "network_type": "mainnet",
     "logo": "teritori.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -547,7 +526,6 @@
   },
   {
     "id": "terpnetwork",
-    "chainName": "terp",
     "network_type": "mainnet",
     "logo": "terp.webp",
     "snapshot_server": "https://snapshots2.nodejumper.io",
@@ -575,7 +553,6 @@
   },
   {
     "id": "ununifi",
-    "chainName": "UnUniFi",
     "network_type": "mainnet",
     "logo": "ununifi.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -599,7 +576,6 @@
   },
   {
     "id": "uptick",
-    "chainName": "Uptick",
     "network_type": "mainnet",
     "logo": "uptick.webp",
     "snapshot_server": "https://snapshots2.nodejumper.io",
@@ -625,7 +601,7 @@
   },
   {
     "id": "althea",
-    "chainName": "Althea",
+    "nj_chain_path": "althea-testnet",
     "network_type": "testnet",
     "logo": "althea.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -639,9 +615,7 @@
       "block_explorer": "https://althea.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://althea.explorers.guru/validator/altheavaloper1u8952g337qtgkszzmz3vr5ykkyf3gddxt88uk0",
+      "address": "altheavaloper1u8952g337qtgkszzmz3vr5ykkyf3gddxt88uk0",
       "validator_url": "https://althea.explorers.guru/validator/altheavaloper1u8952g337qtgkszzmz3vr5ykkyf3gddxt88uk0"
     },
     "hardware_requirements": {
@@ -652,7 +626,7 @@
   },
   {
     "id": "andromeda",
-    "chainName": "Andromeda",
+    "nj_chain_path": "andromeda-testnet",
     "network_type": "testnet",
     "logo": "andromeda.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -667,9 +641,7 @@
       "block_explorer": "https://andromeda.explorers.guru/"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://andromeda.explorers.guru/validator/andrvaloper1p04a3zkxkjayepwtud2gufyht3hxs36ufm7twl",
+      "address": "andrvaloper1p04a3zkxkjayepwtud2gufyht3hxs36ufm7twl",
       "validator_url": "https://andromeda.explorers.guru/validator/andrvaloper1p04a3zkxkjayepwtud2gufyht3hxs36ufm7twl"
     },
     "hardware_requirements": {
@@ -681,7 +653,6 @@
   },
   {
     "id": "another-1",
-    "chainName": "Another-1",
     "network_type": "testnet",
     "logo": "another1.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -693,16 +664,14 @@
       "discord": "https://discord.gg/wHP4sYwHCJ"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://anone.explorers.guru/validator/onevaloper1fngfsax3w9mywln2njh5s3nf92nyfaueqg6jhy",
+      "address": "onevaloper1fngfsax3w9mywln2njh5s3nf92nyfaueqg6jhy",
       "validator_url": "https://anone.explorers.guru/validator/onevaloper1fngfsax3w9mywln2njh5s3nf92nyfaueqg6jhy"
     },
     "is_archive": true
   },
   {
     "id": "archwaytestnet",
-    "chainName": "Archway",
+    "nj_chain_path": "archway-testnet",
     "network_type": "testnet",
     "logo": "archway.png",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -716,9 +685,7 @@
       "block_explorer": "https://testnet.mintscan.io/archway-testnet"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://testnet.mintscan.io/archway-testnet/validators/archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx",
+      "address": "archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx",
       "validator_url": "https://testnet.mintscan.io/archway-testnet/validators/archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx"
     },
     "hardware_requirements": {
@@ -730,7 +697,6 @@
   },
   {
     "id": "axelar",
-    "chainName": "axelar",
     "network_type": "testnet",
     "logo": "axelar.svg",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -743,9 +709,7 @@
       "block_explorer": "https://testnet.axelarscan.io"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://testnet.axelarscan.io/validator/axelarvaloper1e3ckcfvevgss32an3pgp98ymyu4e27hm4t6xgl",
+      "address": "axelarvaloper1e3ckcfvevgss32an3pgp98ymyu4e27hm4t6xgl",
       "validator_url": "https://testnet.axelarscan.io/validator/axelarvaloper1e3ckcfvevgss32an3pgp98ymyu4e27hm4t6xgl"
     },
     "hardware_requirements": {
@@ -756,7 +720,7 @@
   },
   {
     "id": "babylontestnet",
-    "chainName": "Babylon",
+    "nj_chain_path": "babylon-testnet",
     "network_type": "testnet",
     "logo": "babylon.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -769,9 +733,7 @@
       "block_explorer": "https://babylon.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://babylon.explorers.guru/validator/bbnvaloper1d6z48lnw0g9l8ndumsy9r4cc5xw334mgqf3g68",
+      "address": "bbnvaloper1d6z48lnw0g9l8ndumsy9r4cc5xw334mgqf3g68",
       "validator_url": "https://babylon.explorers.guru/validator/bbnvaloper1d6z48lnw0g9l8ndumsy9r4cc5xw334mgqf3g68"
     },
     "hardware_requirements": {
@@ -782,7 +744,7 @@
   },
   {
     "id": "bitcannadevnet",
-    "chainName": "Bitcanna",
+    "nj_chain_path": "bitcanna-testnet",
     "network_type": "testnet",
     "logo": "bitcanna.svg",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -797,15 +759,13 @@
       "block_explorer": "https://testnet.ping.pub/bitcanna"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://testnet.ping.pub/bitcanna/staking/bcnavaloper14dk9qlwqc272kag6q99rugm6rqj30fwa7gh0f2",
+      "address": "bcnavaloper14dk9qlwqc272kag6q99rugm6rqj30fwa7gh0f2",
       "validator_url": "https://testnet.ping.pub/bitcanna/staking/bcnavaloper14dk9qlwqc272kag6q99rugm6rqj30fwa7gh0f2"
     }
   },
   {
     "id": "cardchain",
-    "chainName": "Cardchain",
+    "nj_chain_path": "cardchain-testnet",
     "network_type": "testnet",
     "logo": "cardchain.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -818,9 +778,7 @@
       "block_explorer": "https://explorer.stavr.tech/cardchain"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://explorer.stavr.tech/cardchain/staking/ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl",
+      "address": "ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl",
       "validator_url": "https://explorer.stavr.tech/cardchain/staking/ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl"
     },
     "hardware_requirements": {
@@ -830,7 +788,7 @@
   },
   {
     "id": "cascadiatestnet",
-    "chainName": "Cascadia",
+    "nj_chain_path": "cascadia-testnet",
     "network_type": "testnet",
     "logo": "cascadia.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -845,9 +803,7 @@
       "block_explorer": "https://testnet.cascadia.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://testnet.cascadia.explorers.guru/validator/cascadiavaloper104g6jcsg6fmmvn2a2t0nqg4ex68xgqdt4yvxh2",
+      "address": "cascadiavaloper104g6jcsg6fmmvn2a2t0nqg4ex68xgqdt4yvxh2",
       "validator_url": "https://testnet.cascadia.explorers.guru/validator/cascadiavaloper104g6jcsg6fmmvn2a2t0nqg4ex68xgqdt4yvxh2"
     },
     "hardware_requirements": {
@@ -857,7 +813,7 @@
   },
   {
     "id": "celestia",
-    "chainName": "Celestia",
+    "nj_chain_path": "celestia-testnet",
     "network_type": "testnet",
     "logo": "celestia.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -872,9 +828,7 @@
       "block_explorer": "https://testnet.mintscan.io/celestia-testnet"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://testnet.mintscan.io/celestia-testnet/validators/celestiavaloper1aecswhtwadfdzunq38zqcfsc29hg64tcv8jcpg",
+      "address": "celestiavaloper1aecswhtwadfdzunq38zqcfsc29hg64tcv8jcpg",
       "validator_url": "https://testnet.mintscan.io/celestia-testnet/validators/celestiavaloper1aecswhtwadfdzunq38zqcfsc29hg64tcv8jcpg"
     },
     "hardware_requirements": {
@@ -886,7 +840,7 @@
   },
   {
     "id": "composabletestnet",
-    "chainName": "Composable",
+    "nj_chain_path": "banksy-testnet-3",
     "network_type": "testnet",
     "logo": "composable.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -902,15 +856,13 @@
       "block_explorer": "https://explorer.kjnodes.com/composable-testnet/"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://explorer.kjnodes.com/composable-testnet/staking/centaurivaloper19s29u5araztclpum4em5pf7fzw04pw6fswz4uv",
+      "address": "centaurivaloper19s29u5araztclpum4em5pf7fzw04pw6fswz4uv",
       "validator_url": "https://explorer.kjnodes.com/composable-testnet/staking/centaurivaloper19s29u5araztclpum4em5pf7fzw04pw6fswz4uv"
     }
   },
   {
     "id": "cosmoshub",
-    "chainName": "cosmoshub",
+    "nj_chain_path": "cosmos-testnet",
     "network_type": "testnet",
     "logo": "cosmos.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -925,9 +877,7 @@
       "block_explorer": "https://explorer.rs-testnet.polypore.xyz/provider"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://explorer.rs-testnet.polypore.xyz/provider/staking/cosmosvaloper102w6jk6jpakck3xknt7g9pr0wr2plhv5phpmm3",
+      "address": "cosmosvaloper102w6jk6jpakck3xknt7g9pr0wr2plhv5phpmm3",
       "validator_url": "https://explorer.rs-testnet.polypore.xyz/provider/staking/cosmosvaloper102w6jk6jpakck3xknt7g9pr0wr2plhv5phpmm3"
     },
     "hardware_requirements": {
@@ -938,7 +888,7 @@
   },
   {
     "id": "defund",
-    "chainName": "defund",
+    "nj_chain_path": "defund-testnet",
     "network_type": "testnet",
     "logo": "defund.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -951,9 +901,7 @@
       "block_explorer": "https://defund.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://defund.explorers.guru/validator/defundvaloper1lgjudr8nz4p772m04h5rdz66xks3q6jxgaf297",
+      "address": "defundvaloper1lgjudr8nz4p772m04h5rdz66xks3q6jxgaf297",
       "validator_url": "https://defund.explorers.guru/validator/defundvaloper1lgjudr8nz4p772m04h5rdz66xks3q6jxgaf297"
     },
     "hardware_requirements": {
@@ -966,7 +914,7 @@
   },
   {
     "id": "dws",
-    "chainName": "DWS",
+    "nj_chain_path": "dws-testnet",
     "network_type": "testnet",
     "logo": "dws.svg",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -978,9 +926,7 @@
       "block_explorer": "https://dws.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://dws.explorers.guru/validator/dewebvaloper1pdhaj6ct3wyfahn2u6zllxp3dq6dfuatwtkf6n",
+      "address": "dewebvaloper1pdhaj6ct3wyfahn2u6zllxp3dq6dfuatwtkf6n",
       "validator_url": "https://dws.explorers.guru/validator/dewebvaloper1pdhaj6ct3wyfahn2u6zllxp3dq6dfuatwtkf6n"
     },
     "hardware_requirements": {
@@ -993,7 +939,7 @@
   },
   {
     "id": "dymension",
-    "chainName": "Dymension",
+    "nj_chain_path": "dymension-testnet",
     "network_type": "testnet",
     "logo": "dymension.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1009,9 +955,7 @@
       "block_explorer": "https://exp.utsa.tech/dymension-test"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://exp.utsa.tech/dymension-test/staking/dymvaloper18j3ancg4tvtq559k5x8xzsat2gs3q3ujehruq2",
+      "address": "dymvaloper18j3ancg4tvtq559k5x8xzsat2gs3q3ujehruq2",
       "validator_url": "https://exp.utsa.tech/dymension-test/staking/dymvaloper18j3ancg4tvtq559k5x8xzsat2gs3q3ujehruq2"
     },
     "hardware_requirements": {
@@ -1021,7 +965,7 @@
   },
   {
     "id": "empowertestnet",
-    "chainName": "empower",
+    "nj_chain_path": "empower-testnet",
     "network_type": "testnet",
     "logo": "empower.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1034,9 +978,7 @@
       "block_explorer": "https://empower.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://empower.explorers.guru/validator/empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
+      "address": "empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
       "validator_url": "https://empower.explorers.guru/validator/empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2"
     },
     "hardware_requirements": {
@@ -1048,7 +990,7 @@
   },
   {
     "id": "empowerchain",
-    "chainName": "empowerchain",
+    "nj_chain_path": "empower-testnet",
     "network_type": "testnet",
     "logo": "empower.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1062,9 +1004,7 @@
       "block_explorer": "https://empower.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://empower.explorers.guru/validator/empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
+      "address": "empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
       "validator_url": "https://empower.explorers.guru/validator/empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2"
     },
     "hardware_requirements": {
@@ -1075,7 +1015,7 @@
   },
   {
     "id": "gitopia",
-    "chainName": "gitopia",
+    "nj_chain_path": "gitopia-testnet",
     "network_type": "testnet",
     "logo": "gitopia.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1089,9 +1029,7 @@
       "block_explorer": "https://gitopia.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://gitopia.explorers.guru/validator/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
+      "address": "gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
       "validator_url": "https://gitopia.explorers.guru/validator/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4"
     },
     "hardware_requirements": {
@@ -1102,7 +1040,7 @@
   },
   {
     "id": "haqq",
-    "chainName": "haqq",
+    "nj_chain_path": "haqq-testnet",
     "network_type": "testnet",
     "logo": "haqq.svg",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1116,8 +1054,6 @@
     },
     "validator": {
       "address": "addr",
-      "is_genesis": false,
-      "stake_url": "",
       "validator_url": ""
     },
     "hardware_requirements": {
@@ -1128,7 +1064,7 @@
   },
   {
     "id": "humans",
-    "chainName": "humans",
+    "nj_chain_path": "humans-testnet",
     "network_type": "testnet",
     "logo": "humans.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1143,9 +1079,7 @@
       "block_explorer": "https://explorer.humans.zone"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://explorer.humans.zone/humans-testnet/staking/humanvaloper1nl28wjjnue6lv83wh4le06hc5rnj7a30hvc5sm",
+      "address": "humanvaloper1nl28wjjnue6lv83wh4le06hc5rnj7a30hvc5sm",
       "validator_url": "https://explorer.humans.zone/humans-testnet/staking/humanvaloper1nl28wjjnue6lv83wh4le06hc5rnj7a30hvc5sm"
     },
     "hardware_requirements": {
@@ -1155,7 +1089,7 @@
   },
   {
     "id": "lavatestnet",
-    "chainName": "lava",
+    "nj_chain_path": "lava-testnet",
     "network_type": "testnet",
     "logo": "lava.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1169,9 +1103,7 @@
       "block_explorer": "https://lava.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://lava.explorers.guru/validator/lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty",
+      "address": "lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty",
       "validator_url": "https://lava.explorers.guru/validator/lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty"
     },
     "hardware_requirements": {
@@ -1183,7 +1115,7 @@
   },
   {
     "id": "mars",
-    "chainName": "mars",
+    "nj_chain_path": "mars-testnet",
     "network_type": "testnet",
     "logo": "mars.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1196,9 +1128,7 @@
       "telegram": "https://t.me/martiannews"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://mars.explorers.guru/validator/marsvaloper186t4ggaf2sgqqvjcyspgwretzk8ktczsyzayf5",
+      "address": "marsvaloper186t4ggaf2sgqqvjcyspgwretzk8ktczsyzayf5",
       "validator_url": "https://mars.explorers.guru/validator/marsvaloper186t4ggaf2sgqqvjcyspgwretzk8ktczsyzayf5"
     },
     "hardware_requirements": {
@@ -1209,7 +1139,7 @@
   },
   {
     "id": "neutron",
-    "chainName": "Neutron",
+    "nj_chain_path": "neutron-testnet",
     "network_type": "testnet",
     "logo": "neutron.jpeg",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1222,7 +1152,6 @@
       "block_explorer": "https://explorer.rs-testnet.polypore.xyz/baryon-1"
     },
     "validator": {
-      "address": "addr",
       "is_genesis": false
     },
     "hardware_requirements": {
@@ -1233,7 +1162,7 @@
   },
   {
     "id": "nibiru",
-    "chainName": "nibiru",
+    "nj_chain_path": "nibiru-testnet",
     "network_type": "testnet",
     "logo": "nibiru.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1247,9 +1176,7 @@
       "block_explorer": "https://explorer.nibiru.fi/nibiru-itn-1"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://explorer.nibiru.fi/nibiru-itn-1/staking/nibivaloper1r9kmadqs9nsppn4wz5yp4rw8zn9545rcueqhyr",
+      "address": "nibivaloper1r9kmadqs9nsppn4wz5yp4rw8zn9545rcueqhyr",
       "validator_url": "https://explorer.nibiru.fi/nibiru-itn-1/staking/nibivaloper1r9kmadqs9nsppn4wz5yp4rw8zn9545rcueqhyr"
     },
     "hardware_requirements": {
@@ -1260,7 +1187,7 @@
   },
   {
     "id": "nois",
-    "chainName": "nois",
+    "nj_chain_path": "nois-testnet",
     "network_type": "testnet",
     "logo": "nois.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1274,9 +1201,7 @@
       "block_explorer": "https://testnet.ping.pub/nois"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://testnet.ping.pub/nois/staking/noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
+      "address": "noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
       "validator_url": "https://testnet.ping.pub/nois/staking/noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0"
     },
     "hardware_requirements": {
@@ -1288,7 +1213,7 @@
   },
   {
     "id": "nolus",
-    "chainName": "nolus",
+    "nj_chain_path": "nolus-testnet",
     "network_type": "testnet",
     "logo": "nolus.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1302,9 +1227,7 @@
       "block_explorer": "https://nolus.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://nolus.explorers.guru/validator/nolusvaloper1y7lfy9909gjfrrudwa3y8z0ndp9xlf0a2ukn2n",
+      "address": "nolusvaloper1y7lfy9909gjfrrudwa3y8z0ndp9xlf0a2ukn2n",
       "validator_url": "https://nolus.explorers.guru/validator/nolusvaloper1y7lfy9909gjfrrudwa3y8z0ndp9xlf0a2ukn2n"
     },
     "hardware_requirements": {
@@ -1317,7 +1240,7 @@
   },
   {
     "id": "noria",
-    "chainName": "Noria",
+    "nj_chain_path": "noria-testnet",
     "network_type": "testnet",
     "logo": "noria.png",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1330,9 +1253,7 @@
       "block_explorer": "https://app.noria.network/noria"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://app.noria.network/noria/staking/noriavaloper18mvny5jpve6lmtvykxn7uslnlnwts3y2w4rmtu",
+      "address": "noriavaloper18mvny5jpve6lmtvykxn7uslnlnwts3y2w4rmtu",
       "validator_url": "https://app.noria.network/noria/staking/noriavaloper18mvny5jpve6lmtvykxn7uslnlnwts3y2w4rmtu"
     },
     "hardware_requirements": {
@@ -1343,25 +1264,8 @@
     "is_wasm_on_root_level_enabled": true
   },
   {
-    "id": "nova (supernova)",
-    "chainName": "NOVA (Supernova)",
-    "network_type": "testnet",
-    "logo": "nova.webp",
-    "links": {
-      "twitter": "https://twitter.com/Supernovazone",
-      "globe": "https://www.supernovaprotocol.xyz",
-      "medium": "https://medium.com/supernovazone",
-      "discord": "https://discord.gg/d4VX6pRTmG"
-    },
-    "validator": {
-      "address": "addr",
-      "is_genesis": false
-    },
-    "is_archive": true
-  },
-  {
     "id": "ojo",
-    "chainName": "Ojo",
+    "nj_chain_path": "ojo-testnet",
     "network_type": "testnet",
     "logo": "ojo.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1375,9 +1279,7 @@
       "block_explorer": "https://ojo.explorers.guru/"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://ojo.explorers.guru/validator/ojovaloper1ela8c0jhqgjsj2cq7twu9uhda2n8e6cslz0wnw",
+      "address": "ojovaloper1ela8c0jhqgjsj2cq7twu9uhda2n8e6cslz0wnw",
       "validator_url": "https://ojo.explorers.guru/validator/ojovaloper1ela8c0jhqgjsj2cq7twu9uhda2n8e6cslz0wnw"
     },
     "hardware_requirements": {
@@ -1387,7 +1289,7 @@
   },
   {
     "id": "okp4testnet",
-    "chainName": "OKP4",
+    "nj_chain_path": "okp4-testnet",
     "network_type": "testnet",
     "logo": "okp4.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1401,9 +1303,7 @@
       "block_explorer": "https://okp4.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://okp4.explorers.guru/validator/okp4valoper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6eu6nelp",
+      "address": "okp4valoper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6eu6nelp",
       "validator_url": "https://okp4.explorers.guru/validator/okp4valoper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6eu6nelp"
     },
     "hardware_requirements": {
@@ -1413,7 +1313,7 @@
   },
   {
     "id": "ollo",
-    "chainName": "Ollo",
+    "nj_chain_path": "ollo-testnet",
     "network_type": "testnet",
     "logo": "ollo.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1427,9 +1327,7 @@
       "block_explorer": "https://ollo.explorers.guru/"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://ollo.explorers.guru/validator/ollovaloper1dw8n8wygrf7ylaf6qcly2wf3k9q0ffwy22nej4",
+      "address": "ollovaloper1dw8n8wygrf7ylaf6qcly2wf3k9q0ffwy22nej4",
       "validator_url": "https://ollo.explorers.guru/validator/ollovaloper1dw8n8wygrf7ylaf6qcly2wf3k9q0ffwy22nej4"
     },
     "hardware_requirements": {
@@ -1439,7 +1337,7 @@
   },
   {
     "id": "paloma",
-    "chainName": "Paloma",
+    "nj_chain_path": "paloma-testnet",
     "network_type": "testnet",
     "logo": "paloma.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1453,9 +1351,7 @@
       "block_explorer": "https://testnet.paloma.explorers.guru/"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://testnet.paloma.explorers.guru/validator/palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
+      "address": "palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
       "validator_url": "https://testnet.paloma.explorers.guru/validator/palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt"
     },
     "hardware_requirements": {
@@ -1466,7 +1362,7 @@
   },
   {
     "id": "pylons",
-    "chainName": "Pylons",
+    "nj_chain_path": "pylons-testnet",
     "network_type": "testnet",
     "logo": "pylons.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1478,9 +1374,7 @@
       "block_explorer": "https://pylons.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://pylons.explorers.guru/validator/pylovaloper198f2dvdx8hprdtghqhg2823vhh9xltskjjf8ak",
+      "address": "pylovaloper198f2dvdx8hprdtghqhg2823vhh9xltskjjf8ak",
       "validator_url": "https://pylons.explorers.guru/validator/pylovaloper198f2dvdx8hprdtghqhg2823vhh9xltskjjf8ak"
     },
     "hardware_requirements": {
@@ -1492,7 +1386,7 @@
   },
   {
     "id": "quasar",
-    "chainName": "Quasar",
+    "nj_chain_path": "quasar-testnet",
     "network_type": "testnet",
     "logo": "quasar.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1506,9 +1400,7 @@
       "block_explorer": "https://quasar.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://quasar.explorers.guru/validator/quasarvaloper13wdg92565xy93m2cucqk90qm0q390za3nv4he5",
+      "address": "quasarvaloper13wdg92565xy93m2cucqk90qm0q390za3nv4he5",
       "validator_url": "https://quasar.explorers.guru/validator/quasarvaloper13wdg92565xy93m2cucqk90qm0q390za3nv4he5"
     },
     "hardware_requirements": {
@@ -1521,7 +1413,7 @@
   },
   {
     "id": "quicksilver",
-    "chainName": "Quicksilver",
+    "nj_chain_path": "quicksilver-testnet",
     "network_type": "testnet",
     "logo": "quicksilver.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1534,9 +1426,7 @@
       "block_explorer": "https://quicksilver.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://quicksilver.explorers.guru/validator/quickvaloper159njc3xk0xv76x323936frgwxf9zn3wvp0dj8n",
+      "address": "quickvaloper159njc3xk0xv76x323936frgwxf9zn3wvp0dj8n",
       "validator_url": "https://quicksilver.explorers.guru/validator/quickvaloper159njc3xk0xv76x323936frgwxf9zn3wvp0dj8n"
     },
     "testnet_tasks_url": "https://github.com/ingenuity-build/testnets/blob/main/killerqueen/VALIDATOR_TASKS.md",
@@ -1544,7 +1434,7 @@
   },
   {
     "id": "rebus",
-    "chainName": "Rebus",
+    "nj_chain_path": "rebus-testnet",
     "network_type": "testnet",
     "logo": "rebus.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1557,16 +1447,14 @@
       "block_explorer": "https://rebus.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://rebus.explorers.guru/validator/rebusvaloper1nntq6xqgcpjgpuz5jl85lhatpmlefywfvrd70f",
+      "address": "rebusvaloper1nntq6xqgcpjgpuz5jl85lhatpmlefywfvrd70f",
       "validator_url": "https://rebus.explorers.guru/validator/rebusvaloper1nntq6xqgcpjgpuz5jl85lhatpmlefywfvrd70f"
     },
     "is_archive": true
   },
   {
     "id": "seitestnet2",
-    "chainName": "Sei",
+    "nj_chain_path": "sei-testnet",
     "network_type": "testnet",
     "logo": "sei.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1580,9 +1468,7 @@
       "block_explorer": "https://sei.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://sei.explorers.guru/validator/seivaloper1l60fhszfdk9nu6w69v8y8anhvw2m3cmq0d8xzm",
+      "address": "seivaloper1l60fhszfdk9nu6w69v8y8anhvw2m3cmq0d8xzm",
       "validator_url": "https://sei.explorers.guru/validator/seivaloper1l60fhszfdk9nu6w69v8y8anhvw2m3cmq0d8xzm"
     },
     "hardware_requirements": {
@@ -1596,7 +1482,7 @@
   },
   {
     "id": "stafihub",
-    "chainName": "StaFiHub",
+    "nj_chain_path": "stagihub-testnet",
     "network_type": "testnet",
     "logo": "stafihub.svg",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1608,16 +1494,14 @@
       "block_explorer": "https://testnet-explorer.stafihub.io/stafi-hub-testnet"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://restake.app/stafihub/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv/stake",
+      "address": "stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv",
       "validator_url": "https://restake.app/stafihub/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv/stake"
     },
     "is_archive": true
   },
   {
     "id": "stride",
-    "chainName": "Stride",
+    "nj_chain_path": "stride-testnet",
     "network_type": "testnet",
     "logo": "stride.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1629,9 +1513,7 @@
       "block_explorer": "https://stride.explorers.guru"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://stride.explorers.guru/validator/stridevaloper1l8vtxx634c6hkqr0q3zccnsk0dj3njlvwq0faf",
+      "address": "stridevaloper1l8vtxx634c6hkqr0q3zccnsk0dj3njlvwq0faf",
       "validator_url": "https://stride.explorers.guru/validator/stridevaloper1l8vtxx634c6hkqr0q3zccnsk0dj3njlvwq0faf"
     },
     "testnet_tasks_url": "https://github.com/Stride-Labs/testnet/tree/main/incentivized-testnet",
@@ -1639,7 +1521,7 @@
   },
   {
     "id": "stride",
-    "chainName": "Stride",
+    "nj_chain_path": "stride",
     "network_type": "mainnet",
     "logo": "stride.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -1652,8 +1534,7 @@
       "block_explorer": "https://www.mintscan.io/stride"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
+      "address": "stridevaloper1y7p8qd4sk5k95mewazug73ag8vza8u7uzy2f2f",
       "stake_url": "https://restake.app/stride/stridevaloper1y7p8qd4sk5k95mewazug73ag8vza8u7uzy2f2f",
       "validator_url": "https://restake.app/stride/stridevaloper1y7p8qd4sk5k95mewazug73ag8vza8u7uzy2f2f"
     },
@@ -1661,7 +1542,7 @@
   },
   {
     "id": "teritori",
-    "chainName": "Teritori",
+    "nj_chain_path": "teritori-testnet",
     "network_type": "testnet",
     "logo": "teritori.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1674,9 +1555,7 @@
       "block_explorer": "https://explorer.stavr.tech/teritori"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://explorer.stavr.tech/teritori/staking/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
+      "address": "torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
       "validator_url": "https://explorer.stavr.tech/teritori/staking/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0"
     },
     "testnet_tasks_url": "https://teritori.crew3.xyz/questboard",
@@ -1689,7 +1568,7 @@
   },
   {
     "id": "terp",
-    "chainName": "terp",
+    "nj_chain_path": "terp-testnet",
     "network_type": "testnet",
     "logo": "terp.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1702,9 +1581,7 @@
       "block_explorer": "https://testnet.itrocket.net/terp"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://testnet.itrocket.net/terp/staking/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
+      "address": "terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
       "validator_url": "https://testnet.itrocket.net/terp/staking/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv"
     },
     "hardware_requirements": {
@@ -1717,7 +1594,7 @@
   },
   {
     "id": "uptick",
-    "chainName": "Uptick",
+    "nj_chain_path": "uptick-testnet",
     "network_type": "testnet",
     "logo": "uptick.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1731,9 +1608,7 @@
       "block_explorer": "https://explorer.kjnodes.com/uptick-testnet"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://explorer.kjnodes.com/uptick-testnet/staking/uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
+      "address": "uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
       "validator_url": "https://explorer.kjnodes.com/uptick-testnet/staking/uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5"
     },
     "hardware_requirements": {
@@ -1744,7 +1619,7 @@
   },
   {
     "id": "zetachain",
-    "chainName": "zetachain",
+    "nj_chain_path": "zetachain-testnet",
     "network_type": "testnet",
     "logo": "zetachain.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1759,9 +1634,7 @@
       "block_explorer": "https://zetachain.exploreme.pro"
     },
     "validator": {
-      "address": "addr",
-      "is_genesis": false,
-      "stake_url": "https://zetachain.exploreme.pro/validator/zetavaloper1meq97nclpc3vd9zj6y43wvgfncshqg2l9lwg94",
+      "address": "zetavaloper1meq97nclpc3vd9zj6y43wvgfncshqg2l9lwg94",
       "validator_url": "https://zetachain.exploreme.pro/validator/zetavaloper1meq97nclpc3vd9zj6y43wvgfncshqg2l9lwg94"
     },
     "hardware_requirements": {
