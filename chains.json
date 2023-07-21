@@ -1039,7 +1039,7 @@
     "is_archive": true
   },
   {
-    "id": "humans",
+    "id": "humanstestnet",
     "name": "humans",
     "network_type": "testnet",
     "logo": "humans.webp",
