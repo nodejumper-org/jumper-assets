@@ -99,7 +99,7 @@
   },
   {
     "id": "bitcanna",
-    "nj_chain_path": "Bitcanna",
+    "name": "Bitcanna",
     "network_type": "mainnet",
     "logo": "bitcanna.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -601,7 +601,7 @@
   },
   {
     "id": "althea",
-    "nj_chain_path": "althea-testnet",
+    "name": "althea",
     "network_type": "testnet",
     "logo": "althea.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -626,7 +626,7 @@
   },
   {
     "id": "andromeda",
-    "nj_chain_path": "andromeda-testnet",
+    "name": "andromeda",
     "network_type": "testnet",
     "logo": "andromeda.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -671,7 +671,7 @@
   },
   {
     "id": "archwaytestnet",
-    "nj_chain_path": "archway-testnet",
+    "name": "archway",
     "network_type": "testnet",
     "logo": "archway.png",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -720,7 +720,7 @@
   },
   {
     "id": "babylontestnet",
-    "nj_chain_path": "babylon-testnet",
+    "name": "babylon",
     "network_type": "testnet",
     "logo": "babylon.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -744,7 +744,7 @@
   },
   {
     "id": "bitcannadevnet",
-    "nj_chain_path": "bitcanna-testnet",
+    "name": "bitcanna",
     "network_type": "testnet",
     "logo": "bitcanna.svg",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -765,7 +765,7 @@
   },
   {
     "id": "cardchain",
-    "nj_chain_path": "cardchain-testnet",
+    "name": "cardchain",
     "network_type": "testnet",
     "logo": "cardchain.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -788,7 +788,7 @@
   },
   {
     "id": "cascadiatestnet",
-    "nj_chain_path": "cascadia-testnet",
+    "name": "cascadia",
     "network_type": "testnet",
     "logo": "cascadia.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -813,7 +813,7 @@
   },
   {
     "id": "celestia",
-    "nj_chain_path": "celestia-testnet",
+    "name": "celestia",
     "network_type": "testnet",
     "logo": "celestia.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -840,7 +840,7 @@
   },
   {
     "id": "composabletestnet",
-    "nj_chain_path": "banksy-testnet-3",
+    "name": "banksy-testnet-3",
     "network_type": "testnet",
     "logo": "composable.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -862,7 +862,7 @@
   },
   {
     "id": "cosmoshub",
-    "nj_chain_path": "cosmos-testnet",
+    "name": "cosmos",
     "network_type": "testnet",
     "logo": "cosmos.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -888,7 +888,7 @@
   },
   {
     "id": "defund",
-    "nj_chain_path": "defund-testnet",
+    "name": "defund",
     "network_type": "testnet",
     "logo": "defund.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -914,7 +914,7 @@
   },
   {
     "id": "dws",
-    "nj_chain_path": "dws-testnet",
+    "name": "dws",
     "network_type": "testnet",
     "logo": "dws.svg",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -939,7 +939,7 @@
   },
   {
     "id": "dymension",
-    "nj_chain_path": "dymension-testnet",
+    "name": "dymension",
     "network_type": "testnet",
     "logo": "dymension.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -965,7 +965,7 @@
   },
   {
     "id": "empowertestnet",
-    "nj_chain_path": "empower-testnet",
+    "name": "empower",
     "network_type": "testnet",
     "logo": "empower.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -990,7 +990,7 @@
   },
   {
     "id": "empowerchain",
-    "nj_chain_path": "empower-testnet",
+    "name": "empower",
     "network_type": "testnet",
     "logo": "empower.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1015,7 +1015,7 @@
   },
   {
     "id": "gitopia",
-    "nj_chain_path": "gitopia-testnet",
+    "name": "gitopia",
     "network_type": "testnet",
     "logo": "gitopia.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1040,7 +1040,7 @@
   },
   {
     "id": "haqq",
-    "nj_chain_path": "haqq-testnet",
+    "name": "haqq",
     "network_type": "testnet",
     "logo": "haqq.svg",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1064,7 +1064,7 @@
   },
   {
     "id": "humans",
-    "nj_chain_path": "humans-testnet",
+    "name": "humans",
     "network_type": "testnet",
     "logo": "humans.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1089,7 +1089,7 @@
   },
   {
     "id": "lavatestnet",
-    "nj_chain_path": "lava-testnet",
+    "name": "lava",
     "network_type": "testnet",
     "logo": "lava.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1115,7 +1115,7 @@
   },
   {
     "id": "mars",
-    "nj_chain_path": "mars-testnet",
+    "name": "mars",
     "network_type": "testnet",
     "logo": "mars.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1139,7 +1139,7 @@
   },
   {
     "id": "neutron",
-    "nj_chain_path": "neutron-testnet",
+    "name": "neutron",
     "network_type": "testnet",
     "logo": "neutron.jpeg",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1162,7 +1162,7 @@
   },
   {
     "id": "nibiru",
-    "nj_chain_path": "nibiru-testnet",
+    "name": "nibiru",
     "network_type": "testnet",
     "logo": "nibiru.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1187,7 +1187,7 @@
   },
   {
     "id": "nois",
-    "nj_chain_path": "nois-testnet",
+    "name": "nois",
     "network_type": "testnet",
     "logo": "nois.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1213,7 +1213,7 @@
   },
   {
     "id": "nolus",
-    "nj_chain_path": "nolus-testnet",
+    "name": "nolus",
     "network_type": "testnet",
     "logo": "nolus.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1240,7 +1240,7 @@
   },
   {
     "id": "noria",
-    "nj_chain_path": "noria-testnet",
+    "name": "noria",
     "network_type": "testnet",
     "logo": "noria.png",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1265,7 +1265,7 @@
   },
   {
     "id": "ojo",
-    "nj_chain_path": "ojo-testnet",
+    "name": "ojo",
     "network_type": "testnet",
     "logo": "ojo.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1289,7 +1289,7 @@
   },
   {
     "id": "okp4testnet",
-    "nj_chain_path": "okp4-testnet",
+    "name": "okp4",
     "network_type": "testnet",
     "logo": "okp4.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1313,7 +1313,7 @@
   },
   {
     "id": "ollo",
-    "nj_chain_path": "ollo-testnet",
+    "name": "ollo",
     "network_type": "testnet",
     "logo": "ollo.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1337,7 +1337,7 @@
   },
   {
     "id": "paloma",
-    "nj_chain_path": "paloma-testnet",
+    "name": "paloma",
     "network_type": "testnet",
     "logo": "paloma.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1362,7 +1362,7 @@
   },
   {
     "id": "pylons",
-    "nj_chain_path": "pylons-testnet",
+    "name": "pylons",
     "network_type": "testnet",
     "logo": "pylons.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1386,7 +1386,7 @@
   },
   {
     "id": "quasar",
-    "nj_chain_path": "quasar-testnet",
+    "name": "quasar",
     "network_type": "testnet",
     "logo": "quasar.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1413,7 +1413,7 @@
   },
   {
     "id": "quicksilver",
-    "nj_chain_path": "quicksilver-testnet",
+    "name": "quicksilver",
     "network_type": "testnet",
     "logo": "quicksilver.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1434,7 +1434,7 @@
   },
   {
     "id": "rebus",
-    "nj_chain_path": "rebus-testnet",
+    "name": "rebus",
     "network_type": "testnet",
     "logo": "rebus.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1454,7 +1454,7 @@
   },
   {
     "id": "seitestnet2",
-    "nj_chain_path": "sei-testnet",
+    "name": "sei",
     "network_type": "testnet",
     "logo": "sei.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1482,7 +1482,7 @@
   },
   {
     "id": "stafihub",
-    "nj_chain_path": "stagihub-testnet",
+    "name": "stagihub",
     "network_type": "testnet",
     "logo": "stafihub.svg",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1501,7 +1501,7 @@
   },
   {
     "id": "stride",
-    "nj_chain_path": "stride-testnet",
+    "name": "stride",
     "network_type": "testnet",
     "logo": "stride.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "stride",
-    "nj_chain_path": "stride",
+    "name": "stride",
     "network_type": "mainnet",
     "logo": "stride.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
@@ -1542,7 +1542,7 @@
   },
   {
     "id": "teritori",
-    "nj_chain_path": "teritori-testnet",
+    "name": "teritori",
     "network_type": "testnet",
     "logo": "teritori.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1568,7 +1568,7 @@
   },
   {
     "id": "terp",
-    "nj_chain_path": "terp-testnet",
+    "name": "terp",
     "network_type": "testnet",
     "logo": "terp.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1594,7 +1594,7 @@
   },
   {
     "id": "uptick",
-    "nj_chain_path": "uptick-testnet",
+    "name": "uptick",
     "network_type": "testnet",
     "logo": "uptick.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1619,7 +1619,7 @@
   },
   {
     "id": "zetachain",
-    "nj_chain_path": "zetachain-testnet",
+    "name": "zetachain",
     "network_type": "testnet",
     "logo": "zetachain.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
