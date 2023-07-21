@@ -841,6 +841,7 @@
   {
     "id": "composabletestnet",
     "name": "banksy-testnet-3",
+    "jumper_path": "banksy-testnet-3",
     "network_type": "testnet",
     "logo": "composable.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -986,31 +987,6 @@
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
     "is_archive": true,
-    "is_state_sync_enabled": false
-  },
-  {
-    "id": "empowerchain",
-    "name": "empower",
-    "network_type": "testnet",
-    "logo": "empower.webp",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
-    "rpc_server": "https://empower-testnet.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/empowerchain_io",
-      "github": "https://github.com/EmpowerPlastic",
-      "globe": "https://www.empowerchain.io",
-      "discord": "https://discord.gg/xVMWBreSfN",
-      "telegram": "https://t.me/empowerchain",
-      "block_explorer": "https://empower.explorers.guru"
-    },
-    "validator": {
-      "address": "empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
-      "validator_url": "https://empower.explorers.guru/validator/empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2"
-    },
-    "hardware_requirements": {
-      "minSpecification": "3CPU 4RAM 80GB",
-      "recommendedSpecification": "4CPU 8RAM 160GB"
-    },
     "is_state_sync_enabled": false
   },
   {
