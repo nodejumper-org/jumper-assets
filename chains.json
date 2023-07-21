@@ -840,7 +840,7 @@
   },
   {
     "id": "composabletestnet",
-    "name": "banksy-testnet-3",
+    "name": "composable",
     "jumper_path": "banksy-testnet-3",
     "network_type": "testnet",
     "logo": "composable.webp",
