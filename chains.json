@@ -673,6 +673,7 @@
   {
     "id": "archwaytestnet",
     "name": "archway",
+    "pretty_name": "Archway",
     "network_type": "testnet",
     "logo": "archway.png",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -722,6 +723,7 @@
   {
     "id": "babylontestnet",
     "name": "babylon",
+    "pretty_name": "Babylon",
     "network_type": "testnet",
     "logo": "babylon.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -746,6 +748,7 @@
   {
     "id": "bitcannadevnet",
     "name": "bitcanna",
+    "pretty_name": "Bitcanna",
     "network_type": "testnet",
     "logo": "bitcanna.svg",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -843,6 +846,7 @@
     "id": "composabletestnet",
     "name": "composable",
     "jumper_path": "banksy-testnet-3",
+    "pretty_name": "Composable",
     "network_type": "testnet",
     "logo": "composable.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
@@ -1042,6 +1046,7 @@
   {
     "id": "humanstestnet",
     "name": "humans",
+    "pretty_name": "Humans AI",
     "network_type": "testnet",
     "logo": "humans.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
