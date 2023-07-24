@@ -818,6 +818,7 @@
   {
     "id": "celestiatestnet3",
     "name": "celestia",
+    "pretty_name": "Celestia",
     "network_type": "testnet",
     "logo": "celestia.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
