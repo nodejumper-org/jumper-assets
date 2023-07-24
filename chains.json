@@ -816,7 +816,7 @@
     }
   },
   {
-    "id": "celestia",
+    "id": "celestiatestnet3",
     "name": "celestia",
     "network_type": "testnet",
     "logo": "celestia.webp",
