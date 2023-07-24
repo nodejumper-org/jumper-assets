@@ -945,7 +945,7 @@
     "is_wasm_on_root_level_enabled": true
   },
   {
-    "id": "dymension",
+    "id": "dymensiontestnet",
     "name": "dymension",
     "network_type": "testnet",
     "logo": "dymension.webp",
