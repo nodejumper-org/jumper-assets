@@ -141,7 +141,8 @@
       "is_genesis": true,
       "stake_url": "https://restake.app/composable/centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz/stake",
       "validator_url": "https://restake.app/composable/centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz/stake"
-    }
+    },
+    "denom_exponent": 12
   },
   {
     "id": "desmos",
