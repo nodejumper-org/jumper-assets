@@ -768,7 +768,7 @@
     }
   },
   {
-    "id": "cardchain",
+    "id": "cardchaintestnet",
     "name": "cardchain",
     "network_type": "testnet",
     "logo": "cardchain.webp",
