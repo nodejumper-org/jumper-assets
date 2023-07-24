@@ -601,7 +601,7 @@
     }
   },
   {
-    "id": "althea",
+    "id": "altheatestnet",
     "name": "althea",
     "network_type": "testnet",
     "logo": "althea.webp",
@@ -626,7 +626,7 @@
     "denom_exponent": 18
   },
   {
-    "id": "andromeda",
+    "id": "andromedatestnet",
     "name": "andromeda",
     "network_type": "testnet",
     "logo": "andromeda.webp",
