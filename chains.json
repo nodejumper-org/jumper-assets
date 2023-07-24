@@ -894,7 +894,7 @@
     "is_archive": true
   },
   {
-    "id": "defund",
+    "id": "defundtestnet",
     "name": "defund",
     "network_type": "testnet",
     "logo": "defund.webp",
