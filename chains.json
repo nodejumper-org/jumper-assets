@@ -1143,7 +1143,7 @@
     "is_archive": true
   },
   {
-    "chain_name": "nibiru",
+    "chain_name": "nibirutestnet",
     "jumper_name": "nibiru",
     "network_type": "testnet",
     "logo": "nibiru.webp",
