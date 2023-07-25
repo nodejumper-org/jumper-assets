@@ -1221,7 +1221,7 @@
     "is_wasm_on_root_level_enabled": true
   },
   {
-    "chain_name": "noria",
+    "chain_name": "noriatestnet",
     "jumper_name": "noria",
     "network_type": "testnet",
     "logo": "noria.png",
