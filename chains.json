@@ -405,7 +405,7 @@
       "github": "https://github.com/Pylons-tech",
       "globe": "https://www.pylons.tech",
       "discord": "https://discord.com/invite/pylons",
-      "block_explorer": "https://pylons.explorers.guru/"
+      "block_explorer": "https://pylons.explorers.guru"
     },
     "validator": {
       "address": "pylovaloper1gaxmegsarn8vquy573750ffklulw8pf8g2usyw",
@@ -564,7 +564,7 @@
       "globe": "https://ununifi.io/",
       "medium": "https://medium.com/@ununifi",
       "discord": "https://discord.com/invite/gxEkFyu5rn",
-      "block_explorer": "https://ununifi.io/explorer/"
+      "block_explorer": "https://ununifi.io/explorer"
     },
     "validator": {
       "address": "ununifivaloper15lp2nwccku06xnrgfpany9elrt75exy2hngplz",
@@ -639,7 +639,7 @@
       "docs": "https://docs.andromedaprotocol.io/andromeda/platform-and-framework/introduction",
       "discord": "https://discord.gg/EtSRGbPEXP",
       "telegram": "https://t.me/andromedaprotocol",
-      "block_explorer": "https://andromeda.explorers.guru/"
+      "block_explorer": "https://andromeda.explorers.guru"
     },
     "validator": {
       "address": "andrvaloper1p04a3zkxkjayepwtud2gufyht3hxs36ufm7twl",
@@ -859,7 +859,7 @@
       "docs": "https://docs.composable.finance/",
       "discord": "https://discord.gg/composable",
       "telegram": "https://t.me/composablefinance",
-      "block_explorer": "https://explorer.kjnodes.com/composable-testnet/"
+      "block_explorer": "https://explorer.kjnodes.com/composable-testnet"
     },
     "validator": {
       "address": "centaurivaloper19s29u5araztclpum4em5pf7fzw04pw6fswz4uv",
@@ -1031,7 +1031,7 @@
       "globe": "https://islamiccoin.net/",
       "discord": "https://discord.gg/aZMm8pekhZ",
       "telegram": "https://t.me/islamiccoin_int",
-      "block_explorer": "https://haqq.explorers.guru/"
+      "block_explorer": "https://haqq.explorers.guru"
     },
     "validator": {
       "address": "addr",
