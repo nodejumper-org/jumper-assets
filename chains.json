@@ -846,7 +846,6 @@
   {
     "chain_name": "composabletestnet",
     "jumper_name": "composable",
-    "jumper_path": "banksy-testnet-3",
     "pretty_name": "Composable",
     "network_type": "testnet",
     "logo": "composable.webp",
