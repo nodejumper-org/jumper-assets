@@ -1246,7 +1246,7 @@
     "is_wasm_on_root_level_enabled": true
   },
   {
-    "chain_name": "ojo",
+    "chain_name": "ojodevnet",
     "jumper_name": "ojo",
     "network_type": "testnet",
     "logo": "ojo.webp",
