@@ -1600,7 +1600,7 @@
     "is_archive": true
   },
   {
-    "chain_name": "zetachain",
+    "chain_name": "zetachaintestnet",
     "jumper_name": "zetachain",
     "network_type": "testnet",
     "logo": "zetachain.webp",
