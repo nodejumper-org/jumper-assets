@@ -57,7 +57,6 @@
     "network_type": "mainnet",
     "logo": "assetmantle.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://assetmantle.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/AssetMantle",
       "github": "https://github.com/AssetMantle",
@@ -149,7 +148,6 @@
     "network_type": "mainnet",
     "logo": "desmos.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://desmos.nodejumper.io",
     "service_name": "desmosd",
     "links": {
       "twitter": "https://twitter.com/DesmosNetwork",
@@ -274,7 +272,6 @@
     "network_type": "mainnet",
     "logo": "jackal.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://jackal.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/Jackal_Labs",
       "github": "https://github.com/JackalLabs",
@@ -351,7 +348,6 @@
     "network_type": "mainnet",
     "logo": "omniflix.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://omniflix.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/@OmniFlixNetwork",
       "github": "https://github.com/OmniFlix",
@@ -372,7 +368,6 @@
     "network_type": "mainnet",
     "logo": "paloma.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://paloma.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/paloma_chain",
       "github": "https://github.com/palomachain",
@@ -421,7 +416,6 @@
     "network_type": "mainnet",
     "logo": "rebus.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://rebus.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/RebusChain",
       "github": "https://github.com/rebuschain",
@@ -444,7 +438,6 @@
     "network_type": "mainnet",
     "logo": "rizon.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://rizon.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/hdac_rizon",
       "github": "https://github.com/rizon-world",
@@ -485,7 +478,6 @@
     "network_type": "mainnet",
     "logo": "starname.svg",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://starname.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/starname_me",
       "github": "https://github.com/iov-one",
@@ -507,7 +499,6 @@
     "network_type": "mainnet",
     "logo": "teritori.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://teritori.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/TeritoriNetwork",
       "github": "https://github.com/TERITORI",
@@ -526,6 +517,7 @@
   {
     "chain_name": "terpnetwork",
     "network_type": "mainnet",
+    "service_name": "terpd",
     "logo": "terp.webp",
     "snapshot_server": "https://snapshots2.nodejumper.io",
     "links": {
@@ -554,7 +546,6 @@
     "network_type": "mainnet",
     "logo": "ununifi.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://ununifi.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/ununifi/",
       "github": "https://github.com/UnUniFi",
@@ -846,7 +837,6 @@
     "network_type": "testnet",
     "logo": "composable.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
-    "rpc_server": "https://banksy-testnet-3.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/ComposableFin",
       "github": "https://github.com/notional-labs",
