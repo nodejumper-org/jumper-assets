@@ -171,7 +171,6 @@
     "network_type": "mainnet",
     "logo": "empower.webp",
     "snapshot_server": "https://snapshots2.nodejumper.io",
-    "rpc_server": "https://empowerchain.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/empowerchain_io",
       "github": "https://github.com/EmpowerPlastic",
@@ -677,7 +676,6 @@
     "network_type": "testnet",
     "logo": "archway.png",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
-    "rpc_server": "https://archway-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/archwayhq",
       "github": "https://github.com/archway-network",
