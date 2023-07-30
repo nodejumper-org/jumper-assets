@@ -391,7 +391,6 @@
     "network_type": "mainnet",
     "logo": "pylons.webp",
     "snapshot_server": "https://snapshots1.nodejumper.io",
-    "rpc_server": "https://pylons.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/pylonstech",
       "github": "https://github.com/Pylons-tech",
