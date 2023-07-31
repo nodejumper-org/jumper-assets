@@ -3,7 +3,7 @@
     "chain_name": "agoric",
     "network_type": "mainnet",
     "logo": "agoric.webp",
-    "snapshot_server": "https://snapshots2.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://agoric.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/agoric",
@@ -29,7 +29,7 @@
     "chain_name": "archway",
     "network_type": "mainnet",
     "logo": "archway.png",
-    "snapshot_server": "https://snapshots2.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://archway.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/archwayhq",
@@ -56,7 +56,7 @@
     "chain_name": "assetmantle",
     "network_type": "mainnet",
     "logo": "assetmantle.svg",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/AssetMantle",
       "github": "https://github.com/AssetMantle",
@@ -76,7 +76,7 @@
     "chain_name": "aura",
     "network_type": "mainnet",
     "logo": "aura.webp",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://aura.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/AuraNetworkHQ",
@@ -101,7 +101,7 @@
     "jumper_name": "bitcanna",
     "network_type": "mainnet",
     "logo": "bitcanna.svg",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://bitcanna.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/BitCannaGlobal",
@@ -123,7 +123,7 @@
     "chain_name": "composable",
     "network_type": "mainnet",
     "logo": "composable.webp",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/ComposableFin",
       "github": "https://github.com/notional-labs",
@@ -146,7 +146,7 @@
     "chain_name": "desmos",
     "network_type": "mainnet",
     "logo": "desmos.svg",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "service_name": "desmosd",
     "links": {
       "twitter": "https://twitter.com/DesmosNetwork",
@@ -167,7 +167,7 @@
     "chain_name": "empowerchain",
     "network_type": "mainnet",
     "logo": "empower.webp",
-    "snapshot_server": "https://snapshots2.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/empowerchain_io",
       "github": "https://github.com/EmpowerPlastic",
@@ -193,7 +193,7 @@
     "chain_name": "firmachain",
     "network_type": "mainnet",
     "logo": "firmachain.svg",
-    "snapshot_server": "https://snapshots2.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/firmachain",
       "github": "https://github.com/firmachain",
@@ -219,7 +219,7 @@
     "chain_name": "gitopia",
     "network_type": "mainnet",
     "logo": "gitopia.webp",
-    "snapshot_server": "https://snapshots2.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://gitopia.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/gitopiaDAO",
@@ -244,7 +244,7 @@
     "chain_name": "humans",
     "network_type": "mainnet",
     "logo": "humans.webp",
-    "snapshot_server": "https://snapshots2.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://humans.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/humansdotai",
@@ -270,7 +270,7 @@
     "chain_name": "jackal",
     "network_type": "mainnet",
     "logo": "jackal.webp",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/Jackal_Labs",
       "github": "https://github.com/JackalLabs",
@@ -294,7 +294,7 @@
     "network_type": "mainnet",
     "apr": 0.011,
     "logo": "kujira.svg",
-    "snapshot_server": "https://snapshots2.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://kujira.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/TeamKujira",
@@ -321,7 +321,7 @@
     "chain_name": "nois",
     "network_type": "mainnet",
     "logo": "nois.webp",
-    "snapshot_server": "https://snapshots2.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://nois.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/NoisNetwork",
@@ -346,7 +346,7 @@
     "chain_name": "omniflixhub",
     "network_type": "mainnet",
     "logo": "omniflix.webp",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/@OmniFlixNetwork",
       "github": "https://github.com/OmniFlix",
@@ -366,7 +366,7 @@
     "chain_name": "paloma",
     "network_type": "mainnet",
     "logo": "paloma.webp",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/paloma_chain",
       "github": "https://github.com/palomachain",
@@ -390,7 +390,7 @@
     "chain_name": "pylons",
     "network_type": "mainnet",
     "logo": "pylons.webp",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/pylonstech",
       "github": "https://github.com/Pylons-tech",
@@ -413,7 +413,7 @@
     "chain_name": "rebus",
     "network_type": "mainnet",
     "logo": "rebus.webp",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/RebusChain",
       "github": "https://github.com/rebuschain",
@@ -435,7 +435,7 @@
     "chain_name": "rizon",
     "network_type": "mainnet",
     "logo": "rizon.svg",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/hdac_rizon",
       "github": "https://github.com/rizon-world",
@@ -455,7 +455,7 @@
     "chain_name": "stafihub",
     "network_type": "mainnet",
     "logo": "stafihub.svg",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://stafihub.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/StaFiHub_",
@@ -475,7 +475,7 @@
     "chain_name": "starname",
     "network_type": "mainnet",
     "logo": "starname.svg",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/starname_me",
       "github": "https://github.com/iov-one",
@@ -496,7 +496,7 @@
     "chain_name": "teritori",
     "network_type": "mainnet",
     "logo": "teritori.webp",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/TeritoriNetwork",
       "github": "https://github.com/TERITORI",
@@ -517,7 +517,7 @@
     "network_type": "mainnet",
     "service_name": "terpd",
     "logo": "terp.webp",
-    "snapshot_server": "https://snapshots2.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/terpculture",
       "github": "https://github.com/terpnetwork",
@@ -543,7 +543,7 @@
     "chain_name": "ununifi",
     "network_type": "mainnet",
     "logo": "ununifi.webp",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/ununifi/",
       "github": "https://github.com/UnUniFi",
@@ -565,7 +565,7 @@
     "chain_name": "uptick",
     "network_type": "mainnet",
     "logo": "uptick.webp",
-    "snapshot_server": "https://snapshots2.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://uptick.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/uptickproject",
@@ -1490,7 +1490,7 @@
     "jumper_name": "stride",
     "network_type": "mainnet",
     "logo": "stride.webp",
-    "snapshot_server": "https://snapshots1.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "rpc_server": "https://stride.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/stride_zone",
