@@ -1547,8 +1547,8 @@
       "block_explorer": "https://zetachain.exploreme.pro"
     },
     "validator": {
-      "address": "zetavaloper1meq97nclpc3vd9zj6y43wvgfncshqg2l9lwg94",
-      "validator_url": "https://zetachain.exploreme.pro/validator/zetavaloper1meq97nclpc3vd9zj6y43wvgfncshqg2l9lwg94"
+      "address": "zetavaloper1zu8uq4gry2wgxpv0eds26z34yxj7wvhpumw8nz",
+      "validator_url": "https://zetachain.exploreme.pro/validator/zetavaloper1zu8uq4gry2wgxpv0eds26z34yxj7wvhpumw8nz"
     },
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 300GB",
