@@ -630,32 +630,6 @@
     "is_archive": true
   },
   {
-    "chain_name": "archwaytestnet",
-    "jumper_name": "archway",
-    "pretty_name": "Archway",
-    "network_type": "testnet",
-    "logo": "archway.png",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/archwayhq",
-      "github": "https://github.com/archway-network",
-      "globe": "https://archway.io/",
-      "discord": "https://discord.gg/5FVvx3WGfa",
-      "telegram": "https://t.me/archway_hq",
-      "block_explorer": "https://testnet.mintscan.io/archway-testnet"
-    },
-    "validator": {
-      "address": "archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx",
-      "validator_url": "https://testnet.mintscan.io/archway-testnet/validators/archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx"
-    },
-    "hardware_requirements": {
-      "minSpecification": "4CPU 8RAM 100GB",
-      "recommendedSpecification": "8CPU 32RAM 200GB"
-    },
-    "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
-  },
-  {
     "chain_name": "axelar",
     "network_type": "testnet",
     "logo": "axelar.svg",
@@ -1580,5 +1554,32 @@
       "minSpecification": "4CPU 8RAM 300GB",
       "recommendedSpecification": "8CPU 32RAM 300GB"
     }
+  },
+  {
+    "chain_name": "archwaytestnet",
+    "jumper_name": "archway",
+    "pretty_name": "Archway",
+    "network_type": "testnet",
+    "logo": "archway.png",
+    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/archwayhq",
+      "github": "https://github.com/archway-network",
+      "globe": "https://archway.io/",
+      "discord": "https://discord.gg/5FVvx3WGfa",
+      "telegram": "https://t.me/archway_hq",
+      "block_explorer": "https://testnet.mintscan.io/archway-testnet"
+    },
+    "validator": {
+      "address": "archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx",
+      "validator_url": "https://testnet.mintscan.io/archway-testnet/validators/archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
   }
 ]
