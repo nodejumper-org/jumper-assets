@@ -43,7 +43,12 @@
       "is_genesis": true,
       "stake_url": "https://restake.app/assetmantle/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje",
       "validator_url": "https://restake.app/assetmantle/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje"
-    }
+    },
+    "snapshots": [
+      {
+        "provider": "polkachu"
+      }
+    ]
   },
   {
     "chain_name": "aura",
@@ -357,12 +362,7 @@
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
-    },
-    "snapshots": [
-      {
-        "provider": "polkachu"
-      }
-    ]
+    }
   },
   {
     "chain_name": "pylons",
