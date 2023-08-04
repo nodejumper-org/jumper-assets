@@ -1393,8 +1393,6 @@
       "minSpecification": "8CPU 32RAM 500GB",
       "recommendedSpecification": "16CPU 64GB 1TB"
     },
-    "is_state_sync_enabled": false,
-    "is_address_book_enabled": false,
     "is_wasm_on_state_sync_enabled": true,
     "is_wasm_on_root_level_enabled": true
   },
