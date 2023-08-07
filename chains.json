@@ -118,7 +118,12 @@
       "stake_url": "https://restake.app/composable/centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz/stake",
       "validator_url": "https://restake.app/composable/centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz/stake"
     },
-    "denom_exponent": 12
+    "denom_exponent": 12,
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "desmos",
@@ -265,7 +270,12 @@
       "validator_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h"
     },
     "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
+    "is_wasm_on_root_level_enabled": true,
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "kujira",
@@ -338,7 +348,12 @@
       "is_genesis": false,
       "stake_url": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe",
       "validator_url": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe"
-    }
+    },
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "paloma",
@@ -488,7 +503,12 @@
       "stake_url": "https://restake.app/teritori/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0/delegate",
       "validator_url": "https://restake.app/teritori/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0/delegate"
     },
-    "is_wasm_on_state_sync_enabled": true
+    "is_wasm_on_state_sync_enabled": true,
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "terpnetwork",
@@ -537,7 +557,12 @@
       "validator_url": "https://restake.app/ununifi/ununifivaloper15lp2nwccku06xnrgfpany9elrt75exy2hngplz/stake"
     },
     "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
+    "is_wasm_on_root_level_enabled": true,
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "uptick",
