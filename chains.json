@@ -46,7 +46,7 @@
     },
     "snapshots": [
       {
-        "provider": "polkachu"
+        "id": "snap1"
       }
     ]
   },
