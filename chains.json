@@ -346,7 +346,8 @@
     },
     "snapshots": [
       {
-        "id": "snap1"
+        "id": "snap1",
+        "name": "omniflix"
       }
     ]
   },
