@@ -1084,9 +1084,10 @@
     "is_wasm_on_state_sync_enabled": true
   },
   {
-    "chain_name": "nois",
+    "chain_name": "noistestnet",
     "jumper_name": "nois",
     "network_type": "testnet",
+    "chain_id": "nois-testnet-004",
     "logo": "nois.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
     "rpc_server": "https://nois-testnet.nodejumper.io",
@@ -1331,9 +1332,10 @@
     "is_archive": true
   },
   {
-    "chain_name": "rebus",
+    "chain_name": "rebustestnet",
     "jumper_name": "rebus",
     "network_type": "testnet",
+    "chain_id": "",
     "logo": "rebus.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
     "links": {
@@ -1396,9 +1398,10 @@
     "is_archive": true
   },
   {
-    "chain_name": "stride",
+    "chain_name": "stridetestnet",
     "jumper_name": "stride",
     "network_type": "testnet",
+    "chain_id": "stride-testnet-1",
     "logo": "stride.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
     "links": {
@@ -1437,9 +1440,10 @@
     "is_archive": true
   },
   {
-    "chain_name": "teritori",
+    "chain_name": "teritoritestnet",
     "jumper_name": "teritori",
     "network_type": "testnet",
+    "chain_id": "teritori-testnet-v3",
     "logo": "teritori.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
     "rpc_server": "https://teritori-testnet.nodejumper.io",
@@ -1489,8 +1493,9 @@
     "is_wasm_on_root_level_enabled": true
   },
   {
-    "chain_name": "uptick",
+    "chain_name": "upticktestnet",
     "jumper_name": "uptick",
+    "chain_id": "uptick_7000-2",
     "network_type": "testnet",
     "logo": "uptick.webp",
     "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
@@ -1563,6 +1568,73 @@
     },
     "is_wasm_on_state_sync_enabled": true,
     "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
+  },
+  {
+    "chain_name": "desmos",
+    "network_type": "mainnet",
+    "logo": "desmos.svg",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "service_name": "desmosd",
+    "links": {
+      "twitter": "https://twitter.com/DesmosNetwork",
+      "github": "https://github.com/desmos-labs",
+      "globe": "https://www.desmos.network/",
+      "medium": "https://medium.com/desmosnetwork",
+      "discord": "https://discord.com/invite/ckFcU5vxxc",
+      "block_explorer": "https://www.mintscan.io/desmos"
+    },
+    "validator": {
+      "address": "desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate",
+      "validator_url": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate"
+    },
+    "is_archive": true,
+  },
+  {
+    "chain_name": "jackal",
+    "network_type": "mainnet",
+    "logo": "jackal.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/Jackal_Labs",
+      "github": "https://github.com/JackalLabs",
+      "globe": "https://jackalprotocol.com",
+      "medium": "https://jackaldao.medium.com",
+      "docs": "https://docs.jackalprotocol.com/",
+      "discord": "https://discord.com/invite/5GKym3p6rj",
+      "block_explorer": "https://ping.pub/jackal"
+    },
+    "validator": {
+      "address": "jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
+      "validator_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h"
+    },
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true,
+  },
+  {
+    "chain_name": "rizon",
+    "network_type": "mainnet",
+    "logo": "rizon.svg",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/hdac_rizon",
+      "github": "https://github.com/rizon-world",
+      "globe": "https://rizon.world",
+      "medium": "https://medium.com/hdac",
+      "discord": "https://discord.gg/Vgbcu5Hhmz",
+      "block_explorer": "https://www.mintscan.io/rizon"
+    },
+    "validator": {
+      "address": "rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/rizon/rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr/delegate",
+      "validator_url": "https://restake.app/rizon/rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr/delegate"
+    },
     "is_archive": true
   }
 ]
