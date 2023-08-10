@@ -125,27 +125,6 @@
     ]
   },
   {
-    "chain_name": "desmos",
-    "network_type": "mainnet",
-    "logo": "desmos.svg",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "service_name": "desmosd",
-    "links": {
-      "twitter": "https://twitter.com/DesmosNetwork",
-      "github": "https://github.com/desmos-labs",
-      "globe": "https://www.desmos.network/",
-      "medium": "https://medium.com/desmosnetwork",
-      "discord": "https://discord.com/invite/ckFcU5vxxc",
-      "block_explorer": "https://www.mintscan.io/desmos"
-    },
-    "validator": {
-      "address": "desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x",
-      "is_genesis": false,
-      "stake_url": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate",
-      "validator_url": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate"
-    }
-  },
-  {
     "chain_name": "empowerchain",
     "network_type": "mainnet",
     "logo": "empower.webp",
@@ -247,29 +226,6 @@
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     }
-  },
-  {
-    "chain_name": "jackal",
-    "network_type": "mainnet",
-    "logo": "jackal.webp",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/Jackal_Labs",
-      "github": "https://github.com/JackalLabs",
-      "globe": "https://jackalprotocol.com",
-      "medium": "https://jackaldao.medium.com",
-      "docs": "https://docs.jackalprotocol.com/",
-      "discord": "https://discord.com/invite/5GKym3p6rj",
-      "block_explorer": "https://ping.pub/jackal"
-    },
-    "validator": {
-      "address": "jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
-      "is_genesis": false,
-      "stake_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
-      "validator_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h"
-    },
-    "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
   },
   {
     "chain_name": "kujira",
@@ -375,6 +331,30 @@
     }
   },
   {
+    "chain_name": "passage",
+    "network_type": "mainnet",
+    "logo": "passage.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/passageio",
+      "github": "https://github.com/envadiv",
+      "globe": "https://www.passage.io/",
+      "discord": "https://discord.gg/passage",
+      "block_explorer": "https://www.mintscan.io/passage"
+    },
+    "validator": {
+      "address": "pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn",
+      "is_genesis": true,
+      "stake_url": "https://restake.app/passage/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn/stake",
+      "validator_url": "https://www.mintscan.io/passage/validators/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn"
+    },
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
+  },
+  {
     "chain_name": "pylons",
     "network_type": "mainnet",
     "logo": "pylons.webp",
@@ -418,26 +398,6 @@
       "validator_url": "https://restake.app/rebus/rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8/delegate"
     },
     "is_state_sync_enabled": false
-  },
-  {
-    "chain_name": "rizon",
-    "network_type": "mainnet",
-    "logo": "rizon.svg",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/hdac_rizon",
-      "github": "https://github.com/rizon-world",
-      "globe": "https://rizon.world",
-      "medium": "https://medium.com/hdac",
-      "discord": "https://discord.gg/Vgbcu5Hhmz",
-      "block_explorer": "https://www.mintscan.io/rizon"
-    },
-    "validator": {
-      "address": "rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr",
-      "is_genesis": false,
-      "stake_url": "https://restake.app/rizon/rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr/delegate",
-      "validator_url": "https://restake.app/rizon/rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr/delegate"
-    }
   },
   {
     "chain_name": "stafihub",
