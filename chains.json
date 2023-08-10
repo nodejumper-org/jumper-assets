@@ -43,7 +43,12 @@
       "is_genesis": true,
       "stake_url": "https://restake.app/assetmantle/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje",
       "validator_url": "https://restake.app/assetmantle/mantlevaloper12w4wch0vykgw6qyveurhqck75n3dnw0c0c4fje"
-    }
+    },
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "aura",
@@ -110,31 +115,14 @@
     "validator": {
       "address": "centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz",
       "is_genesis": true,
-      "stake_url": "https://restake.app/composable/centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz/stake",
-      "validator_url": "https://restake.app/composable/centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz/stake"
+      "validator_url": "https://composable.exploreme.pro/validator/centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz"
     },
-    "denom_exponent": 12
-  },
-  {
-    "chain_name": "desmos",
-    "network_type": "mainnet",
-    "logo": "desmos.svg",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "service_name": "desmosd",
-    "links": {
-      "twitter": "https://twitter.com/DesmosNetwork",
-      "github": "https://github.com/desmos-labs",
-      "globe": "https://www.desmos.network/",
-      "medium": "https://medium.com/desmosnetwork",
-      "discord": "https://discord.com/invite/ckFcU5vxxc",
-      "block_explorer": "https://www.mintscan.io/desmos"
-    },
-    "validator": {
-      "address": "desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x",
-      "is_genesis": false,
-      "stake_url": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate",
-      "validator_url": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate"
-    }
+    "denom_exponent": 12,
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "empowerchain",
@@ -240,29 +228,6 @@
     }
   },
   {
-    "chain_name": "jackal",
-    "network_type": "mainnet",
-    "logo": "jackal.webp",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/Jackal_Labs",
-      "github": "https://github.com/JackalLabs",
-      "globe": "https://jackalprotocol.com",
-      "medium": "https://jackaldao.medium.com",
-      "docs": "https://docs.jackalprotocol.com/",
-      "discord": "https://discord.com/invite/5GKym3p6rj",
-      "block_explorer": "https://ping.pub/jackal"
-    },
-    "validator": {
-      "address": "jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
-      "is_genesis": false,
-      "stake_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
-      "validator_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h"
-    },
-    "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
-  },
-  {
     "chain_name": "kujira",
     "network_type": "mainnet",
     "apr": 0.011,
@@ -333,7 +298,13 @@
       "is_genesis": false,
       "stake_url": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe",
       "validator_url": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe"
-    }
+    },
+    "snapshots": [
+      {
+        "id": "snap1",
+        "name": "omniflix"
+      }
+    ]
   },
   {
     "chain_name": "paloma",
@@ -358,6 +329,30 @@
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     }
+  },
+  {
+    "chain_name": "passage",
+    "network_type": "mainnet",
+    "logo": "passage.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/passageio",
+      "github": "https://github.com/envadiv",
+      "globe": "https://www.passage.io/",
+      "discord": "https://discord.gg/passage",
+      "block_explorer": "https://www.mintscan.io/passage"
+    },
+    "validator": {
+      "address": "pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn",
+      "is_genesis": true,
+      "stake_url": "https://restake.app/passage/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn/stake",
+      "validator_url": "https://www.mintscan.io/passage/validators/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn"
+    },
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "pylons",
@@ -403,26 +398,6 @@
       "validator_url": "https://restake.app/rebus/rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8/delegate"
     },
     "is_state_sync_enabled": false
-  },
-  {
-    "chain_name": "rizon",
-    "network_type": "mainnet",
-    "logo": "rizon.svg",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/hdac_rizon",
-      "github": "https://github.com/rizon-world",
-      "globe": "https://rizon.world",
-      "medium": "https://medium.com/hdac",
-      "discord": "https://discord.gg/Vgbcu5Hhmz",
-      "block_explorer": "https://www.mintscan.io/rizon"
-    },
-    "validator": {
-      "address": "rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr",
-      "is_genesis": false,
-      "stake_url": "https://restake.app/rizon/rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr/delegate",
-      "validator_url": "https://restake.app/rizon/rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr/delegate"
-    }
   },
   {
     "chain_name": "stafihub",
@@ -483,7 +458,12 @@
       "stake_url": "https://restake.app/teritori/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0/delegate",
       "validator_url": "https://restake.app/teritori/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0/delegate"
     },
-    "is_wasm_on_state_sync_enabled": true
+    "is_wasm_on_state_sync_enabled": true,
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "terpnetwork",
@@ -532,7 +512,12 @@
       "validator_url": "https://restake.app/ununifi/ununifivaloper15lp2nwccku06xnrgfpany9elrt75exy2hngplz/stake"
     },
     "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
+    "is_wasm_on_root_level_enabled": true,
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "uptick",
