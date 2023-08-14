@@ -1592,7 +1592,7 @@
       "stake_url": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate",
       "validator_url": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate"
     },
-    "is_archive": true,
+    "is_archive": true
   },
   {
     "chain_name": "jackal",
@@ -1616,7 +1616,7 @@
     },
     "is_wasm_on_state_sync_enabled": true,
     "is_wasm_on_root_level_enabled": true,
-    "is_archive": true,
+    "is_archive": true
   },
   {
     "chain_name": "rizon",
