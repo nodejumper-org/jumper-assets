@@ -438,8 +438,7 @@
       "is_genesis": false,
       "stake_url": "https://restake.app/starname/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate",
       "validator_url": "https://restake.app/starname/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate"
-    },
-    "is_state_sync_enabled": true
+    }
   },
   {
     "chain_name": "teritori",
