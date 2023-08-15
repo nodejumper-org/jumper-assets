@@ -381,7 +381,12 @@
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 160GB",
       "recommendedSpecification": "8CPU 16RAM 500GB"
-    }
+    },
+    "snapshots": [
+      {
+        "id": "snap4"
+      }
+    ]
   },
   {
     "chain_name": "rebus",
