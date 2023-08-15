@@ -329,7 +329,12 @@
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
-    }
+    },
+    "snapshots": [
+      {
+        "id": "snap2"
+      }
+    ]
   },
   {
     "chain_name": "passage",
