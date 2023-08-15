@@ -398,7 +398,11 @@
       "stake_url": "https://restake.app/rebus/rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8/delegate",
       "validator_url": "https://restake.app/rebus/rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8/delegate"
     },
-    "is_state_sync_enabled": false
+    "snapshots": [
+      {
+        "id": "snap3"
+      }
+    ]
   },
   {
     "chain_name": "stafihub",
