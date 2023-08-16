@@ -564,7 +564,7 @@
     "jumper_name": "althea",
     "network_type": "testnet",
     "logo": "althea.webp",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://althea-testnet.nodejumper.io",
     "service_name": "althead",
     "links": {
@@ -589,7 +589,7 @@
     "jumper_name": "andromeda",
     "network_type": "testnet",
     "logo": "andromeda.webp",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://andromeda-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/andromedaprot",
@@ -615,7 +615,7 @@
     "chain_name": "another-1",
     "network_type": "testnet",
     "logo": "another1.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/AN1official",
       "github": "https://github.com/notional-labs",
@@ -633,7 +633,7 @@
     "chain_name": "axelar",
     "network_type": "testnet",
     "logo": "axelar.svg",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://axelar-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/axelarcore",
@@ -658,7 +658,7 @@
     "pretty_name": "Babylon",
     "network_type": "testnet",
     "logo": "babylon.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://babylon-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/babylon_chain",
@@ -683,7 +683,7 @@
     "pretty_name": "Bitcanna",
     "network_type": "testnet",
     "logo": "bitcanna.svg",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://bitcanna-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/BitCannaGlobal",
@@ -704,7 +704,7 @@
     "jumper_name": "cardchain",
     "network_type": "testnet",
     "logo": "cardchain.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://cardchain-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/CrowdControlNet",
@@ -727,7 +727,7 @@
     "jumper_name": "cascadia",
     "network_type": "testnet",
     "logo": "cascadia.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://cascadia-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/CascadiaSystems",
@@ -753,7 +753,7 @@
     "pretty_name": "Celestia",
     "network_type": "testnet",
     "logo": "celestia.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://celestia-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/CelestiaOrg",
@@ -781,7 +781,7 @@
     "pretty_name": "Composable",
     "network_type": "testnet",
     "logo": "composable.webp",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/ComposableFin",
       "github": "https://github.com/notional-labs",
@@ -807,7 +807,7 @@
     "jumper_name": "cosmos",
     "network_type": "testnet",
     "logo": "cosmos.webp",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://cosmos-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/cosmos",
@@ -833,7 +833,7 @@
     "jumper_name": "defund",
     "network_type": "testnet",
     "logo": "defund.webp",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://defund-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/defund_finance",
@@ -859,7 +859,7 @@
     "jumper_name": "dws",
     "network_type": "testnet",
     "logo": "dws.svg",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/dewebservices",
       "github": "https://github.com/deweb-services",
@@ -884,7 +884,7 @@
     "jumper_name": "dymension",
     "network_type": "testnet",
     "logo": "dymension.webp",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://dymension-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/dymensionXYZ",
@@ -910,7 +910,7 @@
     "jumper_name": "empower",
     "network_type": "testnet",
     "logo": "empower.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/empowerchain_io",
       "github": "https://github.com/empowerchain",
@@ -935,7 +935,7 @@
     "jumper_name": "gitopia",
     "network_type": "testnet",
     "logo": "gitopia.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://gitopia-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/gitopiaDAO",
@@ -960,7 +960,7 @@
     "jumper_name": "haqq",
     "network_type": "testnet",
     "logo": "haqq.svg",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/Islamic_coin",
       "github": "https://github.com/haqq-network",
@@ -985,7 +985,7 @@
     "pretty_name": "Humans AI",
     "network_type": "testnet",
     "logo": "humans.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://humans-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/humansdotai",
@@ -1010,7 +1010,7 @@
     "jumper_name": "lava",
     "network_type": "testnet",
     "logo": "lava.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://lava-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/lavanetxyz",
@@ -1036,7 +1036,7 @@
     "jumper_name": "mars",
     "network_type": "testnet",
     "logo": "mars.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://mars-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/mars_protocol",
@@ -1060,7 +1060,7 @@
     "jumper_name": "neutron",
     "network_type": "testnet",
     "logo": "neutron.jpeg",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://neutron-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/Neutron_org",
@@ -1083,7 +1083,7 @@
     "jumper_name": "nibiru",
     "network_type": "testnet",
     "logo": "nibiru.webp",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://nibiru-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/NibiruChain",
@@ -1109,7 +1109,7 @@
     "network_type": "testnet",
     "chain_id": "nois-testnet-004",
     "logo": "nois.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://nois-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/NoisNetwork",
@@ -1135,7 +1135,7 @@
     "jumper_name": "nolus",
     "network_type": "testnet",
     "logo": "nolus.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://nolus-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/NolusProtocol",
@@ -1162,7 +1162,7 @@
     "jumper_name": "noria",
     "network_type": "testnet",
     "logo": "noria.png",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://noria-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/NoriaNetwork",
@@ -1187,7 +1187,7 @@
     "jumper_name": "ojo",
     "network_type": "testnet",
     "logo": "ojo.webp",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://ojo-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/ojo_network",
@@ -1211,7 +1211,7 @@
     "jumper_name": "okp4",
     "network_type": "testnet",
     "logo": "okp4.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://okp4-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/OKP4_Protocol",
@@ -1235,7 +1235,7 @@
     "jumper_name": "ollo",
     "network_type": "testnet",
     "logo": "ollo.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://ollo-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/OllOStation",
@@ -1264,7 +1264,7 @@
     "jumper_name": "paloma",
     "network_type": "testnet",
     "logo": "paloma.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://paloma-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/paloma_chain",
@@ -1289,7 +1289,7 @@
     "jumper_name": "pylons",
     "network_type": "testnet",
     "logo": "pylons.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/pylonstech",
       "github": "https://github.com/Pylons-tech",
@@ -1313,7 +1313,7 @@
     "jumper_name": "quasar",
     "network_type": "testnet",
     "logo": "quasar.webp",
-    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://quasar-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/quasarfi",
@@ -1340,7 +1340,7 @@
     "jumper_name": "quicksilver",
     "network_type": "testnet",
     "logo": "quicksilver.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/quicksilverzone",
       "github": "https://github.com/ingenuity-build",
@@ -1362,7 +1362,7 @@
     "network_type": "testnet",
     "chain_id": "",
     "logo": "rebus.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/RebusChain",
       "github": "https://github.com/rebuschain",
@@ -1408,7 +1408,7 @@
     "jumper_name": "stagihub",
     "network_type": "testnet",
     "logo": "stafihub.svg",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/StaFiHub_",
       "github": "https://github.com/stafihub",
@@ -1428,7 +1428,7 @@
     "network_type": "testnet",
     "chain_id": "stride-testnet-1",
     "logo": "stride.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/stride_zone",
       "github": "https://github.com/Stride-Labs",
@@ -1470,7 +1470,7 @@
     "network_type": "testnet",
     "chain_id": "teritori-testnet-v3",
     "logo": "teritori.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://teritori-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/TeritoriNetwork",
@@ -1496,7 +1496,7 @@
     "jumper_name": "terp",
     "network_type": "testnet",
     "logo": "terp.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://terpnetwork-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/terpculture",
@@ -1523,7 +1523,7 @@
     "chain_id": "uptick_7000-2",
     "network_type": "testnet",
     "logo": "uptick.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://uptick-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/uptickproject",
@@ -1548,7 +1548,7 @@
     "jumper_name": "zetachain",
     "network_type": "testnet",
     "logo": "zetachain.webp",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "rpc_server": "https://zetachain-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/zetablockchain",
@@ -1574,7 +1574,7 @@
     "pretty_name": "Archway",
     "network_type": "testnet",
     "logo": "archway.png",
-    "snapshot_server": "https://snapshots1-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/archwayhq",
       "github": "https://github.com/archway-network",
