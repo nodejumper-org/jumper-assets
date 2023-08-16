@@ -795,7 +795,12 @@
     "validator": {
       "address": "centaurivaloper19s29u5araztclpum4em5pf7fzw04pw6fswz4uv",
       "validator_url": "https://explorer.kjnodes.com/composable-testnet/staking/centaurivaloper19s29u5araztclpum4em5pf7fzw04pw6fswz4uv"
-    }
+    },
+    "snapshots": [
+      {
+        "id": "snap2"
+      }
+    ]
   },
   {
     "chain_name": "cosmoshub",
