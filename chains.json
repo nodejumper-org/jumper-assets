@@ -1236,7 +1236,6 @@
     "network_type": "testnet",
     "logo": "ollo.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
-    "rpc_server": "https://ollo-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/OllOStation",
       "github": "https://github.com/OllO-Station",
