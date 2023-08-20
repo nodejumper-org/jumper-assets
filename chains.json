@@ -1382,7 +1382,6 @@
     "network_type": "testnet",
     "logo": "sei.webp",
     "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
-    "rpc_server": "https://sei-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/SeiNetwork",
       "github": "https://github.com/sei-protocol",
