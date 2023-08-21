@@ -206,7 +206,6 @@
     "network_type": "mainnet",
     "logo": "humans.webp",
     "snapshot_server": "https://snapshots.nodejumper.io",
-    "rpc_server": "https://humans.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/humansdotai",
       "github": "https://github.com/humansdotai",
