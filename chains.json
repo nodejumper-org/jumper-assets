@@ -1083,7 +1083,6 @@
     "network_type": "testnet",
     "logo": "nibiru.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
-    "rpc_server": "https://nibiru-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/NibiruChain",
       "github": "https://github.com/NibiruChain",
