@@ -559,6 +559,26 @@
     }
   },
   {
+    "chain_name": "arkeonetworktestnet",
+    "jumper_name": "arkeonetwork",
+    "network_type": "testnet",
+    "logo": "arkeo.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "rpc_server": "https://arkeonetwork-testnet.nodejumper.io",
+    "service_name": "arkeod",
+    "links": {
+      "twitter": "https://twitter.com/arkeonetwork",
+      "github": "https://github.com/arkeonetwork",
+      "globe": "https://arkeo.network/",
+      "discord": "https://discord.gg/BfEHpm6uFc",
+      "block_explorer": "https://explorer.nodexcapital.com/arkeo"
+    },
+    "validator": {
+      "address": "tarkeovaloper1fe97d4xz99dkm7wya46j736x8jwjxhjeesew7d",
+      "validator_url": "https://explorer.nodexcapital.com/arkeo/staking/tarkeovaloper1fe97d4xz99dkm7wya46j736x8jwjxhjeesew7d"
+    }
+  },
+  {
     "chain_name": "altheatestnet",
     "jumper_name": "althea",
     "network_type": "testnet",
