@@ -851,7 +851,8 @@
     },
     "is_state_sync_enabled": false,
     "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
   },
   {
     "chain_name": "dws",
