@@ -1,31 +1,5 @@
 [
   {
-    "chain_name": "agoric",
-    "network_type": "mainnet",
-    "logo": "agoric.webp",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "rpc_server": "https://agoric.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/agoric",
-      "github": "https://github.com/Agoric",
-      "globe": "https://agoric.com",
-      "docs": "https://docs.agoric.com",
-      "discord": "https://discord.com/invite/qDW8DRes4s",
-      "telegram": "https://agoric.com/telegram",
-      "block_explorer": "https://agoric.explorers.guru"
-    },
-    "validator": {
-      "address": "agoricvaloper12ehd03atjwrhrhlpvgsvuqegrmydzz67mw079v",
-      "is_genesis": false,
-      "stake_url": "https://restake.app/agoric/agoricvaloper12ehd03atjwrhrhlpvgsvuqegrmydzz67mw079v/stake",
-      "validator_url": "https://restake.app/agoric/agoricvaloper12ehd03atjwrhrhlpvgsvuqegrmydzz67mw079v/stake"
-    },
-    "hardware_requirements": {
-      "minSpecification": "4CPU 16RAM 200GB",
-      "recommendedSpecification": "8CPU 32RAM 500GB"
-    }
-  },
-  {
     "chain_name": "assetmantle",
     "network_type": "mainnet",
     "logo": "assetmantle.svg",
@@ -1418,7 +1392,8 @@
       "recommendedSpecification": "16CPU 64GB 1TB"
     },
     "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
   },
   {
     "chain_name": "stafihub",
