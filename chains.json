@@ -1087,8 +1087,8 @@
       "block_explorer": "https://explorer.nibiru.fi/nibiru-itn-2"
     },
     "validator": {
-      "address": "nibivaloper1r9kmadqs9nsppn4wz5yp4rw8zn9545rcueqhyr",
-      "validator_url": "https://explorer.nibiru.fi/nibiru-itn-2/staking/nibivaloper1r9kmadqs9nsppn4wz5yp4rw8zn9545rcueqhyr"
+      "address": "nibivaloper1h3dakqv5gkcgezwc8muxz75n3easkdt9wnr6ps",
+      "validator_url": "https://explorer.nibiru.fi/nibiru-itn-2/staking/nibivaloper1h3dakqv5gkcgezwc8muxz75n3easkdt9wnr6ps"
     },
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
