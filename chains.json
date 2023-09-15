@@ -1088,7 +1088,7 @@
     },
     "validator": {
       "address": "nibivaloper1r9kmadqs9nsppn4wz5yp4rw8zn9545rcueqhyr",
-      "validator_url": "https://explorer.nibiru.fi/nibiru-itn-1/staking/nibivaloper1r9kmadqs9nsppn4wz5yp4rw8zn9545rcueqhyr"
+      "validator_url": "https://explorer.nibiru.fi/nibiru-itn-2/staking/nibivaloper1r9kmadqs9nsppn4wz5yp4rw8zn9545rcueqhyr"
     },
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
