@@ -793,7 +793,8 @@
       {
         "id": "snap2"
       }
-    ]
+    ],
+    "is_archive": true
   },
   {
     "chain_name": "cosmoshub",
