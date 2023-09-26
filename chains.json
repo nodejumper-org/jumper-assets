@@ -213,13 +213,13 @@
       "globe": "https://kujira.app/",
       "docs": "https://docs.kujira.app/",
       "discord": "https://discord.gg/teamkujira",
-      "block_explorer": "https://www.mintscan.io/kujira"
+      "block_explorer": "https://ping.pub/kujira"
     },
     "validator": {
       "address": "kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
       "is_genesis": true,
       "stake_url": "https://restake.app/kujira/kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
-      "validator_url": "https://restake.app/kujira/kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84"
+      "validator_url": "https://ping.pub/kujira/staking/kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84"
     },
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
