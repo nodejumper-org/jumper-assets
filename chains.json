@@ -52,6 +52,7 @@
     "jumper_name": "bitcanna",
     "network_type": "mainnet",
     "logo": "bitcanna.svg",
+    "rpc_server": "https://bitcanna.nodejumper.io",
     "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/BitCannaGlobal",
