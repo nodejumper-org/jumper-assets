@@ -874,8 +874,8 @@
       "block_explorer": "https://exp.utsa.tech/dymension-test"
     },
     "validator": {
-      "address": "dymvaloper18j3ancg4tvtq559k5x8xzsat2gs3q3ujehruq2",
-      "validator_url": "https://exp.utsa.tech/dymension-test/staking/dymvaloper18j3ancg4tvtq559k5x8xzsat2gs3q3ujehruq2"
+      "address": "dymvaloper1vhdxpkjadlhp27jgge4vg4dy0s6fdex6un639s",
+      "validator_url": "https://exp.utsa.tech/dymension-test/staking/dymvaloper1vhdxpkjadlhp27jgge4vg4dy0s6fdex6un639s"
     },
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
