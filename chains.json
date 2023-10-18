@@ -664,6 +664,7 @@
     "network_type": "testnet",
     "logo": "bitcanna.svg",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "rpc_server": "https://bitcanna-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/BitCannaGlobal",
       "github": "https://github.com/BitCannaGlobal",
