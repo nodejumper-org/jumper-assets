@@ -641,6 +641,7 @@
     "network_type": "testnet",
     "logo": "babylon.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "rpc_server": "https://babylon-testnet-rpc.polkachu.com",
     "links": {
       "twitter": "https://twitter.com/babylon_chain",
       "github": "https://github.com/babylonchain",
