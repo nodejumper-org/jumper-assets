@@ -694,8 +694,8 @@
       "block_explorer": "https://explorer.stavr.tech/cardchain"
     },
     "validator": {
-      "address": "ccvaloper1s9arxcl3y57aeavu0qx4v97720wm4cpura7djt",
-      "validator_url": "https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1s9arxcl3y57aeavu0qx4v97720wm4cpura7djt"
+      "address": "ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl",
+      "validator_url": "https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl"
     },
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
