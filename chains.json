@@ -459,13 +459,13 @@
       "globe": "https://terp.network",
       "docs": "https://docs.terp.network",
       "discord": "https://discord.gg/CnsMGn47tP",
-      "block_explorer": "https://explorer.stavr.tech"
+      "block_explorer": "https://ping.pub/terp"
     },
     "validator": {
       "address": "terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
       "is_genesis": true,
       "stake_url": "https://restake.app/terpnetwork/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
-      "validator_url": "https://explorer.stavr.tech/staking/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv"
+      "validator_url": "https://ping.pub/terp/staking/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv"
     },
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
