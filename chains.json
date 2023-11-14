@@ -502,6 +502,27 @@
     ]
   },
   {
+    "chain_name": "injective",
+    "network_type": "mainnet",
+    "logo": "injective.webp",
+    "links": {
+      "twitter": "https://twitter.com/InjectiveLabs",
+      "github": "https://github.com/InjectiveLabs",
+      "globe": "https://injective.com",
+      "medium": "https://blog.injective.com/",
+      "discord": "https://discord.com/invite/NK4qdbv",
+      "telegram": "https://t.me/joininjective",
+      "block_explorer": "https://ping.pub/injective",
+      "docs": "https://docs.injective.network/"
+    },
+    "validator": {
+      "address": "",
+      "is_genesis": false,
+      "stake_url": "",
+      "validator_url": ""
+    }
+  },
+  {
     "chain_name": "uptick",
     "network_type": "mainnet",
     "logo": "uptick.webp",
