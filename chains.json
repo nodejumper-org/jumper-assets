@@ -505,6 +505,7 @@
     "chain_name": "injective",
     "network_type": "mainnet",
     "logo": "injective.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/InjectiveLabs",
       "github": "https://github.com/InjectiveLabs",
@@ -520,7 +521,12 @@
       "is_genesis": false,
       "stake_url": "",
       "validator_url": ""
-    }
+    },
+    "snapshots": [
+      {
+        "id": "snap1"
+      }
+    ]
   },
   {
     "chain_name": "uptick",
