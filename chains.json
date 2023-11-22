@@ -518,10 +518,10 @@
       "docs": "https://docs.injective.network/"
     },
     "validator": {
-      "address": "",
+      "address": "injvaloper1kywsemgukghp6gah7yw6hmly9zc03z0479mzdn",
       "is_genesis": false,
-      "stake_url": "",
-      "validator_url": ""
+      "stake_url": "https://restake.app/injective/injvaloper1kywsemgukghp6gah7yw6hmly9zc03z0479mzdn",
+      "validator_url": "https://ping.pub/injective/staking/injvaloper1kywsemgukghp6gah7yw6hmly9zc03z0479mzdn"
     },
     "snapshots": [
       {
