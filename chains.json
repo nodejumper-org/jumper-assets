@@ -20,7 +20,7 @@
     },
     "snapshots": [
       {
-        "id": "snap1"
+        "id": "snap4"
       }
     ]
   },
@@ -94,7 +94,7 @@
     "denom_exponent": 12,
     "snapshots": [
       {
-        "id": "snap1"
+        "id": "snap2"
       }
     ]
   },
@@ -272,8 +272,7 @@
     },
     "snapshots": [
       {
-        "id": "snap1",
-        "name": "omniflix"
+        "id": "snap4"
       }
     ]
   },
@@ -326,7 +325,7 @@
     },
     "snapshots": [
       {
-        "id": "snap1"
+        "id": "snap4"
       }
     ]
   },
@@ -444,7 +443,7 @@
     "is_wasm_on_state_sync_enabled": true,
     "snapshots": [
       {
-        "id": "snap1"
+        "id": "snap2"
       }
     ]
   },
@@ -498,7 +497,7 @@
     "is_wasm_on_root_level_enabled": true,
     "snapshots": [
       {
-        "id": "snap1"
+        "id": "snap4"
       }
     ]
   },
