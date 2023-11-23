@@ -1569,6 +1569,7 @@
       "globe": "https://archway.io/",
       "discord": "https://discord.gg/5FVvx3WGfa",
       "telegram": "https://t.me/archway_hq",
+      "docs": "https://docs.archway.io/",
       "block_explorer": "https://testnet.mintscan.io/archway-testnet"
     },
     "validator": {
