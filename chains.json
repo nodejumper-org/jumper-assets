@@ -1101,7 +1101,8 @@
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     },
-    "is_wasm_on_state_sync_enabled": true
+    "is_wasm_on_state_sync_enabled": true,
+    "is_archive": true
   },
   {
     "chain_name": "noistestnet",
@@ -1247,11 +1248,7 @@
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
-    "snapshots": [
-      {
-        "id": "snap2"
-      }
-    ]
+    "is_archive": true
   },
   {
     "chain_name": "paloma",
