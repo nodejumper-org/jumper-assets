@@ -1,5 +1,25 @@
 [
   {
+    "chain_name": "andromeda",
+    "jumper_name": "andromeda",
+    "network_type": "mainnet",
+    "logo": "andromeda.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/andromedaprot",
+      "github": "https://github.com/andromedaprotocol",
+      "globe": "https://www.andromedaprotocol.io",
+      "docs": "https://docs.andromedaprotocol.io",
+      "discord": "https://discord.gg/EtSRGbPEXP",
+      "telegram": "https://t.me/andromedaprotocol",
+      "block_explorer": "https://andromeda.exploreme.pro/"
+    },
+    "validator": {
+      "address": "andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu",
+      "validator_url": "https://andromeda.exploreme.pro/validator/andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu"
+    }
+  },
+  {
     "chain_name": "assetmantle",
     "network_type": "mainnet",
     "logo": "assetmantle.svg",
