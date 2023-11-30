@@ -53,7 +53,7 @@
     "chain_name": "aura",
     "network_type": "mainnet",
     "logo": "aura.webp",
-    "rpc_server": "https:://aura.nodejumper.io",
+    "rpc_server": "https://aura.nodejumper.io",
     "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/AuraNetworkHQ",
