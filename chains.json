@@ -17,7 +17,12 @@
     "validator": {
       "address": "andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu",
       "validator_url": "https://andromeda.exploreme.pro/validator/andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu"
-    }
+    },
+    "snapshots": [
+      {
+        "id": "snap4"
+      }
+    ]
   },
   {
     "chain_name": "assetmantle",
