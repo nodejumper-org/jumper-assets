@@ -62,13 +62,13 @@
       "docs": "https://docs.aura.network/",
       "discord": "https://discord.gg/ZhbsAVuB7U",
       "telegram": "https://t.me/AuraNetworkOfficial",
-      "block_explorer": "https://aura.exploreme.pro"
+      "block_explorer": "https://explorer.nodejumper.io/aura"
     },
     "validator": {
       "address": "auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu",
       "is_genesis": true,
       "stake_url": "https://restake.app/aura/auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu",
-      "validator_url": "https://restake.app/aura/auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu"
+      "validator_url": "https://explorer.nodejumper.io/aura/staking/auravaloper1sqe2tltne2wv2gqdsup9zllflmec0mf8yzgjnu"
     },
     "is_wasm_on_state_sync_enabled": true,
     "is_wasm_on_root_level_enabled": true
