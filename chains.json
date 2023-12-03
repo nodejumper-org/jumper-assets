@@ -228,7 +228,7 @@
   {
     "chain_name": "kujira",
     "network_type": "mainnet",
-    "apr": 0.011,
+    "apr": 0,
     "logo": "kujira.svg",
     "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
