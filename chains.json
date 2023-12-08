@@ -645,7 +645,8 @@
       "recommendedSpecification": "4CPU 16RAM 200GB"
     },
     "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
   },
   {
     "chain_name": "another-1",
@@ -1204,7 +1205,8 @@
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
     "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
   },
   {
     "chain_name": "ojodevnet",
