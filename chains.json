@@ -439,13 +439,13 @@
       "globe": "https://www.starname.me",
       "medium": "https://medium.com/iov-internet-of-values",
       "discord": "https://discord.gg/xE36Rcsv37",
-      "block_explorer": "https://www.mintscan.io/starname"
+      "block_explorer": "https://ping.pub/starname"
     },
     "validator": {
       "address": "starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf",
       "is_genesis": false,
       "stake_url": "https://restake.app/starname/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate",
-      "validator_url": "https://restake.app/starname/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate"
+      "validator_url": "https://ping.pub/starname/staking/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate"
     }
   },
   {
