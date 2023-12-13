@@ -590,11 +590,11 @@
       "github": "https://github.com/arkeonetwork",
       "globe": "https://arkeo.network/",
       "discord": "https://discord.gg/BfEHpm6uFc",
-      "block_explorer": "https://explorer.nodexcapital.com/arkeo"
+      "block_explorer": "https://exp.stakevillage.net/Arkeo-testnet"
     },
     "validator": {
       "address": "tarkeovaloper1fe97d4xz99dkm7wya46j736x8jwjxhjeesew7d",
-      "validator_url": "https://explorer.nodexcapital.com/arkeo/staking/tarkeovaloper1fe97d4xz99dkm7wya46j736x8jwjxhjeesew7d"
+      "validator_url": "https://exp.stakevillage.net/Arkeo-testnet/staking/tarkeovaloper1fe97d4xz99dkm7wya46j736x8jwjxhjeesew7d"
     }
   },
   {
