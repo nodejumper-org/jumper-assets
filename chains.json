@@ -771,11 +771,11 @@
       "github": "https://github.com/DecentralCardGame",
       "globe": "https://crowdcontrol.network/",
       "discord": "https://discord.gg/CttUtFH5W4",
-      "block_explorer": "https://explorer.stavr.tech/cardchain"
+      "block_explorer": "https://testnet.itrocket.net/cardchain"
     },
     "validator": {
       "address": "ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl",
-      "validator_url": "https://explorer.stavr.tech/CARDCHAIN/staking/ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl"
+      "validator_url": "https://testnet.itrocket.net/cardchain/staking/ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl"
     },
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
