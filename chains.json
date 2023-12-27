@@ -355,7 +355,7 @@
       }
     ],
     "scripts": {
-      "build_binary_step": "# Clone project repository\ncd $HOME\nrm -rf paloma\ngit clone https://github.com/palomachain/paloma\ncd paloma\ngit checkout v1.10.2\n\n# Install libwasmvm\ncurl -L https://github.com/CosmWasm/wasmvm/releases/download/v1.4.0/libwasmvm.x86_64.so > libwasmvm.x86_64.so\nsudo mv -f libwasmvm.x86_64.so /usr/lib/libwasmvm.x86_64.so\n\n# Build binary\nmake install"
+      "build_binary_step": "# Clone project repository\ncd $HOME\nrm -rf paloma\ngit clone https://github.com/palomachain/paloma\ncd paloma\ngit checkout ${tag}\n\n# Install libwasmvm\ncurl -L https://github.com/CosmWasm/wasmvm/releases/download/v1.4.0/libwasmvm.x86_64.so > libwasmvm.x86_64.so\nsudo mv -f libwasmvm.x86_64.so /usr/lib/libwasmvm.x86_64.so\n\n# Build binary\nmake install"
     }
   },
   {
@@ -473,6 +473,9 @@
       "is_genesis": false,
       "stake_url": "https://restake.app/starname/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate",
       "validator_url": "https://ping.pub/starname/staking/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate"
+    },
+    "scripts": {
+      "build_binary_step": "# Clone project repository\ncd $HOME\nrm -rf starnamed\ngit clone https://github.com/iov-one/starnamed.git\ncd starnamed\ngit checkout ${tag}\nmake build\n\n# Install libwasmvm\ncurl -L https://github.com/CosmWasm/wasmvm/raw/v0.13.0/api/libwasmvm.so > libwasmvm.so\nsudo mv -f libwasmvm.so /lib/libwasmvm.so\n\n# Build binary\nmake build\nmkdir -p $HOME/go/bin\nsudo cp $HOME/starnamed/build/starnamed $HOME/go/bin"
     }
   },
   {
@@ -580,7 +583,10 @@
       {
         "id": "snap1"
       }
-    ]
+    ],
+    "scripts": {
+      "build_binary_step": "# Download binaries\ncd $HOME\nwget https://github.com/InjectiveLabs/injective-chain-releases/releases/download/${tag}/linux-amd64.zip\nunzip -o linux-amd64.zip\nsudo mv peggo /usr/bin\nsudo mv injectived /usr/bin\nsudo mv libwasmvm.x86_64.so /usr/lib\nrm linux-amd64.zip"
+    }
   },
   {
     "chain_name": "uptick",
