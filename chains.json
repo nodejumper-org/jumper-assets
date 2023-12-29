@@ -579,11 +579,6 @@
       "validator_url": "https://ping.pub/injective/staking/injvaloper1kywsemgukghp6gah7yw6hmly9zc03z0479mzdn"
     },
     "denom_exponent": 18,
-    "snapshots": [
-      {
-        "id": "snap1"
-      }
-    ],
     "scripts": {
       "build_binary_step": "# Download binaries\ncd $HOME\nwget https://github.com/InjectiveLabs/injective-chain-releases/releases/download/${tag}/linux-amd64.zip\nunzip -o linux-amd64.zip\nsudo mv peggo /usr/bin\nsudo mv injectived /usr/bin\nsudo mv libwasmvm.x86_64.so /usr/lib\nrm linux-amd64.zip"
     }
