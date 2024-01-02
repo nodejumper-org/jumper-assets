@@ -1430,6 +1430,26 @@
     "is_archive": true
   },
   {
+    "chain_name": "elystestnet",
+    "jumper_name": "elys",
+    "network_type": "testnet",
+    "logo": "elys.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/elys_network",
+      "github": "https://github.com/elys-network",
+      "globe": "https://elys.network",
+      "docs": "https://elys-network.gitbook.io",
+      "discord": "https://discord.gg/elysnetwork",
+      "telegram": "https://t.me/ElysNetwork",
+      "block_explorer": "https://testnet.ping.pub/elys"
+    },
+    "validator": {
+      "address": "",
+      "validator_url": "https://testnet.ping.pub/elys"
+    }
+  },
+  {
     "chain_name": "seitestnet2",
     "jumper_name": "sei",
     "network_type": "testnet",
