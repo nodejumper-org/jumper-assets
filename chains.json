@@ -1655,7 +1655,10 @@
     "validator": {
       "address": "",
       "validator_url": "https://testnet.itrocket.net/pryzm/staking/"
-    }
+    },
+    "scripts": [
+      "build_binary_step"
+    ]
   },
   {
     "chain_name": "archwaytestnet",
