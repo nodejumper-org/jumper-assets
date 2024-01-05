@@ -1653,8 +1653,8 @@
       "block_explorer": "https://testnet.itrocket.net/pryzm"
     },
     "validator": {
-      "address": "",
-      "validator_url": "https://testnet.itrocket.net/pryzm/staking/"
+      "address": "pryzmvaloper1vgzue5ux4dpy8s2g3m7gss5mj0eacjs6uj567m",
+      "validator_url": "https://testnet.itrocket.net/pryzm/staking/pryzmvaloper1vgzue5ux4dpy8s2g3m7gss5mj0eacjs6uj567m"
     },
     "scripts": [
       "build_binary_step"
