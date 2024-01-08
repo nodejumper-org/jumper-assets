@@ -18,6 +18,7 @@
     },
     "validator": {
       "address": "archwayvaloper1cuu7t30msk68netlmrqgpumfgwgdfz8c5w4hqj",
+      "stake_url": "https://restake.app/archway/archwayvaloper1cuu7t30msk68netlmrqgpumfgwgdfz8c5w4hqj/stake",
       "validator_url": "https://www.mintscan.io/archway/validators/archwayvaloper1cuu7t30msk68netlmrqgpumfgwgdfz8c5w4hqj"
     },
     "is_wasm_on_state_sync_enabled": true,
@@ -1680,7 +1681,6 @@
     },
     "validator": {
       "address": "archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx",
-      "stake_url": "https://restake.app/archway/archwayvaloper1cuu7t30msk68netlmrqgpumfgwgdfz8c5w4hqj/stake",
       "validator_url": "https://testnet.mintscan.io/archway-testnet/validators/archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx"
     },
     "hardware_requirements": {
