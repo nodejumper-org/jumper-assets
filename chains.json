@@ -40,6 +40,7 @@
     },
     "validator": {
       "address": "andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu",
+      "stake_url": "https://restake.app/andromeda/andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu/stake",
       "validator_url": "https://andromeda.exploreme.pro/validator/andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu"
     },
     "snapshots": [
@@ -1679,6 +1680,7 @@
     },
     "validator": {
       "address": "archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx",
+      "stake_url": "https://restake.app/archway/archwayvaloper1cuu7t30msk68netlmrqgpumfgwgdfz8c5w4hqj/stake",
       "validator_url": "https://testnet.mintscan.io/archway-testnet/validators/archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx"
     },
     "hardware_requirements": {
