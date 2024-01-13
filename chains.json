@@ -321,6 +321,10 @@
       "stake_url": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe",
       "validator_url": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe"
     },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 32RAM 200GB",
+      "recommendedSpecification": "8CPU 64RAM 1TB"
+    },
     "snapshots": [
       {
         "id": "snap4",
