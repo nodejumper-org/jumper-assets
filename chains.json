@@ -1765,6 +1765,31 @@
     ]
   },
   {
+    "chain_name": "jackaltestnet",
+    "network_type": "testnet",
+    "logo": "jackal.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/Jackal_Labs",
+      "github": "https://github.com/JackalLabs",
+      "globe": "https://jackalprotocol.com",
+      "medium": "https://jackaldao.medium.com",
+      "docs": "https://docs.jackalprotocol.com/",
+      "discord": "https://discord.com/invite/5GKym3p6rj",
+      "block_explorer": "https://testnet.ping.pub/jackal"
+    },
+    "validator": {
+      "address": "",
+      "validator_url": "https://testnet.ping.pub/jackal/staking/"
+    },
+    "is_wasm_on_root_level_enabled": true,
+    "snapshots": [
+      {
+        "id": "snap3"
+      }
+    ]
+  },
+  {
     "chain_name": "rizon",
     "network_type": "mainnet",
     "logo": "rizon.svg",
