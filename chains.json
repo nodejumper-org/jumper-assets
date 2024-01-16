@@ -1780,8 +1780,8 @@
       "block_explorer": "https://testnet.ping.pub/jackal"
     },
     "validator": {
-      "address": "",
-      "validator_url": "https://testnet.ping.pub/jackal/staking/"
+      "address": "jklvaloper177qxzffk80hn6p033h6sgng543akvrphjv3dhq",
+      "validator_url": "https://testnet.ping.pub/jackal/staking/jklvaloper177qxzffk80hn6p033h6sgng543akvrphjv3dhq"
     },
     "is_wasm_on_root_level_enabled": true,
     "snapshots": [
