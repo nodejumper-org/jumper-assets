@@ -1767,6 +1767,7 @@
   {
     "chain_name": "jackaltestnet",
     "network_type": "testnet",
+    "jumper_name": "jackal",
     "logo": "jackal.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
