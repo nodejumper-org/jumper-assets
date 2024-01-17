@@ -1765,6 +1765,33 @@
     ]
   },
   {
+    "chain_name": "bandchain",
+    "network_type": "mainnet",
+    "logo": "band.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/bandprotocol",
+      "github": "https://github.com/bandprotocol",
+      "globe": "https://bandprotocol.com",
+      "docs": "https://docs.bandchain.org",
+      "discord": "https://discord.com/invite/3t4bsY7",
+      "telegram": "https://t.me/bandprotocol",
+      "block_explorer": "https://www.mintscan.io/band"
+    },
+    "validator": {
+      "address": "",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/bandchain//stake",
+      "validator_url": "https://www.mintscan.io/band/validators/"
+    },
+    "is_wasm_on_root_level_enabled": true,
+    "snapshots": [
+      {
+        "id": "snap3"
+      }
+    ]
+  },
+  {
     "chain_name": "jackaltestnet",
     "network_type": "testnet",
     "jumper_name": "jackal",
