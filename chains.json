@@ -1784,7 +1784,6 @@
       "stake_url": "https://restake.app/bandchain//stake",
       "validator_url": "https://www.mintscan.io/band/validators/"
     },
-    "is_wasm_on_root_level_enabled": true,
     "snapshots": [
       {
         "id": "snap3"
