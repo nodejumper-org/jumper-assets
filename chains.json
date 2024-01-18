@@ -1779,16 +1779,11 @@
       "block_explorer": "https://www.mintscan.io/band"
     },
     "validator": {
-      "address": "",
+      "address": "bandvaloper1svv0r74g7tmaqtm0fsp6a05z4xw5r4jzz0udmm",
       "is_genesis": false,
-      "stake_url": "https://restake.app/bandchain//stake",
-      "validator_url": "https://www.mintscan.io/band/validators/"
-    },
-    "snapshots": [
-      {
-        "id": "snap3"
-      }
-    ]
+      "stake_url": "https://restake.app/bandchain/bandvaloper1svv0r74g7tmaqtm0fsp6a05z4xw5r4jzz0udmm/stake",
+      "validator_url": "https://www.mintscan.io/band/validators/bandvaloper1svv0r74g7tmaqtm0fsp6a05z4xw5r4jzz0udmm"
+    }
   },
   {
     "chain_name": "jackaltestnet",
