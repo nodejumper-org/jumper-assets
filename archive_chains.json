@@ -1,0 +1,818 @@
+[
+  {
+    "chain_name": "empowertestnet",
+    "jumper_name": "empower",
+    "network_type": "testnet",
+    "logo": "empower.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/empowerchain_io",
+      "github": "https://github.com/empowerchain",
+      "globe": "https://www.empowerchain.io",
+      "discord": "https://discord.gg/xVMWBreSfN",
+      "telegram": "https://t.me/empowerchain",
+      "block_explorer": "https://empower.explorers.guru"
+    },
+    "validator": {
+      "address": "empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2",
+      "validator_url": "https://empower.explorers.guru/validator/empowervaloper1gved6qjsy8rxf2qxqqtk6uxnalhtm2usp2f5a2"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_archive": true,
+    "is_state_sync_enabled": false
+  },
+  {
+    "chain_name": "gitopia",
+    "jumper_name": "gitopia",
+    "network_type": "testnet",
+    "logo": "gitopia.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/gitopiaDAO",
+      "github": "https://gitopia.com/gitopia",
+      "globe": "https://gitopia.com",
+      "docs": "https://docs.gitopia.com",
+      "discord": "https://discord.com/invite/aqsKW3hUHD",
+      "block_explorer": "https://gitopia.explorers.guru"
+    },
+    "validator": {
+      "address": "gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
+      "validator_url": "https://gitopia.explorers.guru/validator/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "haqq",
+    "jumper_name": "haqq",
+    "network_type": "testnet",
+    "logo": "haqq.svg",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/Islamic_coin",
+      "github": "https://github.com/haqq-network",
+      "globe": "https://islamiccoin.net/",
+      "discord": "https://discord.gg/aZMm8pekhZ",
+      "telegram": "https://t.me/islamiccoin_int",
+      "block_explorer": "https://haqq.explorers.guru"
+    },
+    "validator": {
+      "address": "addr",
+      "validator_url": ""
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "ollotestnet",
+    "jumper_name": "ollo",
+    "network_type": "testnet",
+    "logo": "ollo.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/OllOStation",
+      "github": "https://github.com/OllO-Station",
+      "globe": "https://www.ollostation.zone",
+      "discord": "https://discord.gg/bmDSF7jtZP",
+      "telegram": "https://t.me/+s8i4AKk0Tt44Yzgx",
+      "block_explorer": "https://ollo.explorers.guru/"
+    },
+    "validator": {
+      "address": "ollovaloper1dw8n8wygrf7ylaf6qcly2wf3k9q0ffwy22nej4",
+      "validator_url": "https://ollo.explorers.guru/validator/ollovaloper1dw8n8wygrf7ylaf6qcly2wf3k9q0ffwy22nej4"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "paloma",
+    "jumper_name": "paloma",
+    "network_type": "testnet",
+    "logo": "paloma.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/paloma_chain",
+      "github": "https://github.com/palomachain",
+      "globe": "https://www.palomachain.com",
+      "discord": "https://discord.gg/ET4tEgWQCj",
+      "telegram": "https://t.me/palomachain",
+      "block_explorer": "https://testnet.paloma.explorers.guru/"
+    },
+    "validator": {
+      "address": "palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
+      "validator_url": "https://testnet.paloma.explorers.guru/validator/palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "pylons",
+    "jumper_name": "pylons",
+    "network_type": "testnet",
+    "logo": "pylons.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/pylonstech",
+      "github": "https://github.com/Pylons-tech",
+      "globe": "https://www.pylons.tech",
+      "discord": "https://discord.com/invite/pylons",
+      "block_explorer": "https://pylons.explorers.guru"
+    },
+    "validator": {
+      "address": "pylovaloper198f2dvdx8hprdtghqhg2823vhh9xltskjjf8ak",
+      "validator_url": "https://pylons.explorers.guru/validator/pylovaloper198f2dvdx8hprdtghqhg2823vhh9xltskjjf8ak"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 160GB",
+      "recommendedSpecification": "8CPU 16RAM 500GB"
+    },
+    "is_archive": true,
+    "is_state_sync_enabled": false
+  },
+  {
+    "chain_name": "quasar",
+    "jumper_name": "quasar",
+    "network_type": "testnet",
+    "logo": "quasar.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/quasarfi",
+      "github": "https://github.com/orgs/quasar-finance",
+      "globe": "https://www.quasar.fi",
+      "discord": "https://discord.com/invite/quasarfi",
+      "telegram": "https://t.me/quasarfi",
+      "block_explorer": "https://quasar.explorers.guru"
+    },
+    "validator": {
+      "address": "quasarvaloper13wdg92565xy93m2cucqk90qm0q390za3nv4he5",
+      "validator_url": "https://quasar.explorers.guru/validator/quasarvaloper13wdg92565xy93m2cucqk90qm0q390za3nv4he5"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "is_archive": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true
+  },
+  {
+    "chain_name": "quicksilver",
+    "jumper_name": "quicksilver",
+    "network_type": "testnet",
+    "logo": "quicksilver.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/quicksilverzone",
+      "github": "https://github.com/ingenuity-build",
+      "globe": "https://quicksilver.zone/",
+      "medium": "https://medium.com/quicksilverzone",
+      "discord": "https://discord.gg/6BXWvuGZYn",
+      "block_explorer": "https://quicksilver.explorers.guru"
+    },
+    "validator": {
+      "address": "quickvaloper159njc3xk0xv76x323936frgwxf9zn3wvp0dj8n",
+      "validator_url": "https://quicksilver.explorers.guru/validator/quickvaloper159njc3xk0xv76x323936frgwxf9zn3wvp0dj8n"
+    },
+    "testnet_tasks_url": "https://github.com/ingenuity-build/testnets/blob/main/killerqueen/VALIDATOR_TASKS.md",
+    "is_archive": true
+  },
+  {
+    "chain_name": "rebustestnet",
+    "jumper_name": "rebus",
+    "network_type": "testnet",
+    "chain_id": "",
+    "logo": "rebus.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/RebusChain",
+      "github": "https://github.com/rebuschain",
+      "globe": "https://www.rebuschain.com",
+      "medium": "https://medium.com/@RebusChain",
+      "discord": "https://discord.gg/cBGpcyHmBH",
+      "block_explorer": "https://rebus.explorers.guru"
+    },
+    "validator": {
+      "address": "rebusvaloper1nntq6xqgcpjgpuz5jl85lhatpmlefywfvrd70f",
+      "validator_url": "https://rebus.explorers.guru/validator/rebusvaloper1nntq6xqgcpjgpuz5jl85lhatpmlefywfvrd70f"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "seitestnet2",
+    "jumper_name": "sei",
+    "network_type": "testnet",
+    "logo": "sei.webp",
+    "snapshot_server": "https://snapshots2-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/SeiNetwork",
+      "github": "https://github.com/sei-protocol",
+      "globe": "https://www.seinetwork.io/",
+      "discord": "https://discord.gg/sei",
+      "telegram": "https://t.me/seinetwork",
+      "block_explorer": "https://sei.explorers.guru"
+    },
+    "validator": {
+      "address": "seivaloper1l60fhszfdk9nu6w69v8y8anhvw2m3cmq0d8xzm",
+      "validator_url": "https://sei.explorers.guru/validator/seivaloper1l60fhszfdk9nu6w69v8y8anhvw2m3cmq0d8xzm"
+    },
+    "hardware_requirements": {
+      "minSpecification": "8CPU 32RAM 500GB",
+      "recommendedSpecification": "16CPU 64GB 1TB"
+    },
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
+  },
+  {
+    "chain_name": "stafihub",
+    "jumper_name": "stagihub",
+    "network_type": "testnet",
+    "logo": "stafihub.svg",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/StaFiHub_",
+      "github": "https://github.com/stafihub",
+      "globe": "https://www.stafihub.io",
+      "discord": "https://discord.gg/98GuF8AE3D",
+      "block_explorer": "https://testnet-explorer.stafihub.io/stafi-hub-testnet"
+    },
+    "validator": {
+      "address": "stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv",
+      "validator_url": "https://restake.app/stafihub/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv/stake"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "stridetestnet",
+    "jumper_name": "stride",
+    "network_type": "testnet",
+    "chain_id": "stride-testnet-1",
+    "logo": "stride.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/stride_zone",
+      "github": "https://github.com/Stride-Labs",
+      "globe": "https://stride.zone/",
+      "discord": "https://discord.gg/ut6JucWWR3",
+      "block_explorer": "https://stride.explorers.guru"
+    },
+    "validator": {
+      "address": "stridevaloper1l8vtxx634c6hkqr0q3zccnsk0dj3njlvwq0faf",
+      "validator_url": "https://stride.explorers.guru/validator/stridevaloper1l8vtxx634c6hkqr0q3zccnsk0dj3njlvwq0faf"
+    },
+    "testnet_tasks_url": "https://github.com/Stride-Labs/testnet/tree/main/incentivized-testnet",
+    "is_archive": true
+  },
+  {
+    "chain_name": "stride",
+    "jumper_name": "stride",
+    "network_type": "mainnet",
+    "logo": "stride.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/stride_zone",
+      "github": "https://github.com/Stride-Labs",
+      "globe": "https://stride.zone",
+      "discord": "https://discord.gg/ut6JucWWR3",
+      "block_explorer": "https://www.mintscan.io/stride"
+    },
+    "validator": {
+      "address": "stridevaloper1y7p8qd4sk5k95mewazug73ag8vza8u7uzy2f2f",
+      "stake_url": "https://restake.app/stride/stridevaloper1y7p8qd4sk5k95mewazug73ag8vza8u7uzy2f2f",
+      "validator_url": "https://restake.app/stride/stridevaloper1y7p8qd4sk5k95mewazug73ag8vza8u7uzy2f2f"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "teritoritestnet",
+    "jumper_name": "teritori",
+    "network_type": "testnet",
+    "chain_id": "teritori-testnet-v3",
+    "logo": "teritori.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/TeritoriNetwork",
+      "github": "https://github.com/TERITORI",
+      "globe": "https://teritori.com",
+      "discord": "https://discord.gg/UAzKUpsZhn",
+      "block_explorer": "https://explorer.stavr.tech/teritori"
+    },
+    "validator": {
+      "address": "torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
+      "validator_url": "https://explorer.stavr.tech/teritori/staking/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0"
+    },
+    "testnet_tasks_url": "https://teritori.crew3.xyz/questboard",
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_archive": true,
+    "is_wasm_on_state_sync_enabled": true
+  },
+  {
+    "chain_name": "terp",
+    "jumper_name": "terp",
+    "network_type": "testnet",
+    "logo": "terp.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/terpculture",
+      "github": "https://github.com/terpnetwork",
+      "globe": "https://terp.network",
+      "discord": "https://discord.gg/CnsMGn47tP",
+      "block_explorer": "https://testnet.itrocket.net/terp"
+    },
+    "validator": {
+      "address": "terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
+      "validator_url": "https://testnet.itrocket.net/terp/staking/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_archive": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true
+  },
+  {
+    "chain_name": "upticktestnet",
+    "jumper_name": "uptick",
+    "chain_id": "uptick_7000-2",
+    "network_type": "testnet",
+    "logo": "uptick.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/uptickproject",
+      "github": "https://github.com/UptickNetwork",
+      "globe": "https://uptick.network",
+      "medium": "https://medium.com/@uptickproject",
+      "discord": "https://discord.gg/w7mYy8btu7",
+      "block_explorer": "https://explorer.kjnodes.com/uptick-testnet"
+    },
+    "validator": {
+      "address": "uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5",
+      "validator_url": "https://explorer.kjnodes.com/uptick-testnet/staking/uptickvaloper1fhxvtld4u6d6a4tvnhyrguvzm53gl3tk93dag5"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "mars",
+    "jumper_name": "mars",
+    "network_type": "testnet",
+    "logo": "mars.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/mars_protocol",
+      "github": "https://github.com/mars-protocol",
+      "globe": "https://marsprotocol.io",
+      "discord": "https://discord.com/invite/marsprotocol",
+      "telegram": "https://t.me/martiannews"
+    },
+    "validator": {
+      "address": "marsvaloper186t4ggaf2sgqqvjcyspgwretzk8ktczsyzayf5",
+      "validator_url": "https://mars.explorers.guru/validator/marsvaloper186t4ggaf2sgqqvjcyspgwretzk8ktczsyzayf5"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "neutron",
+    "jumper_name": "neutron",
+    "network_type": "testnet",
+    "logo": "neutron.jpeg",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/Neutron_org",
+      "github": "https://github.com/neutron-org",
+      "globe": "https://neutron.org",
+      "discord": "https://discord.gg/U7c5uaxFSq",
+      "block_explorer": "https://explorer.rs-testnet.polypore.xyz/baryon-1"
+    },
+    "validator": {
+      "is_genesis": false
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "nibirutestnet",
+    "jumper_name": "nibiru",
+    "network_type": "testnet",
+    "logo": "nibiru.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/NibiruChain",
+      "github": "https://github.com/NibiruChain",
+      "globe": "https://nibiru.fi",
+      "docs": "https://nibiru.fi/docs",
+      "medium": "https://blog.nibiru.fi/",
+      "discord": "https://discord.com/invite/zjkzZwrez5",
+      "block_explorer": "https://explorer.nibiru.fi/nibiru-itn-3"
+    },
+    "validator": {
+      "address": "nibivaloper1h3dakqv5gkcgezwc8muxz75n3easkdt9wnr6ps",
+      "validator_url": "https://explorer.nibiru.fi/nibiru-itn-3/staking/nibivaloper1h3dakqv5gkcgezwc8muxz75n3easkdt9wnr6ps"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "is_wasm_on_state_sync_enabled": true,
+    "is_archive": true
+  },
+  {
+    "chain_name": "noistestnet",
+    "jumper_name": "nois",
+    "network_type": "testnet",
+    "chain_id": "nois-testnet-004",
+    "logo": "nois.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/NoisNetwork",
+      "github": "https://github.com/noislabs",
+      "globe": "https://nois.network",
+      "docs": "https://docs.nois.network",
+      "discord": "https://discord.com/invite/UzwtKWjTcA",
+      "block_explorer": "https://testnet.ping.pub/nois"
+    },
+    "validator": {
+      "address": "noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
+      "validator_url": "https://testnet.ping.pub/nois/staking/noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "is_archive": true,
+    "is_state_sync_enabled": false
+  },
+  {
+    "chain_name": "nolus",
+    "jumper_name": "nolus",
+    "network_type": "testnet",
+    "logo": "nolus.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/NolusProtocol",
+      "github": "https://github.com/Nolus-Protocol",
+      "globe": "https://www.nolus.io",
+      "discord": "https://discord.com/invite/nolus-protocol",
+      "telegram": "https://t.me/NolusProtocol",
+      "block_explorer": "https://nolus.explorers.guru"
+    },
+    "validator": {
+      "address": "nolusvaloper1y7lfy9909gjfrrudwa3y8z0ndp9xlf0a2ukn2n",
+      "validator_url": "https://nolus.explorers.guru/validator/nolusvaloper1y7lfy9909gjfrrudwa3y8z0ndp9xlf0a2ukn2n"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "is_archive": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true
+  },
+  {
+    "chain_name": "noriatestnet",
+    "jumper_name": "noria",
+    "network_type": "testnet",
+    "logo": "noria.png",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/NoriaNetwork",
+      "github": "https://github.com/noria-net",
+      "globe": "https://noria.network",
+      "discord": "https://discord.gg/cMVTyavpNN",
+      "block_explorer": "https://app.noria.network/noria"
+    },
+    "validator": {
+      "address": "noriavaloper18mvny5jpve6lmtvykxn7uslnlnwts3y2w4rmtu",
+      "validator_url": "https://app.noria.network/noria/staking/noriavaloper18mvny5jpve6lmtvykxn7uslnlnwts3y2w4rmtu"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
+  },
+  {
+    "chain_name": "celestiatestnet3",
+    "jumper_name": "celestia",
+    "pretty_name": "Celestia",
+    "network_type": "testnet",
+    "logo": "celestia.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/CelestiaOrg",
+      "github": "https://github.com/celestiaorg",
+      "globe": "https://celestia.org/",
+      "docs": "https://docs.celestia.org",
+      "discord": "https://discord.gg/kUSueaB22b",
+      "telegram": "https://t.me/CelestiaCommunity",
+      "block_explorer": "https://testnet.mintscan.io/celestia-testnet"
+    },
+    "validator": {
+      "address": "celestiavaloper1aecswhtwadfdzunq38zqcfsc29hg64tcv8jcpg",
+      "validator_url": "https://testnet.mintscan.io/celestia-testnet/validators/celestiavaloper1aecswhtwadfdzunq38zqcfsc29hg64tcv8jcpg"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 250GB",
+      "recommendedSpecification": "8CPU 16RAM 500GB"
+    },
+    "regular_block_time": 300,
+    "is_archive": true
+  },
+  {
+    "chain_name": "composabletestnet",
+    "jumper_name": "composable",
+    "pretty_name": "Composable",
+    "network_type": "testnet",
+    "logo": "composable.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/ComposableFin",
+      "github": "https://github.com/notional-labs",
+      "globe": "https://www.composable.finance/",
+      "medium": "https://composablefi.medium.com/",
+      "docs": "https://docs.composable.finance/",
+      "discord": "https://discord.gg/composable",
+      "telegram": "https://t.me/composablefinance",
+      "block_explorer": "https://explorer.kjnodes.com/composable-testnet"
+    },
+    "validator": {
+      "address": "centaurivaloper19s29u5araztclpum4em5pf7fzw04pw6fswz4uv",
+      "validator_url": "https://explorer.kjnodes.com/composable-testnet/staking/centaurivaloper19s29u5araztclpum4em5pf7fzw04pw6fswz4uv"
+    },
+    "snapshots": [
+      {
+        "id": "snap2"
+      }
+    ],
+    "is_archive": true
+  },
+  {
+    "chain_name": "cosmoshub",
+    "jumper_name": "cosmos",
+    "network_type": "testnet",
+    "logo": "cosmos.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/cosmos",
+      "github": "https://github.com/cosmos",
+      "globe": "https://cosmos.network",
+      "medium": "https://blog.cosmos.network",
+      "docs": "https://docs.cosmos.network/main",
+      "discord": "https://discord.gg/cosmosnetwork",
+      "block_explorer": "https://explorer.rs-testnet.polypore.xyz/provider"
+    },
+    "validator": {
+      "address": "cosmosvaloper102w6jk6jpakck3xknt7g9pr0wr2plhv5phpmm3",
+      "validator_url": "https://explorer.rs-testnet.polypore.xyz/provider/staking/cosmosvaloper102w6jk6jpakck3xknt7g9pr0wr2plhv5phpmm3"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "defundtestnet",
+    "jumper_name": "defund",
+    "network_type": "testnet",
+    "logo": "defund.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/defund_finance",
+      "github": "https://github.com/defund-labs",
+      "globe": "https://defund.app",
+      "discord": "https://discord.gg/UsER6bWuUq",
+      "block_explorer": "https://defund.explorers.guru"
+    },
+    "validator": {
+      "address": "defundvaloper1lgjudr8nz4p772m04h5rdz66xks3q6jxgaf297",
+      "validator_url": "https://defund.explorers.guru/validator/defundvaloper1lgjudr8nz4p772m04h5rdz66xks3q6jxgaf297"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "is_state_sync_enabled": false,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
+  },
+  {
+    "chain_name": "dws",
+    "jumper_name": "dws",
+    "network_type": "testnet",
+    "logo": "dws.svg",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/dewebservices",
+      "github": "https://github.com/deweb-services",
+      "globe": "https://deweb.services",
+      "discord": "https://discord.gg/EeH8C8gUuX",
+      "block_explorer": "https://dws.explorers.guru"
+    },
+    "validator": {
+      "address": "dewebvaloper1pdhaj6ct3wyfahn2u6zllxp3dq6dfuatwtkf6n",
+      "validator_url": "https://dws.explorers.guru/validator/dewebvaloper1pdhaj6ct3wyfahn2u6zllxp3dq6dfuatwtkf6n"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_archive": true,
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true
+  },
+  {
+    "chain_name": "andromedatestnet",
+    "jumper_name": "andromeda",
+    "network_type": "testnet",
+    "logo": "andromeda.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/andromedaprot",
+      "github": "https://github.com/andromedaprotocol",
+      "globe": "https://www.andromedaprotocol.io/",
+      "docs": "https://docs.andromedaprotocol.io/andromeda/platform-and-framework/introduction",
+      "discord": "https://discord.gg/EtSRGbPEXP",
+      "telegram": "https://t.me/andromedaprotocol",
+      "block_explorer": "https://andromeda.explorers.guru"
+    },
+    "validator": {
+      "address": "andrvaloper1p04a3zkxkjayepwtud2gufyht3hxs36ufm7twl",
+      "validator_url": "https://andromeda.explorers.guru/validator/andrvaloper1p04a3zkxkjayepwtud2gufyht3hxs36ufm7twl"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
+  },
+  {
+    "chain_name": "another-1",
+    "network_type": "testnet",
+    "logo": "another1.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/AN1official",
+      "github": "https://github.com/notional-labs",
+      "globe": "https://another-1.io",
+      "medium": "https://medium.com/@TharsisHQ",
+      "discord": "https://discord.gg/wHP4sYwHCJ"
+    },
+    "validator": {
+      "address": "onevaloper1fngfsax3w9mywln2njh5s3nf92nyfaueqg6jhy",
+      "validator_url": "https://anone.explorers.guru/validator/onevaloper1fngfsax3w9mywln2njh5s3nf92nyfaueqg6jhy"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "axelar",
+    "network_type": "testnet",
+    "logo": "axelar.svg",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/axelarcore",
+      "github": "https://github.com/axelarnetwork",
+      "globe": "https://axelar.network/",
+      "discord": "https://discord.com/invite/aRZ3Ra6f7D",
+      "block_explorer": "https://testnet.axelarscan.io"
+    },
+    "validator": {
+      "address": "axelarvaloper1e3ckcfvevgss32an3pgp98ymyu4e27hm4t6xgl",
+      "validator_url": "https://testnet.axelarscan.io/validator/axelarvaloper1e3ckcfvevgss32an3pgp98ymyu4e27hm4t6xgl"
+    },
+    "hardware_requirements": {
+      "minSpecification": "16CPU 16RAM 1.5TB+",
+      "recommendedSpecification": "32CPU 32RAM 2TB+"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "archwaytestnet",
+    "jumper_name": "archway",
+    "pretty_name": "Archway",
+    "network_type": "testnet",
+    "logo": "archway.png",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/archwayhq",
+      "github": "https://github.com/archway-network",
+      "globe": "https://archway.io/",
+      "discord": "https://discord.gg/5FVvx3WGfa",
+      "telegram": "https://t.me/archway_hq",
+      "docs": "https://docs.archway.io/",
+      "block_explorer": "https://testnet.mintscan.io/archway-testnet"
+    },
+    "validator": {
+      "address": "archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx",
+      "validator_url": "https://testnet.mintscan.io/archway-testnet/validators/archwayvaloper17n6h94xgwleezr7sapxqy0f0z0uadzkwdq0mqx"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    },
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
+    "is_archive": true
+  },
+  {
+    "chain_name": "desmos",
+    "network_type": "mainnet",
+    "logo": "desmos.svg",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "service_name": "desmosd",
+    "links": {
+      "twitter": "https://twitter.com/DesmosNetwork",
+      "github": "https://github.com/desmos-labs",
+      "globe": "https://www.desmos.network/",
+      "medium": "https://medium.com/desmosnetwork",
+      "discord": "https://discord.com/invite/ckFcU5vxxc",
+      "block_explorer": "https://www.mintscan.io/desmos"
+    },
+    "validator": {
+      "address": "desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate",
+      "validator_url": "https://restake.app/desmos/desmosvaloper184nr4azm7kwas40yzftfxy9ma2lrm5pp5q795x/delegate"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "rizon",
+    "network_type": "mainnet",
+    "logo": "rizon.svg",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/hdac_rizon",
+      "github": "https://github.com/rizon-world",
+      "globe": "https://rizon.world",
+      "medium": "https://medium.com/hdac",
+      "discord": "https://discord.gg/Vgbcu5Hhmz",
+      "block_explorer": "https://www.mintscan.io/rizon"
+    },
+    "validator": {
+      "address": "rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/rizon/rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr/delegate",
+      "validator_url": "https://restake.app/rizon/rizonvaloper1py7dgk8tdx09jevad6rfpraurctuykmaa2szdr/delegate"
+    },
+    "is_archive": true
+  },
+  {
+    "chain_name": "starname",
+    "network_type": "mainnet",
+    "logo": "starname.svg",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/starname_me",
+      "github": "https://github.com/iov-one",
+      "globe": "https://www.starname.me",
+      "medium": "https://medium.com/iov-internet-of-values",
+      "discord": "https://discord.gg/xE36Rcsv37",
+      "block_explorer": "https://ping.pub/starname"
+    },
+    "validator": {
+      "address": "starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/starname/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate",
+      "validator_url": "https://ping.pub/starname/staking/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate"
+    },
+    "scripts": [
+      "build_binary_step"
+    ],
+    "is_archive": true
+  }
+]
