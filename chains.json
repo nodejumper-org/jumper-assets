@@ -806,6 +806,9 @@
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
+    "scripts": [
+      "build_binary_step"
+    ],
     "regular_block_time": 300,
     "is_state_sync_enabled": false
   },
