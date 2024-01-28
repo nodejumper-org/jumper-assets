@@ -814,5 +814,29 @@
       "build_binary_step"
     ],
     "is_archive": true
+  },
+  {
+    "chain_name": "cascadiatestnet",
+    "jumper_name": "cascadia",
+    "network_type": "testnet",
+    "logo": "cascadia.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/CascadiaSystems",
+      "github": "https://github.com/cascadiafoundation",
+      "globe": "https://www.cascadia.foundation",
+      "medium": "https://medium.com/@CascadiaFoundation",
+      "discord": "https://discord.com/invite/cascadia",
+      "telegram": "https://t.me/CascadiaFoundation",
+      "block_explorer": "https://testnet.cascadia.explorers.guru"
+    },
+    "validator": {
+      "address": "cascadiavaloper104g6jcsg6fmmvn2a2t0nqg4ex68xgqdt4yvxh2",
+      "validator_url": "https://testnet.cascadia.explorers.guru/validator/cascadiavaloper104g6jcsg6fmmvn2a2t0nqg4ex68xgqdt4yvxh2"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    }
   }
 ]
