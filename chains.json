@@ -851,8 +851,8 @@
       "block_explorer": "https://testnet.ping.pub/elys"
     },
     "validator": {
-      "address": "",
-      "validator_url": "https://testnet.ping.pub/elys"
+      "address": "elysvaloper17ykmhtrufm3z9lssjarzvms9aeesrqmepg9ecs",
+      "validator_url": "https://testnet.ping.pub/elys/staking/elysvaloper17ykmhtrufm3z9lssjarzvms9aeesrqmepg9ecs"
     }
   },
   {
