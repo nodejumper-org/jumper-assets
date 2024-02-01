@@ -856,6 +856,29 @@
     }
   },
   {
+    "chain_name": "soarchaintestnet",
+    "jumper_name": "soarchain",
+    "network_type": "testnet",
+    "logo": "soarchain.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "globe": "https://www.soarchain.com",
+      "twitter": "https://twitter.com/soar_chain",
+      "github": "https://github.com/soar-robotics",
+      "docs": "https://docs.soarchain.com",
+      "discord": "https://discord.gg/eKUXe2VT",
+      "medium": "https://medium.com/@soarchain",
+      "block_explorer": "https://explorer.kjnodes.com/soarchain-testnet"
+    },
+    "validator": {
+      "address": "",
+      "validator_url": "https://explorer.kjnodes.com/soarchain-testnet/staking/"
+    },
+    "scripts": [
+      "build_binary_step"
+    ]
+  },
+  {
     "chain_name": "zetachaintestnet",
     "jumper_name": "zetachain",
     "network_type": "testnet",
