@@ -621,6 +621,32 @@
     ]
   },
   {
+    "chain_name": "dymension",
+    "network_type": "mainnet",
+    "logo": "dymension.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/dymension",
+      "github": "https://github.com/dymensionxyz",
+      "globe": "https://dymension.xyz/",
+      "medium": "https://medium.com/@dymensionXYZ",
+      "docs": "https://docs.dymension.xyz/",
+      "discord": "https://discord.com/invite/dymension",
+      "telegram": "https://t.me/dymensionXYZ",
+      "block_explorer": "https://explorer.kjnodes.com"
+    },
+    "validator": {
+      "address": "dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0",
+      "is_genesis": false,
+      "stake_url": "",
+      "validator_url": "https://explorer.kjnodes.com/dymension/staking/dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    }
+  },
+  {
     "chain_name": "arkeonetworktestnet",
     "jumper_name": "arkeonetwork",
     "network_type": "testnet",
