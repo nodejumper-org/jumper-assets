@@ -592,6 +592,35 @@
     }
   },
   {
+    "chain_name": "zetachain",
+    "jumper_name": "zetachain",
+    "network_type": "mainnet",
+    "logo": "zetachain.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/zetablockchain",
+      "github": "https://github.com/zeta-chain",
+      "globe": "https://www.zetachain.com/",
+      "docs": "https://www.zetachain.com/docs/",
+      "discord": "https://discord.gg/zetachain",
+      "telegram": "https://t.me/zetachainofficial",
+      "block_explorer": "https://zetachain.exploreme.pro"
+    },
+    "validator": {
+      "address": "zetavaloper1aad70zgjrpxyjdc2ekyfu0r05wt3djes7pepzh",
+      "validator_url": "https://zetachain.exploreme.pro/validators/zetavaloper1aad70zgjrpxyjdc2ekyfu0r05wt3djes7pepzh"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 300GB",
+      "recommendedSpecification": "8CPU 32RAM 300GB"
+    },
+    "snapshots": [
+      {
+        "id": "snap4"
+      }
+    ]
+  },
+  {
     "chain_name": "arkeonetworktestnet",
     "jumper_name": "arkeonetwork",
     "network_type": "testnet",
@@ -895,7 +924,7 @@
     },
     "validator": {
       "address": "zetavaloper1zu8uq4gry2wgxpv0eds26z34yxj7wvhpumw8nz",
-      "validator_url": "https://zetachain.exploreme.pro/validator/zetavaloper1zu8uq4gry2wgxpv0eds26z34yxj7wvhpumw8nz"
+      "validator_url": "https://testnet.ping.pub/zetachain/staking/zetavaloper1zu8uq4gry2wgxpv0eds26z34yxj7wvhpumw8nz"
     },
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 300GB",
