@@ -633,13 +633,13 @@
       "docs": "https://docs.dymension.xyz/",
       "discord": "https://discord.com/invite/dymension",
       "telegram": "https://t.me/dymensionXYZ",
-      "block_explorer": "https://explorer.kjnodes.com/dymension"
+      "block_explorer": "https://dymension.explorers.guru"
     },
     "validator": {
       "address": "dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0",
       "is_genesis": false,
-      "stake_url": "",
-      "validator_url": "https://explorer.kjnodes.com/dymension/staking/dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0"
+      "stake_url": "https://restake.app/dymension/dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0",
+      "validator_url": "https://dymension.explorers.guru/validator/dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0"
     },
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
