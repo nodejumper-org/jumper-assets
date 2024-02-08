@@ -624,6 +624,7 @@
     "chain_name": "dymension",
     "network_type": "mainnet",
     "logo": "dymension.webp",
+    "rpc_server": "https://dymension.nodejumper.io",
     "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/dymension",
