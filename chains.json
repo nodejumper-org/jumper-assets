@@ -873,6 +873,7 @@
     "jumper_name": "okp4",
     "network_type": "testnet",
     "logo": "okp4.webp",
+    "rpc_server": "https://okp4-testnet.nodejumper.io",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/OKP4_Protocol",
