@@ -947,7 +947,7 @@
       "docs": "https://www.zetachain.com/docs/",
       "discord": "https://discord.gg/zetachain",
       "telegram": "https://t.me/zetachainofficial",
-      "block_explorer": "https://zetachain.exploreme.pro"
+      "block_explorer": "https://testnet.ping.pub/zetachain"
     },
     "validator": {
       "address": "zetavaloper1zu8uq4gry2wgxpv0eds26z34yxj7wvhpumw8nz",
