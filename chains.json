@@ -928,8 +928,8 @@
       "block_explorer": "https://explorer.kjnodes.com/soarchain-testnet"
     },
     "validator": {
-      "address": "",
-      "validator_url": "https://explorer.kjnodes.com/soarchain-testnet/staking/"
+      "address": "soarvaloper1a0cakvpaeutntck5cehlrk4g2d9w8rn2q3qfln",
+      "validator_url": "https://explorer.soarchain.com/soar/staking/soarvaloper1a0cakvpaeutntck5cehlrk4g2d9w8rn2q3qfln"
     },
     "scripts": [
       "build_binary_step"
