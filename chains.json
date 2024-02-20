@@ -219,7 +219,7 @@
       "address": "gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
       "is_genesis": true,
       "stake_url": "https://restake.app/gitopia/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4/stake",
-      "validator_url": "https://restake.app/gitopia/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4/stake"
+      "validator_url": "https://gitopia.exploreme.pro/validators/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4"
     },
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
