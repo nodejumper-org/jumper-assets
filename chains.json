@@ -1115,6 +1115,9 @@
     "validator": {
       "address": "",
       "validator_url": ""
-    }
+    },
+    "scripts": [
+      "build_binary_step"
+    ]
   }
 ]
