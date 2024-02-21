@@ -1076,5 +1076,45 @@
         "id": "snap3"
       }
     ]
+  },
+  {
+    "chain_name": "sidetestnet",
+    "network_type": "testnet",
+    "jumper_name": "side",
+    "logo": "side.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/SideProtocol",
+      "github": "https://github.com/sideprotocol",
+      "globe": "https://side.one",
+      "medium": "https://medium.com/@SideProtocol",
+      "docs": "https://docs.side.one/",
+      "discord": "https://discord.com/invite/sideprotocol",
+      "block_explorer": "https://testnet.ping.pub"
+    },
+    "validator": {
+      "address": "",
+      "validator_url": ""
+    }
+  },
+  {
+    "chain_name": "entrypointtestnet",
+    "network_type": "testnet",
+    "jumper_name": "entrypoint",
+    "logo": "entrypoint.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "github": "https://github.com/entrypoint-zone",
+      "twitter": "https://twitter.com/entrypointzone",
+      "globe": "https://entrypoint.zone",
+      "medium": "https://medium.com/@EntryPointZone",
+      "docs": "https://docs.entrypoint.zone",
+      "discord": "https://discord.gg/6Ec9jDwVnB",
+      "block_explorer": "https://explorer.entrypoint.zone/"
+    },
+    "validator": {
+      "address": "",
+      "validator_url": ""
+    }
   }
 ]
