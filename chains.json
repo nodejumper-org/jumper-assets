@@ -1121,5 +1121,28 @@
     "scripts": [
       "build_binary_step"
     ]
+  },
+  {
+    "chain_name": "crossfitestnet",
+    "network_type": "testnet",
+    "jumper_name": "crossfi",
+    "logo": "crossfi.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "github": "https://github.com/crossfichain",
+      "twitter": "https://twitter.com/crossfichain",
+      "globe": "https://crossfi.org",
+      "medium": "https://medium.com/@crossfichain",
+      "docs": "https://crossfi.org/documents",
+      "discord": "https://discord.com/invite/crossfi",
+      "block_explorer": "https://xfiscan.com"
+    },
+    "validator": {
+      "address": "",
+      "validator_url": ""
+    },
+    "scripts": [
+      "build_binary_step"
+    ]
   }
 ]
