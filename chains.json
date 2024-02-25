@@ -1138,8 +1138,8 @@
       "block_explorer": "https://xfiscan.com"
     },
     "validator": {
-      "address": "",
-      "validator_url": ""
+      "address": "mxvaloper1nlshne60la52n6xse5nv5dsm5ep6rk3d0z5za3",
+      "validator_url": "https://testnet.itrocket.net/crossfi/staking/mxvaloper1nlshne60la52n6xse5nv5dsm5ep6rk3d0z5za3"
     },
     "scripts": [
       "build_binary_step"
