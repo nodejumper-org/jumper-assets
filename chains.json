@@ -711,7 +711,7 @@
       "block_explorer": "https://babylon.explorers.guru"
     },
     "validator": {
-      "address": "bbnvaloper1d6z48lnw0g9l8ndumsy9r4cc5xw334mgqf3g68",
+      "address": "",
       "validator_url": "https://babylon.explorers.guru/validator/bbnvaloper1d6z48lnw0g9l8ndumsy9r4cc5xw334mgqf3g68"
     },
     "hardware_requirements": {
