@@ -1143,5 +1143,26 @@
     "scripts": [
       "build_binary_step"
     ]
+  },
+  {
+    "chain_name": "uniontestnet",
+    "network_type": "testnet",
+    "jumper_name": "union",
+    "logo": "union.svg",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://x.com/union_build",
+      "globe": "https://union.build",
+      "docs": "https://union.build/docs",
+      "discord": "https://discord.union.build",
+      "block_explorer": "https://bonynode.online/union"
+    },
+    "validator": {
+      "address": "",
+      "validator_url": "https://bonynode.online/union/staking/"
+    },
+    "scripts": [
+      "build_binary_step"
+    ]
   }
 ]
