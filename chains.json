@@ -1164,6 +1164,8 @@
     },
     "scripts": [
       "build_binary_step"
-    ]
+    ],
+    "is_wasm_on_root_level_enabled": true,
+    "is_wasm_on_state_sync_enabled": true
   }
 ]
