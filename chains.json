@@ -714,8 +714,8 @@
       "validator_url": "https://testnet.babylon.explorers.guru/validator/bbnvaloper1d6z48lnw0g9l8ndumsy9r4cc5xw334mgqf3g68"
     },
     "hardware_requirements": {
-      "minSpecification": "3CPU 4RAM 80GB",
-      "recommendedSpecification": "4CPU 8RAM 160GB"
+      "minSpecification": "8CPU 16RAM 200GB",
+      "recommendedSpecification": "8CPU 32RAM 500GB"
     },
     "is_wasm_on_root_level_enabled": true,
     "scripts": [
