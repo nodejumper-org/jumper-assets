@@ -1151,6 +1151,7 @@
     "logo": "union.svg",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
+      "github": "https://github.com/unionlabs",
       "twitter": "https://x.com/union_build",
       "globe": "https://union.build",
       "docs": "https://union.build/docs",
