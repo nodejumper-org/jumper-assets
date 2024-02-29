@@ -1163,7 +1163,8 @@
       "validator_url": "https://bonynode.online/union/staking/"
     },
     "scripts": [
-      "build_binary_step"
+      "build_binary_step",
+      "configure_cli_step"
     ],
     "is_wasm_on_root_level_enabled": true,
     "is_wasm_on_state_sync_enabled": true
