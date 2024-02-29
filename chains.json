@@ -1089,11 +1089,11 @@
       "medium": "https://medium.com/@SideProtocol",
       "docs": "https://docs.side.one/",
       "discord": "https://discord.com/invite/sideprotocol",
-      "block_explorer": "https://testnets.cosmosrun.info/side"
+      "block_explorer": "https://testnet.ping.pub/side"
     },
     "validator": {
       "address": "sidevaloper1wadueu5jzys2najwlsu8qe82yzv5elhux207vu",
-      "validator_url": "https://testnets.cosmosrun.info/side/staking/sidevaloper1wadueu5jzys2najwlsu8qe82yzv5elhux207vu"
+      "validator_url": "https://testnet.ping.pub/side/staking/sidevaloper1wadueu5jzys2najwlsu8qe82yzv5elhux207vu"
     },
     "is_wasm_on_root_level_enabled": true,
     "is_wasm_on_state_sync_enabled": true
