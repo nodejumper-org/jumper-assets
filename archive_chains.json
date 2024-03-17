@@ -838,5 +838,29 @@
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     }
+  },
+  {
+    "chain_name": "altheatestnet",
+    "jumper_name": "althea",
+    "network_type": "testnet",
+    "logo": "althea.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "service_name": "althead",
+    "links": {
+      "twitter": "https://twitter.com/AltheaNetwork",
+      "github": "https://github.com/althea-net",
+      "globe": "https://www.althea.net",
+      "discord": "https://discord.gg/ZxrhxebZA8",
+      "block_explorer": "https://althea.explorers.guru"
+    },
+    "validator": {
+      "address": "altheavaloper1u8952g337qtgkszzmz3vr5ykkyf3gddxt88uk0",
+      "validator_url": "https://althea.explorers.guru/validator/altheavaloper1u8952g337qtgkszzmz3vr5ykkyf3gddxt88uk0"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    },
+    "denom_exponent": 18
   }
 ]
