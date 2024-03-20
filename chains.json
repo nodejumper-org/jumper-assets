@@ -1144,5 +1144,26 @@
     ],
     "is_wasm_on_root_level_enabled": true,
     "is_wasm_on_state_sync_enabled": true
+  },
+  {
+    "chain_name": "wardenprotocoltestnet",
+    "network_type": "testnet",
+    "jumper_name": "wardenprotocol",
+    "logo": "warden.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "github": "https://github.com/warden-protocol",
+      "twitter": "https://x.com/wardenprotocol",
+      "globe": "https://wardenprotocol.org",
+      "docs": "https://docs.wardenprotocol.org",
+      "discord": "https://discord.gg/wardenprotocol",
+      "block_explorer": "https://warden-explorer.paranorm.pro/warden",
+      "telegram": "https://t.me/warden_news"
+    },
+    "validator": {
+      "address": "wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs",
+      "validator_url": "https://warden-explorer.paranorm.pro/warden/staking/wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs"
+    },
+    "scripts": []
   }
 ]
