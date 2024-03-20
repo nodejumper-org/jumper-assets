@@ -1164,6 +1164,8 @@
       "address": "wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs",
       "validator_url": "https://warden-explorer.paranorm.pro/warden/staking/wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs"
     },
-    "scripts": []
+    "scripts": [
+      "build_binary_step"
+    ]
   }
 ]
