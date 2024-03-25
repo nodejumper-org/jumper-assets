@@ -862,5 +862,52 @@
       "recommendedSpecification": "4CPU 16RAM 200GB"
     },
     "denom_exponent": 18
+  },
+  {
+    "chain_name": "bandchain",
+    "network_type": "mainnet",
+    "logo": "band.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/bandprotocol",
+      "github": "https://github.com/bandprotocol",
+      "globe": "https://bandprotocol.com",
+      "docs": "https://docs.bandchain.org",
+      "discord": "https://discord.com/invite/3t4bsY7",
+      "telegram": "https://t.me/bandprotocol",
+      "block_explorer": "https://www.mintscan.io/band"
+    },
+    "validator": {
+      "address": "bandvaloper1svv0r74g7tmaqtm0fsp6a05z4xw5r4jzz0udmm",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/bandchain/bandvaloper1svv0r74g7tmaqtm0fsp6a05z4xw5r4jzz0udmm/stake",
+      "validator_url": "https://www.mintscan.io/band/validators/bandvaloper1svv0r74g7tmaqtm0fsp6a05z4xw5r4jzz0udmm"
+    }
+  },
+  {
+    "chain_name": "injective",
+    "network_type": "mainnet",
+    "logo": "injective.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/InjectiveLabs",
+      "github": "https://github.com/InjectiveLabs",
+      "globe": "https://injective.com",
+      "medium": "https://blog.injective.com/",
+      "discord": "https://discord.com/invite/NK4qdbv",
+      "telegram": "https://t.me/joininjective",
+      "block_explorer": "https://ping.pub/injective",
+      "docs": "https://docs.injective.network/"
+    },
+    "validator": {
+      "address": "injvaloper1kywsemgukghp6gah7yw6hmly9zc03z0479mzdn",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/injective/injvaloper1kywsemgukghp6gah7yw6hmly9zc03z0479mzdn",
+      "validator_url": "https://ping.pub/injective/staking/injvaloper1kywsemgukghp6gah7yw6hmly9zc03z0479mzdn"
+    },
+    "denom_exponent": 18,
+    "scripts": [
+      "build_binary_step"
+    ]
   }
 ]
