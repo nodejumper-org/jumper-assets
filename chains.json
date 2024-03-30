@@ -587,12 +587,7 @@
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 300GB",
       "recommendedSpecification": "8CPU 32RAM 300GB"
-    },
-    "snapshots": [
-      {
-        "id": "snap4"
-      }
-    ]
+    }
   },
   {
     "chain_name": "dymension",
