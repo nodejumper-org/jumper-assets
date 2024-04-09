@@ -820,20 +820,16 @@
     "rpc_server": "https://okp4-testnet.nodejumper.io",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
-      "twitter": "https://twitter.com/OKP4_Protocol",
+      "twitter": "https://twitter.com/axonexyz",
       "github": "https://github.com/okp4",
-      "globe": "https://okp4.network",
+      "globe": "https://axone.xyz",
       "medium": "https://blog.okp4.network",
-      "discord": "https://discord.gg/nfPMBqc7Qe",
+      "discord": "https://discord.com/invite/okp4",
       "block_explorer": "https://okp4.explorers.guru"
     },
     "validator": {
       "address": "okp4valoper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6eu6nelp",
       "validator_url": "https://okp4.explorers.guru/validator/okp4valoper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6eu6nelp"
-    },
-    "hardware_requirements": {
-      "minSpecification": "2CPU 4RAM 100GB",
-      "recommendedSpecification": "2CPU 8RAM 200GB"
     }
   },
   {
