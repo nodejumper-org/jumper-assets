@@ -1131,8 +1131,8 @@
       "telegram": "https://testnet.itrocket.net/og/staking"
     },
     "validator": {
-      "address": "",
-      "validator_url": "https://testnet.itrocket.net/og/staking/"
+      "address": "evmosvaloper18f086ms9elk7s2x0zzu5cra359cuq2sleg2fus",
+      "validator_url": "https://explorer.validatorvn.com/OG-Testnet/staking/evmosvaloper18f086ms9elk7s2x0zzu5cra359cuq2sleg2fus"
     }
   }
 ]
