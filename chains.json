@@ -1114,5 +1114,25 @@
     "scripts": [
       "build_binary_step"
     ]
+  },
+  {
+    "chain_name": "0gtestnet",
+    "network_type": "testnet",
+    "jumper_name": "0g",
+    "logo": "0g.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "github": "https://github.com/0glabs",
+      "twitter": "https://twitter.com/0G_labs",
+      "globe": "https://0g.ai",
+      "docs": "https://0glabs.gitbook.io/0g-doc",
+      "discord": "https://discord.com/invite/0glabs",
+      "block_explorer": "https://testnet.itrocket.net/og/staking",
+      "telegram": "https://testnet.itrocket.net/og/staking"
+    },
+    "validator": {
+      "address": "",
+      "validator_url": "https://testnet.itrocket.net/og/staking/"
+    }
   }
 ]
