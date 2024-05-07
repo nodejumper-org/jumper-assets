@@ -37,12 +37,12 @@
       "docs": "https://docs.andromedaprotocol.io",
       "discord": "https://discord.gg/EtSRGbPEXP",
       "telegram": "https://t.me/andromedaprotocol",
-      "block_explorer": "https://andromeda.exploreme.pro/"
+      "block_explorer": "https://andromeda.explorers.guru"
     },
     "validator": {
       "address": "andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu",
       "stake_url": "https://restake.app/andromeda/andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu/stake",
-      "validator_url": "https://andromeda.exploreme.pro/validator/andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu"
+      "validator_url": "https://andromeda.explorers.guru/validator/andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu"
     },
     "snapshots": [
       {
