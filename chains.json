@@ -146,7 +146,8 @@
     "denom_exponent": 12,
     "snapshots": [
       {
-        "id": "snap2"
+        "id": "snap2",
+        "name": "composable"
       }
     ]
   },
