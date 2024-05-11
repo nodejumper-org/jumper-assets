@@ -124,8 +124,9 @@
   },
   {
     "chain_name": "composable",
+    "jumper_name": "picasso",
     "network_type": "mainnet",
-    "logo": "composable.webp",
+    "logo": "picasso.webp",
     "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/ComposableFin",
