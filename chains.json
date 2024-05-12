@@ -1133,8 +1133,8 @@
       "telegram": "https://testnet.itrocket.net/og/staking"
     },
     "validator": {
-      "address": "evmosvaloper18f086ms9elk7s2x0zzu5cra359cuq2sleg2fus",
-      "validator_url": "https://explorer.validatorvn.com/OG-Testnet/staking/evmosvaloper18f086ms9elk7s2x0zzu5cra359cuq2sleg2fus"
+      "address": "0gvaloper18f086ms9elk7s2x0zzu5cra359cuq2sl3603cq",
+      "validator_url": "https://explorer.scannerx.net/0G-Testnet/staking/0gvaloper18f086ms9elk7s2x0zzu5cra359cuq2sl3603cq"
     }
   }
 ]
