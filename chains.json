@@ -1154,6 +1154,9 @@
     "validator": {
       "address": "airvaloper1um9rv3g08n9wzdezwcmhnp8wv6dwgyxutm3z78",
       "validator_url": "https://explorer.stavr.tech/Airchains-Testnet/staking/airvaloper1um9rv3g08n9wzdezwcmhnp8wv6dwgyxutm3z78"
-    }
+    },
+    "scripts": [
+      "build_binary_step"
+    ]
   }
 ]
