@@ -632,13 +632,13 @@
       "docs": "https://docs.seda.xyz",
       "discord": "https://discord.gg/Ae4V6y6qrW",
       "telegram": "https://t.me/sedaprotocol",
-      "block_explorer": "https://explorer.seda.xyz"
+      "block_explorer": "https://sedaprotocol.github.io/test-explorer/mainnet"
     },
     "validator": {
-      "address": "",
+      "address": "sedavaloper10ptahx0n3zplt8v04rwh3aat54spz2wt2tj22m",
       "is_genesis": false,
-      "stake_url": "",
-      "validator_url": ""
+      "stake_url": "https://sedaprotocol.github.io/test-explorer/mainnet/staking/sedavaloper10ptahx0n3zplt8v04rwh3aat54spz2wt2tj22m",
+      "validator_url": "https://sedaprotocol.github.io/test-explorer/mainnet/staking/sedavaloper10ptahx0n3zplt8v04rwh3aat54spz2wt2tj22m"
     }
   },
   {
