@@ -622,6 +622,7 @@
     "chain_name": "seda",
     "network_type": "mainnet",
     "logo": "seda.webp",
+    "rpc_server": "https://seda.nodejumper.io",
     "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/sedaprotocol",
