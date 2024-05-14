@@ -619,6 +619,28 @@
     }
   },
   {
+    "chain_name": "seda",
+    "network_type": "mainnet",
+    "logo": "seda.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/sedaprotocol",
+      "github": "https://github.com/dymensionxyz",
+      "globe": "https://www.seda.xyz",
+      "medium": "https://medium.com/@SedaProtocol",
+      "docs": "https://docs.seda.xyz",
+      "discord": "https://discord.gg/Ae4V6y6qrW",
+      "telegram": "https://t.me/sedaprotocol",
+      "block_explorer": "https://explorer.seda.xyz"
+    },
+    "validator": {
+      "address": "",
+      "is_genesis": false,
+      "stake_url": "",
+      "validator_url": ""
+    }
+  },
+  {
     "chain_name": "arkeonetworktestnet",
     "jumper_name": "arkeonetwork",
     "network_type": "testnet",
