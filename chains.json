@@ -1176,8 +1176,8 @@
       "block_explorer": "https://scan.testnet.initia.xyz/initiation-1"
     },
     "validator": {
-      "address": "",
-      "validator_url": "https://scan.testnet.initia.xyz/initiation-1"
+      "address": "initvaloper1f5z88al43m7jf574kf3avqxw5pedu0kqfrmjal",
+      "validator_url": "https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1f5z88al43m7jf574kf3avqxw5pedu0kqfrmjal"
     }
   }
 ]
