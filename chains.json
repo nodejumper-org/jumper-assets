@@ -1159,5 +1159,25 @@
     "scripts": [
       "build_binary_step"
     ]
+  },
+  {
+    "chain_name": "initiatestnet",
+    "network_type": "testnet",
+    "jumper_name": "initia",
+    "logo": "initia.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "github": "https://github.com/initia-labs",
+      "twitter": "https://twitter.com/initiaFDN",
+      "globe": "https://initia.xyz",
+      "docs": "https://docs.initia.xyz",
+      "discord": "https://discord.com/invite/initia",
+      "medium": "https://medium.com/@initiafdn",
+      "block_explorer": "https://scan.testnet.initia.xyz/initiation-1"
+    },
+    "validator": {
+      "address": "",
+      "validator_url": "https://scan.testnet.initia.xyz/initiation-1"
+    }
   }
 ]
