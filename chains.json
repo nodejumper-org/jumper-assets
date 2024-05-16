@@ -1025,28 +1025,6 @@
     ]
   },
   {
-    "chain_name": "sidetestnet",
-    "network_type": "testnet",
-    "jumper_name": "side",
-    "logo": "side.webp",
-    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/SideProtocol",
-      "github": "https://github.com/sideprotocol",
-      "globe": "https://side.one",
-      "medium": "https://medium.com/@SideProtocol",
-      "docs": "https://docs.side.one/",
-      "discord": "https://discord.com/invite/sideprotocol",
-      "block_explorer": "https://testnet.ping.pub/side"
-    },
-    "validator": {
-      "address": "sidevaloper1wadueu5jzys2najwlsu8qe82yzv5elhux207vu",
-      "validator_url": "https://testnet.ping.pub/side/staking/sidevaloper1wadueu5jzys2najwlsu8qe82yzv5elhux207vu"
-    },
-    "is_wasm_on_root_level_enabled": true,
-    "is_wasm_on_state_sync_enabled": true
-  },
-  {
     "chain_name": "entrypointtestnet",
     "network_type": "testnet",
     "jumper_name": "entrypoint",
