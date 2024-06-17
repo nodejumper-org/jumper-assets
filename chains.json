@@ -924,30 +924,6 @@
     }
   },
   {
-    "chain_name": "pryzmtestnet",
-    "jumper_name": "pryzm",
-    "network_type": "testnet",
-    "logo": "pryzm.webp",
-    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/pryzm_zone",
-      "github": "https://github.com/pryzm-finance",
-      "globe": "https://pryzm.zone",
-      "docs": "https://docs.pryzm.zone",
-      "discord": "https://discord.gg/mx4kjVG7zN",
-      "telegram": "https://t.me/+uB3fAFC56KIzZDVk",
-      "medium": "https://pryzm.medium.com",
-      "block_explorer": "https://testnet.itrocket.net/pryzm"
-    },
-    "validator": {
-      "address": "pryzmvaloper1vgzue5ux4dpy8s2g3m7gss5mj0eacjs6uj567m",
-      "validator_url": "https://testnet.itrocket.net/pryzm/staking/pryzmvaloper1vgzue5ux4dpy8s2g3m7gss5mj0eacjs6uj567m"
-    },
-    "scripts": [
-      "build_binary_step"
-    ]
-  },
-  {
     "chain_name": "artelatestnet",
     "jumper_name": "artela",
     "network_type": "testnet",
