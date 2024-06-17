@@ -612,10 +612,6 @@
       "is_genesis": false,
       "stake_url": "https://restake.app/dymension/dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0",
       "validator_url": "https://dymension.explorers.guru/validator/dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0"
-    },
-    "hardware_requirements": {
-      "minSpecification": "3CPU 4RAM 80GB",
-      "recommendedSpecification": "4CPU 8RAM 160GB"
     }
   },
   {
