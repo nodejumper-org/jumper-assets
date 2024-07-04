@@ -901,6 +901,7 @@
     "network_type": "testnet",
     "logo": "artela.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "rpc_server": "https://artela-testnet.nodejumper.io",
     "links": {
       "globe": "https://artela.network",
       "twitter": "https://twitter.com/artela_network",
