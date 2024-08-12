@@ -843,10 +843,7 @@
     "validator": {
       "address": "elysvaloper17ykmhtrufm3z9lssjarzvms9aeesrqmepg9ecs",
       "validator_url": "https://testnet.ping.pub/elys/staking/elysvaloper17ykmhtrufm3z9lssjarzvms9aeesrqmepg9ecs"
-    },
-    "scripts": [
-      "build_binary_step"
-    ]
+    }
   },
   {
     "chain_name": "soarchaintestnet",
