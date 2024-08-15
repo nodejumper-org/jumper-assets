@@ -869,30 +869,6 @@
     ]
   },
   {
-    "chain_name": "zetachaintestnet",
-    "jumper_name": "zetachain",
-    "network_type": "testnet",
-    "logo": "zetachain.webp",
-    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/zetablockchain",
-      "github": "https://github.com/zeta-chain",
-      "globe": "https://www.zetachain.com/",
-      "docs": "https://www.zetachain.com/docs/",
-      "discord": "https://discord.gg/zetachain",
-      "telegram": "https://t.me/zetachainofficial",
-      "block_explorer": "https://testnet.ping.pub/zetachain"
-    },
-    "validator": {
-      "address": "zetavaloper1zu8uq4gry2wgxpv0eds26z34yxj7wvhpumw8nz",
-      "validator_url": "https://testnet.ping.pub/zetachain/staking/zetavaloper1zu8uq4gry2wgxpv0eds26z34yxj7wvhpumw8nz"
-    },
-    "hardware_requirements": {
-      "minSpecification": "4CPU 8RAM 300GB",
-      "recommendedSpecification": "8CPU 32RAM 300GB"
-    }
-  },
-  {
     "chain_name": "artelatestnet",
     "jumper_name": "artela",
     "network_type": "testnet",
