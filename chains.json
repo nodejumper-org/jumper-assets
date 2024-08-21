@@ -113,13 +113,13 @@
       "medium": "https://medium.com/@bitcannaglobal",
       "docs": "https://docs.bitcanna.io/",
       "discord": "https://discord.gg/GaubcRyg3t",
-      "block_explorer": "https://www.mintscan.io/bitcanna"
+      "block_explorer": "https://ping.pub/bitcanna"
     },
     "validator": {
       "address": "bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y",
       "is_genesis": false,
       "stake_url": "https://restake.app/bitcanna/bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y/delegate",
-      "validator_url": "https://restake.app/bitcanna/bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y/delegate"
+      "validator_url": "https://ping.pub/bitcanna/staking/bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y/delegate"
     }
   },
   {
