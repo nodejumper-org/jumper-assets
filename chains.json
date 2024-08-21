@@ -136,12 +136,12 @@
       "docs": "https://docs.composable.finance/",
       "discord": "https://discord.gg/composable",
       "telegram": "https://t.me/composablefinance",
-      "block_explorer": "https://explorer.kjnodes.com/composable"
+      "block_explorer": "https://ping.pub/picasso"
     },
     "validator": {
-      "address": "centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz",
+      "address": "picavaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8m6r9uqh",
       "is_genesis": true,
-      "validator_url": "https://composable.exploreme.pro/validator/centaurivaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8mltwdnz"
+      "validator_url": "https://ping.pub/picasso/staking/picavaloper13seedrg58ckmdzmuqz6xd8swcvxsdy8m6r9uqh"
     },
     "denom_exponent": 12,
     "snapshots": [
