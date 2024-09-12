@@ -162,13 +162,13 @@
       "globe": "https://www.empowerchain.io",
       "discord": "https://discord.gg/xVMWBreSfN",
       "telegram": "https://t.me/empowerchain",
-      "block_explorer": "https://empowerchain.exploreme.pro"
+      "block_explorer": "https://ping.pub/empower"
     },
     "validator": {
       "address": "empowervaloper1ncxmgfs86khyuh0g3pruqetclrxd0f7843j485",
       "is_genesis": true,
       "stake_url": "https://restake.app/empowerchain/empowervaloper1ncxmgfs86khyuh0g3pruqetclrxd0f7843j485/stake",
-      "validator_url": "https://restake.app/empowerchain/empowervaloper1ncxmgfs86khyuh0g3pruqetclrxd0f7843j485/stake"
+      "validator_url": "https://ping.pub/empower/staking/empowervaloper1ncxmgfs86khyuh0g3pruqetclrxd0f7843j485"
     },
     "hardware_requirements": {
       "minSpecification": "3CPU 4RAM 80GB",
@@ -215,13 +215,13 @@
       "globe": "https://gitopia.com",
       "docs": "https://docs.gitopia.com",
       "discord": "https://discord.com/invite/aqsKW3hUHD",
-      "block_explorer": "https://gitopia.exploreme.pro"
+      "block_explorer": "https://ping.pub/gitopia"
     },
     "validator": {
       "address": "gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
       "is_genesis": true,
       "stake_url": "https://restake.app/gitopia/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4/stake",
-      "validator_url": "https://gitopia.exploreme.pro/validators/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4"
+      "validator_url": "https://ping.pub/gitopia/staking/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4"
     },
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 100GB",
@@ -580,11 +580,11 @@
       "docs": "https://www.zetachain.com/docs/",
       "discord": "https://discord.gg/zetachain",
       "telegram": "https://t.me/zetachainofficial",
-      "block_explorer": "https://zetachain.exploreme.pro"
+      "block_explorer": "https://zetachain.explorers.guru"
     },
     "validator": {
       "address": "zetavaloper1aad70zgjrpxyjdc2ekyfu0r05wt3djes7pepzh",
-      "validator_url": "https://zetachain.exploreme.pro/validators/zetavaloper1aad70zgjrpxyjdc2ekyfu0r05wt3djes7pepzh"
+      "validator_url": "https://zetachain.explorers.guru/validator/zetavaloper1aad70zgjrpxyjdc2ekyfu0r05wt3djes7pepzh"
     },
     "hardware_requirements": {
       "minSpecification": "4CPU 8RAM 300GB",
@@ -1040,12 +1040,12 @@
       "globe": "https://0g.ai",
       "docs": "https://0glabs.gitbook.io/0g-doc",
       "discord": "https://discord.com/invite/0glabs",
-      "block_explorer": "https://explorer.validatorvn.com/OG-Testnet",
+      "block_explorer": "https://testnet.0g.explorers.guru",
       "telegram": "https://testnet.itrocket.net/og/staking"
     },
     "validator": {
       "address": "0gvaloper18f086ms9elk7s2x0zzu5cra359cuq2sl3603cq",
-      "validator_url": "https://explorer.scannerx.net/0G-Testnet/staking/0gvaloper18f086ms9elk7s2x0zzu5cra359cuq2sl3603cq"
+      "validator_url": "https://testnet.0g.explorers.guru/validator/0gvaloper18f086ms9elk7s2x0zzu5cra359cuq2sl3603cq"
     }
   },
   {
