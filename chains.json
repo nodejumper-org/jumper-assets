@@ -650,11 +650,11 @@
       "globe": "https://arkeo.network/",
       "discord": "https://discord.gg/BfEHpm6uFc",
       "docs": "https://docs.arkeo.network",
-      "block_explorer": "https://exp.stakevillage.net/Arkeo-testnet"
+      "block_explorer": "https://testnet.arkeo.explorers.guru/"
     },
     "validator": {
       "address": "tarkeovaloper1fe97d4xz99dkm7wya46j736x8jwjxhjeesew7d",
-      "validator_url": "https://exp.stakevillage.net/Arkeo-testnet/staking/tarkeovaloper1fe97d4xz99dkm7wya46j736x8jwjxhjeesew7d"
+      "validator_url": "https://testnet.arkeo.explorers.guru/validator/tarkeovaloper1fe97d4xz99dkm7wya46j736x8jwjxhjeesew7d"
     },
     "scripts": [
       "build_binary_step"
