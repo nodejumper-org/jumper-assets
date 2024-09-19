@@ -684,7 +684,7 @@
   },
   {
     "chain_name": "cardchaintestnet",
-    "jumper_name": "cardchain",
+    "jumper_name": "crowdcontrol",
     "network_type": "testnet",
     "logo": "cardchain.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
