@@ -823,23 +823,23 @@
     }
   },
   {
-    "chain_name": "okp4testnet",
-    "jumper_name": "okp4",
+    "chain_name": "axonetestnet",
+    "jumper_name": "axone",
     "network_type": "testnet",
-    "logo": "okp4.webp",
-    "rpc_server": "https://okp4-testnet.nodejumper.io",
+    "logo": "axone.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/axonexyz",
-      "github": "https://github.com/okp4",
+      "github": "https://github.com/axone-protocol",
       "globe": "https://axone.xyz",
-      "medium": "https://blog.okp4.network",
-      "discord": "https://discord.com/invite/okp4",
-      "block_explorer": "https://okp4.explorers.guru"
+      "medium": "https://blog.axone.xyz",
+      "discord": "https://discord.com/invite/axone",
+      "telegram": "https://t.me/okp4network",
+      "block_explorer": "https://testnet.axone.explorers.guru"
     },
     "validator": {
-      "address": "okp4valoper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6eu6nelp",
-      "validator_url": "https://okp4.explorers.guru/validator/okp4valoper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6eu6nelp"
+      "address": "axonevaloper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6ehjxany",
+      "validator_url": "https://testnet.axone.explorers.guru/validator/axonevaloper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6ehjxany"
     }
   },
   {
