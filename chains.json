@@ -1025,7 +1025,7 @@
   {
     "chain_name": "0gtestnet",
     "network_type": "testnet",
-    "jumper_name": "0g",
+    "jumper_name": "og",
     "logo": "0g.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
