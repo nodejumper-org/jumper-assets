@@ -1002,7 +1002,7 @@
   {
     "chain_name": "wardenprotocoltestnet",
     "network_type": "testnet",
-    "jumper_name": "wardenprotocol",
+    "jumper_name": "warden",
     "logo": "warden.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
