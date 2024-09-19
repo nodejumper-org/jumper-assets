@@ -639,7 +639,7 @@
   },
   {
     "chain_name": "arkeonetworktestnet",
-    "jumper_name": "arkeonetwork",
+    "jumper_name": "arkeo",
     "network_type": "testnet",
     "logo": "arkeo.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
