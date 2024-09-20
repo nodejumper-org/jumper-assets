@@ -1,7 +1,6 @@
 [
   {
     "chain_name": "archway",
-    "jumper_name": "archway",
     "pretty_name": "Archway",
     "network_type": "mainnet",
     "logo": "archway.png",
@@ -26,7 +25,6 @@
   },
   {
     "chain_name": "andromeda",
-    "jumper_name": "andromeda",
     "network_type": "mainnet",
     "logo": "andromeda.webp",
     "snapshot_server": "https://snapshots.nodejumper.io",
@@ -101,7 +99,6 @@
   },
   {
     "chain_name": "bitcanna",
-    "jumper_name": "bitcanna",
     "network_type": "mainnet",
     "logo": "bitcanna.svg",
     "rpc_server": "https://bitcanna.nodejumper.io",
@@ -153,6 +150,7 @@
   },
   {
     "chain_name": "empowerchain",
+    "jumper_name": "empower",
     "network_type": "mainnet",
     "logo": "empower.webp",
     "snapshot_server": "https://snapshots.nodejumper.io",
@@ -490,6 +488,7 @@
   },
   {
     "chain_name": "terpnetwork",
+    "jumper_name": "terp",
     "network_type": "mainnet",
     "service_name": "terpd",
     "logo": "terp.webp",
@@ -935,8 +934,8 @@
   },
   {
     "chain_name": "jackaltestnet",
-    "network_type": "testnet",
     "jumper_name": "jackal",
+    "network_type": "testnet",
     "logo": "jackal.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
@@ -955,8 +954,8 @@
   },
   {
     "chain_name": "entrypointtestnet",
-    "network_type": "testnet",
     "jumper_name": "entrypoint",
+    "network_type": "testnet",
     "logo": "entrypoint.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
@@ -978,8 +977,8 @@
   },
   {
     "chain_name": "crossfitestnet",
-    "network_type": "testnet",
     "jumper_name": "crossfi",
+    "network_type": "testnet",
     "logo": "crossfi.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
@@ -1001,8 +1000,8 @@
   },
   {
     "chain_name": "wardenprotocoltestnet",
-    "network_type": "testnet",
     "jumper_name": "warden",
+    "network_type": "testnet",
     "logo": "warden.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
@@ -1024,8 +1023,8 @@
   },
   {
     "chain_name": "0gtestnet",
-    "network_type": "testnet",
     "jumper_name": "og",
+    "network_type": "testnet",
     "logo": "0g.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
@@ -1044,8 +1043,8 @@
   },
   {
     "chain_name": "airchainstestnet",
-    "network_type": "testnet",
     "jumper_name": "airchains",
+    "network_type": "testnet",
     "logo": "airchains.webp",
     "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
