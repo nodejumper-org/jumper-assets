@@ -953,29 +953,6 @@
     }
   },
   {
-    "chain_name": "entrypointtestnet",
-    "jumper_name": "entrypoint",
-    "network_type": "testnet",
-    "logo": "entrypoint.webp",
-    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
-    "links": {
-      "github": "https://github.com/entrypoint-zone",
-      "twitter": "https://twitter.com/entrypointzone",
-      "globe": "https://entrypoint.zone",
-      "medium": "https://medium.com/@EntryPointZone",
-      "docs": "https://docs.entrypoint.zone",
-      "discord": "https://discord.gg/6Ec9jDwVnB",
-      "block_explorer": "https://explorer.entrypoint.zone/entrypoint"
-    },
-    "validator": {
-      "address": "entrypointvaloper1lldfxpj8pu8q7f7zw2h7fsuq0573zulnlgjfp0",
-      "validator_url": "https://explorer.entrypoint.zone/entrypoint/staking/entrypointvaloper1lldfxpj8pu8q7f7zw2h7fsuq0573zulnlgjfp0"
-    },
-    "scripts": [
-      "build_binary_step"
-    ]
-  },
-  {
     "chain_name": "crossfitestnet",
     "jumper_name": "crossfi",
     "network_type": "testnet",
