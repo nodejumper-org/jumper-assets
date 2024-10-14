@@ -1006,5 +1006,30 @@
     "scripts": [
       "build_binary_step"
     ]
+  },
+  {
+    "chain_name": "dymensiontestnet",
+    "jumper_name": "dymension",
+    "network_type": "testnet",
+    "logo": "dymension.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/dymension",
+      "github": "https://github.com/dymensionxyz",
+      "globe": "https://dymension.xyz/",
+      "medium": "https://medium.com/@dymensionXYZ",
+      "docs": "https://docs.dymension.xyz/",
+      "discord": "https://discord.com/invite/dymension",
+      "telegram": "https://t.me/dymensionXYZ",
+      "block_explorer": "https://exp.utsa.tech/dymension-test"
+    },
+    "validator": {
+      "address": "dymvaloper1vhdxpkjadlhp27jgge4vg4dy0s6fdex6un639s",
+      "validator_url": "https://exp.utsa.tech/dymension-test/staking/dymvaloper1vhdxpkjadlhp27jgge4vg4dy0s6fdex6un639s"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    }
   }
 ]
