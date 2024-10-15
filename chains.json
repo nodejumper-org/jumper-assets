@@ -1020,7 +1020,7 @@
     "jumper_name": "celestia",
     "network_type": "testnet",
     "logo": "celestia.webp",
-    "snapshot_server": "https://snapshots.nodejumper.io",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/CelestiaOrg",
       "github": "https://github.com/celestiaorg",
