@@ -1014,5 +1014,25 @@
     "scripts": [
       "build_binary_step"
     ]
+  },
+  {
+    "chain_name": "celestiatestnet3",
+    "jumper_name": "celestia",
+    "network_type": "testnet",
+    "logo": "celestia.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/CelestiaOrg",
+      "github": "https://github.com/celestiaorg",
+      "globe": "https://celestia.org",
+      "medium": "https://blog.celestia.org",
+      "docs": "https://docs.celestia.org",
+      "discord": "https://discord.com/invite/YsnTPcSfWQ",
+      "block_explorer": "https://testnet.celestia.explorers.guru/"
+    },
+    "validator": {
+      "address": "celestiavaloper1zg790v6fr5k3e3pv945c8nmduhr0ma8uhaqfd9",
+      "validator_url": "https://testnet.celestia.explorers.guru/validator/celestiavaloper1zg790v6fr5k3e3pv945c8nmduhr0ma8uhaqfd9"
+    }
   }
 ]
