@@ -1034,5 +1034,24 @@
       "address": "celestiavaloper1zg790v6fr5k3e3pv945c8nmduhr0ma8uhaqfd9",
       "validator_url": "https://testnet.celestia.explorers.guru/validator/celestiavaloper1zg790v6fr5k3e3pv945c8nmduhr0ma8uhaqfd9"
     }
+  },
+  {
+    "chain_name": "storytestnet",
+    "jumper_name": "story",
+    "network_type": "testnet",
+    "logo": "story.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/StoryProtocol",
+      "github": "https://github.com/storyprotocol",
+      "globe": "https://storyprotocol.xyz",
+      "docs": "https://docs.story.foundation",
+      "discord": "https://discord.gg/storyprotocol",
+      "block_explorer": "https://testnet.story.explorers.guru"
+    },
+    "validator": {
+      "address": "storyvaloper13v0xwmqxzqtls26e2racme6w67jtuzdykvysdl",
+      "validator_url": "https://testnet.story.explorers.guru/validator/storyvaloper13v0xwmqxzqtls26e2racme6w67jtuzdykvysdl"
+    }
   }
 ]
