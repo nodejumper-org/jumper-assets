@@ -1052,6 +1052,11 @@
     "validator": {
       "address": "storyvaloper13v0xwmqxzqtls26e2racme6w67jtuzdykvysdl",
       "validator_url": "https://testnet.story.explorers.guru/validator/storyvaloper13v0xwmqxzqtls26e2racme6w67jtuzdykvysdl"
-    }
+    },
+    "scripts": [
+      "build_binary_step",
+      "configure_cli_step",
+      "configure_chain_step"
+    ]
   }
 ]
