@@ -1056,7 +1056,8 @@
     "scripts": [
       "build_binary_step",
       "configure_cli_step",
-      "configure_chain_step"
+      "configure_chain_step",
+      "download_snapshot_step"
     ]
   }
 ]
