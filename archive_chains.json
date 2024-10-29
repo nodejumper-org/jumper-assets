@@ -1031,5 +1031,28 @@
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
     }
+  },
+  {
+    "chain_name": "soarchaintestnet",
+    "jumper_name": "soarchain",
+    "network_type": "testnet",
+    "logo": "soarchain.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "globe": "https://www.soarchain.com",
+      "twitter": "https://twitter.com/soar_chain",
+      "github": "https://github.com/soar-robotics",
+      "docs": "https://docs.soarchain.com",
+      "discord": "https://discord.gg/WHsdaAXt3y",
+      "medium": "https://medium.com/@soarchain",
+      "block_explorer": "https://explorer.kjnodes.com/soarchain-testnet"
+    },
+    "validator": {
+      "address": "soarvaloper1a0cakvpaeutntck5cehlrk4g2d9w8rn2q3qfln",
+      "validator_url": "https://explorer.soarchain.com/soar/staking/soarvaloper1a0cakvpaeutntck5cehlrk4g2d9w8rn2q3qfln"
+    },
+    "scripts": [
+      "build_binary_step"
+    ]
   }
 ]
