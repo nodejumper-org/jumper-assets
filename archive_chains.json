@@ -1054,5 +1054,29 @@
     "scripts": [
       "build_binary_step"
     ]
+  },
+  {
+    "chain_name": "nois",
+    "network_type": "mainnet",
+    "logo": "nois.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/NoisNetwork",
+      "github": "https://github.com/noislabs",
+      "globe": "https://nois.network",
+      "docs": "https://docs.nois.network",
+      "discord": "https://discord.com/invite/UzwtKWjTcA",
+      "block_explorer": "https://nois.explorers.guru"
+    },
+    "validator": {
+      "address": "noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
+      "is_genesis": true,
+      "stake_url": "https://restake.app/nois/noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0",
+      "validator_url": "https://restake.app/nois/noisvaloper1m75ljwympv4dys9z57nkzlk0x9ww9h72nh6kp0"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    }
   }
 ]
