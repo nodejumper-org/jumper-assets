@@ -1078,5 +1078,29 @@
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "8CPU 32RAM 200GB"
     }
+  },
+  {
+    "chain_name": "archway",
+    "pretty_name": "Archway",
+    "network_type": "mainnet",
+    "logo": "archway.png",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "rpc_server": "https://archway.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/archwayhq",
+      "github": "https://github.com/archway-network",
+      "globe": "https://archway.io/",
+      "discord": "https://discord.gg/5FVvx3WGfa",
+      "telegram": "https://t.me/archway_hq",
+      "docs": "https://docs.archway.io/",
+      "block_explorer": "https://mintscan.io/archway"
+    },
+    "validator": {
+      "address": "archwayvaloper1cuu7t30msk68netlmrqgpumfgwgdfz8c5w4hqj",
+      "stake_url": "https://restake.app/archway/archwayvaloper1cuu7t30msk68netlmrqgpumfgwgdfz8c5w4hqj/stake",
+      "validator_url": "https://www.mintscan.io/archway/validators/archwayvaloper1cuu7t30msk68netlmrqgpumfgwgdfz8c5w4hqj"
+    },
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true
   }
 ]
