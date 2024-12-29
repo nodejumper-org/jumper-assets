@@ -74,28 +74,6 @@
     "is_wasm_on_root_level_enabled": true
   },
   {
-    "chain_name": "bitcanna",
-    "network_type": "mainnet",
-    "logo": "bitcanna.svg",
-    "rpc_server": "https://bitcanna.nodejumper.io",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/BitCannaGlobal",
-      "github": "https://github.com/BitCannaGlobal",
-      "globe": "https://www.bitcanna.io",
-      "medium": "https://medium.com/@bitcannaglobal",
-      "docs": "https://docs.bitcanna.io/",
-      "discord": "https://discord.gg/GaubcRyg3t",
-      "block_explorer": "https://ping.pub/bitcanna"
-    },
-    "validator": {
-      "address": "bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y",
-      "is_genesis": false,
-      "stake_url": "https://restake.app/bitcanna/bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y/delegate",
-      "validator_url": "https://ping.pub/bitcanna/staking/bcnavaloper1nlyurpgk5zcg6f6dcpdt2mq9khv27ajg4px45y/delegate"
-    }
-  },
-  {
     "chain_name": "composable",
     "jumper_name": "picasso",
     "network_type": "mainnet",
@@ -610,28 +588,6 @@
     "scripts": [
       "build_binary_step"
     ]
-  },
-  {
-    "chain_name": "bitcannadevnet",
-    "jumper_name": "bitcanna",
-    "pretty_name": "Bitcanna",
-    "network_type": "testnet",
-    "logo": "bitcanna.svg",
-    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
-    "rpc_server": "https://bitcanna-testnet.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/BitCannaGlobal",
-      "github": "https://github.com/BitCannaGlobal",
-      "globe": "https://www.bitcanna.io",
-      "medium": "https://medium.com/@bitcannaglobal",
-      "docs": "https://docs.bitcanna.io/",
-      "discord": "https://discord.gg/GaubcRyg3t",
-      "block_explorer": "https://testnet.ping.pub/bitcanna"
-    },
-    "validator": {
-      "address": "bcnavaloper14dk9qlwqc272kag6q99rugm6rqj30fwa7gh0f2",
-      "validator_url": "https://testnet.ping.pub/bitcanna/staking/bcnavaloper14dk9qlwqc272kag6q99rugm6rqj30fwa7gh0f2"
-    }
   },
   {
     "chain_name": "cardchaintestnet",
