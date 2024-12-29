@@ -1176,5 +1176,25 @@
         "name": "omniflix"
       }
     ]
+  },
+  {
+    "chain_name": "elystestnet",
+    "jumper_name": "elys",
+    "network_type": "testnet",
+    "logo": "elys.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/elys_network",
+      "github": "https://github.com/elys-network",
+      "globe": "https://elys.network",
+      "docs": "https://elys-network.gitbook.io",
+      "discord": "https://discord.gg/elysnetwork",
+      "telegram": "https://t.me/ElysNetwork",
+      "block_explorer": "https://testnet.ping.pub/elys"
+    },
+    "validator": {
+      "address": "elysvaloper17ykmhtrufm3z9lssjarzvms9aeesrqmepg9ecs",
+      "validator_url": "https://testnet.ping.pub/elys/staking/elysvaloper17ykmhtrufm3z9lssjarzvms9aeesrqmepg9ecs"
+    }
   }
 ]
