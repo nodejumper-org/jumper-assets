@@ -1219,5 +1219,33 @@
     "scripts": [
       "build_binary_step"
     ]
+  },
+  {
+    "chain_name": "ununifi",
+    "network_type": "mainnet",
+    "logo": "ununifi.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/ununifi/",
+      "github": "https://github.com/UnUniFi",
+      "docs": "https://docs.ununifi.io",
+      "globe": "https://ununifi.io/",
+      "medium": "https://medium.com/@ununifi",
+      "discord": "https://discord.com/invite/gxEkFyu5rn",
+      "block_explorer": "https://ununifi.io/explorer"
+    },
+    "validator": {
+      "address": "ununifivaloper15lp2nwccku06xnrgfpany9elrt75exy2hngplz",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/ununifi/ununifivaloper15lp2nwccku06xnrgfpany9elrt75exy2hngplz/stake",
+      "validator_url": "https://restake.app/ununifi/ununifivaloper15lp2nwccku06xnrgfpany9elrt75exy2hngplz/stake"
+    },
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true,
+    "snapshots": [
+      {
+        "id": "snap4"
+      }
+    ]
   }
 ]
