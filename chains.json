@@ -334,31 +334,6 @@
     }
   },
   {
-    "chain_name": "teritori",
-    "network_type": "mainnet",
-    "logo": "teritori.webp",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/TeritoriNetwork",
-      "github": "https://github.com/TERITORI",
-      "globe": "https://teritori.com",
-      "discord": "https://discord.gg/UAzKUpsZhn",
-      "block_explorer": "https://mintscan.io/teritori"
-    },
-    "validator": {
-      "address": "torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0",
-      "is_genesis": true,
-      "stake_url": "https://restake.app/teritori/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0/delegate",
-      "validator_url": "https://restake.app/teritori/torivaloper18t2j2kc08su2l2dafcanq43yxj9akpwp6gemr0/delegate"
-    },
-    "is_wasm_on_state_sync_enabled": true,
-    "snapshots": [
-      {
-        "id": "snap2"
-      }
-    ]
-  },
-  {
     "chain_name": "terpnetwork",
     "jumper_name": "terp",
     "network_type": "mainnet",
