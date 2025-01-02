@@ -1247,5 +1247,33 @@
         "id": "snap4"
       }
     ]
+  },
+  {
+    "chain_name": "pylons",
+    "network_type": "mainnet",
+    "logo": "pylons.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/pylonstech",
+      "github": "https://github.com/Pylons-tech",
+      "globe": "https://www.pylons.tech",
+      "discord": "https://discord.com/invite/pylons",
+      "block_explorer": "https://pylons.explorers.guru"
+    },
+    "validator": {
+      "address": "pylovaloper1gaxmegsarn8vquy573750ffklulw8pf8g2usyw",
+      "is_genesis": true,
+      "stake_url": "https://pylons.explorers.guru/validator/pylovaloper1gaxmegsarn8vquy573750ffklulw8pf8g2usyw",
+      "validator_url": "https://pylons.explorers.guru/validator/pylovaloper1gaxmegsarn8vquy573750ffklulw8pf8g2usyw"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 160GB",
+      "recommendedSpecification": "8CPU 16RAM 500GB"
+    },
+    "snapshots": [
+      {
+        "id": "snap4"
+      }
+    ]
   }
 ]
