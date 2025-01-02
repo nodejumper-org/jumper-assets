@@ -859,11 +859,11 @@
       "globe": "https://storyprotocol.xyz",
       "docs": "https://docs.story.foundation",
       "discord": "https://discord.gg/storyprotocol",
-      "block_explorer": "https://testnet.story.explorers.guru"
+      "block_explorer": "https://odyssey.story.explorers.guru/"
     },
     "validator": {
       "address": "storyvaloper13v0xwmqxzqtls26e2racme6w67jtuzdykvysdl",
-      "validator_url": "https://testnet.story.explorers.guru/validator/storyvaloper13v0xwmqxzqtls26e2racme6w67jtuzdykvysdl"
+      "validator_url": "https://odyssey.story.explorers.guru/validator/storyvaloper17u46ud0a7wty94yyltqpqkr3fdq9ft9rw0wsgs"
     },
     "scripts": [
       "build_binary_step",
