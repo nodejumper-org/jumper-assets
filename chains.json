@@ -17,12 +17,7 @@
       "address": "andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu",
       "stake_url": "https://restake.app/andromeda/andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu/stake",
       "validator_url": "https://andromeda.explorers.guru/validator/andrvaloper1qhtm0789l6cl2u4e7gs8kkyy3t4hthana2ktsu"
-    },
-    "snapshots": [
-      {
-        "id": "snap2"
-      }
-    ]
+    }
   },
   {
     "chain_name": "assetmantle",
