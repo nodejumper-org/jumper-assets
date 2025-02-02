@@ -192,33 +192,6 @@
     }
   },
   {
-    "chain_name": "kujira",
-    "network_type": "mainnet",
-    "apr": 0,
-    "logo": "kujira.svg",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/TeamKujira",
-      "github": "https://github.com/Team-Kujira",
-      "globe": "https://kujira.app/",
-      "docs": "https://docs.kujira.app/",
-      "discord": "https://discord.gg/teamkujira",
-      "block_explorer": "https://ping.pub/kujira"
-    },
-    "validator": {
-      "address": "kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
-      "is_genesis": true,
-      "stake_url": "https://restake.app/kujira/kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84",
-      "validator_url": "https://ping.pub/kujira/staking/kujiravaloper1yafsywsluqdvlhtp30tcdhw496vg6ey3zs4u84"
-    },
-    "hardware_requirements": {
-      "minSpecification": "4CPU 8RAM 100GB",
-      "recommendedSpecification": "8CPU 16RAM 200GB"
-    },
-    "is_wasm_on_state_sync_enabled": true,
-    "is_wasm_on_root_level_enabled": true
-  },
-  {
     "chain_name": "paloma",
     "network_type": "mainnet",
     "logo": "paloma.webp",
@@ -263,32 +236,6 @@
       "stake_url": "https://restake.app/passage/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn/stake",
       "validator_url": "https://www.mintscan.io/passage/validators/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn"
     }
-  },
-  {
-    "chain_name": "rebus",
-    "network_type": "mainnet",
-    "logo": "rebus.webp",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/RebusChain",
-      "github": "https://github.com/rebuschain",
-      "globe": "https://www.rebuschain.com",
-      "medium": "https://medium.com/@RebusChain",
-      "docs": "https://docs.rebuschain.com",
-      "discord": "https://discord.gg/cBGpcyHmBH",
-      "block_explorer": "https://rebus.explorers.guru"
-    },
-    "validator": {
-      "address": "rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8",
-      "is_genesis": true,
-      "stake_url": "https://restake.app/rebus/rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8/delegate",
-      "validator_url": "https://restake.app/rebus/rebusvaloper1kwv8r3n93dwtk59l5lkyp9qn3u5jzxzy0mrdp8/delegate"
-    },
-    "snapshots": [
-      {
-        "id": "snap4"
-      }
-    ]
   },
   {
     "chain_name": "stafihub",
