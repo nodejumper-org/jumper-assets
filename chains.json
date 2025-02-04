@@ -738,5 +738,23 @@
       "minSpecification": "4CPU 8RAM 300GB",
       "recommendedSpecification": "8CPU 32RAM 300GB"
     }
+  },
+  {
+    "chain_name": "atomone",
+    "network_type": "mainnet",
+    "logo": "atomone.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://x.com/_atomone",
+      "globe": "https://atom.one",
+      "github": "https://github.com/atomone-hub",
+      "discord": "https://discord.gg/atomone",
+      "block_explorer": "https://ping.pub/atomone"
+    },
+    "validator": {
+      "address": "",
+      "stake_url": "",
+      "validator_url": ""
+    }
   }
 ]
