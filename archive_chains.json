@@ -1353,5 +1353,22 @@
     },
     "is_wasm_on_state_sync_enabled": true,
     "is_wasm_on_root_level_enabled": true
+  },
+  {
+    "chain_name": "atomone",
+    "network_type": "mainnet",
+    "logo": "atomone.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://x.com/_atomone",
+      "github": "https://github.com/atomone-hub",
+      "discord": "https://discord.gg/atomone",
+      "block_explorer": "https://ping.pub/atomone"
+    },
+    "validator": {
+      "address": "",
+      "stake_url": "",
+      "validator_url": ""
+    }
   }
 ]
