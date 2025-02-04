@@ -752,9 +752,8 @@
       "block_explorer": "https://ping.pub/atomone"
     },
     "validator": {
-      "address": "",
-      "stake_url": "",
-      "validator_url": ""
+      "address": "atonevaloper1pptwysv6ew8e55kzf8nr3vtfxhc9x0gfyfahx0",
+      "validator_url": "https://ping.pub/atomone/staking/atonevaloper1pptwysv6ew8e55kzf8nr3vtfxhc9x0gfyfahx0"
     }
   }
 ]
