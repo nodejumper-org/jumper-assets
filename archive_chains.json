@@ -1361,6 +1361,7 @@
     "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://x.com/_atomone",
+      "globe": "https://atom.one",
       "github": "https://github.com/atomone-hub",
       "discord": "https://discord.gg/atomone",
       "block_explorer": "https://ping.pub/atomone"
