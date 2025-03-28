@@ -1349,5 +1349,24 @@
       "download_snapshot_step",
       "start_service_step"
     ]
+  },
+  {
+    "chain_name": "passage",
+    "network_type": "mainnet",
+    "logo": "passage.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/passageio",
+      "github": "https://github.com/envadiv",
+      "globe": "https://www.passage.io/",
+      "discord": "https://discord.gg/passage",
+      "block_explorer": "https://www.mintscan.io/passage"
+    },
+    "validator": {
+      "address": "pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn",
+      "is_genesis": true,
+      "stake_url": "https://restake.app/passage/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn/stake",
+      "validator_url": "https://www.mintscan.io/passage/validators/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn"
+    }
   }
 ]
