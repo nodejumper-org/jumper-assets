@@ -1396,5 +1396,50 @@
     },
     "is_wasm_on_state_sync_enabled": true,
     "is_wasm_on_root_level_enabled": true
+  },
+  {
+    "chain_name": "lavatestnet",
+    "jumper_name": "lava",
+    "network_type": "testnet",
+    "logo": "lava.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/lavanetxyz",
+      "github": "https://github.com/lavanet",
+      "globe": "https://lavanet.xyz",
+      "docs": "https://docs.lavanet.xyz",
+      "discord": "https://discord.com/invite/5VcqgwMmkA",
+      "block_explorer": "https://lava.explorers.guru"
+    },
+    "validator": {
+      "address": "lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty",
+      "validator_url": "https://lava.explorers.guru/validator/lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty"
+    },
+    "scripts": [
+      "build_binary_step"
+    ],
+    "regular_block_time": 300
+  },
+  {
+    "chain_name": "lava",
+    "network_type": "mainnet",
+    "logo": "lava.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/lavanetxyz",
+      "github": "https://github.com/lavanet",
+      "globe": "https://lavanet.xyz",
+      "docs": "https://docs.lavanet.xyz",
+      "discord": "https://discord.com/invite/5VcqgwMmkA",
+      "block_explorer": "https://lava.explorers.guru"
+    },
+    "validator": {
+      "address": "lava@valoper1rtz5qfm2ns2f6mw0plhuh9ld2y960mnesqepzp",
+      "validator_url": "https://lava.explorers.guru/validator/lava@valoper1rtz5qfm2ns2f6mw0plhuh9ld2y960mnesqepzp"
+    },
+    "scripts": [
+      "build_binary_step"
+    ],
+    "regular_block_time": 300
   }
 ]
