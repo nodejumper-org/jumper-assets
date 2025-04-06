@@ -1598,5 +1598,26 @@
       "address": "0gvaloper18f086ms9elk7s2x0zzu5cra359cuq2sl3603cq",
       "validator_url": "https://testnet.0g.explorers.guru/validator/0gvaloper18f086ms9elk7s2x0zzu5cra359cuq2sl3603cq"
     }
+  },
+  {
+    "chain_name": "artelatestnet",
+    "jumper_name": "artela",
+    "network_type": "testnet",
+    "logo": "artela.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "rpc_server": "https://artela-testnet.nodejumper.io",
+    "links": {
+      "globe": "https://artela.network",
+      "twitter": "https://twitter.com/artela_network",
+      "github": "https://github.com/artela-network",
+      "docs": "https://docs.artela.network",
+      "discord": "https://discord.com/invite/artela",
+      "medium": "https://medium.com/@artela_network",
+      "block_explorer": "https://explorer.nodestake.org/artela-testnet"
+    },
+    "validator": {
+      "address": "artvaloper1n6ruptydl82fvcx5cd28tpg4vrkvjspjen8e79",
+      "validator_url": "https://testnet.itrocket.net/artela/staking/artvaloper1n6ruptydl82fvcx5cd28tpg4vrkvjspjen8e79"
+    }
   }
 ]
