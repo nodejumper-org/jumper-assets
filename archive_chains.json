@@ -1441,5 +1441,97 @@
       "build_binary_step"
     ],
     "regular_block_time": 300
+  },
+  {
+    "chain_name": "celestiatestnet3",
+    "jumper_name": "celestia",
+    "network_type": "testnet",
+    "logo": "celestia.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/CelestiaOrg",
+      "github": "https://github.com/celestiaorg",
+      "globe": "https://celestia.org",
+      "medium": "https://blog.celestia.org",
+      "docs": "https://docs.celestia.org",
+      "discord": "https://discord.com/invite/YsnTPcSfWQ",
+      "block_explorer": "https://testnet.celestia.explorers.guru/"
+    },
+    "validator": {
+      "address": "celestiavaloper1zg790v6fr5k3e3pv945c8nmduhr0ma8uhaqfd9",
+      "validator_url": "https://testnet.celestia.explorers.guru/validator/celestiavaloper1zg790v6fr5k3e3pv945c8nmduhr0ma8uhaqfd9"
+    }
+  },
+  {
+    "chain_name": "zetachaintestnet",
+    "jumper_name": "zetachain",
+    "network_type": "testnet",
+    "logo": "zetachain.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/zetablockchain",
+      "github": "https://github.com/zeta-chain",
+      "globe": "https://www.zetachain.com/",
+      "docs": "https://www.zetachain.com/docs/",
+      "discord": "https://discord.gg/zetachain",
+      "telegram": "https://t.me/zetachainofficial",
+      "block_explorer": "https://testnet.ping.pub/zetachain"
+    },
+    "validator": {
+      "address": "zetavaloper1zu8uq4gry2wgxpv0eds26z34yxj7wvhpumw8nz",
+      "validator_url": "https://testnet.ping.pub/zetachain/staking/zetavaloper1zu8uq4gry2wgxpv0eds26z34yxj7wvhpumw8nz"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 300GB",
+      "recommendedSpecification": "8CPU 32RAM 300GB"
+    }
+  },
+  {
+    "chain_name": "humans",
+    "network_type": "mainnet",
+    "logo": "humans.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/humansdotai",
+      "github": "https://github.com/humansdotai",
+      "globe": "https://humans.ai",
+      "medium": "https://medium.com/humansdotai",
+      "docs": "https://docs.humans.ai",
+      "discord": "https://discord.gg/humansdotai",
+      "block_explorer": "https://humans.explorers.guru"
+    },
+    "validator": {
+      "address": "humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt",
+      "is_genesis": true,
+      "stake_url": "https://humans.explorers.guru/validator/humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt",
+      "validator_url": "https://humans.explorers.guru/validator/humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    }
+  },
+  {
+    "chain_name": "ojodevnet",
+    "jumper_name": "ojo",
+    "network_type": "testnet",
+    "logo": "ojo.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/ojo_network",
+      "github": "https://github.com/ojo-network",
+      "globe": "https://ojo.network",
+      "discord": "https://discord.gg/rneu743gKf",
+      "telegram": "https://t.me/OjoNetwork",
+      "block_explorer": "https://ojo.explorers.guru/"
+    },
+    "validator": {
+      "address": "ojovaloper1ela8c0jhqgjsj2cq7twu9uhda2n8e6cslz0wnw",
+      "validator_url": "https://ojo.explorers.guru/validator/ojovaloper1ela8c0jhqgjsj2cq7twu9uhda2n8e6cslz0wnw"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "4CPU 16RAM 200GB"
+    }
   }
 ]
