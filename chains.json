@@ -479,7 +479,7 @@
     }
   },
   {
-    "chain_name": "airchainstestnet",
+    "chain_name": "airchainsvaranasitestnet",
     "jumper_name": "airchains",
     "network_type": "testnet",
     "logo": "airchains.webp",
@@ -490,11 +490,11 @@
       "globe": "https://airchains.io",
       "docs": "https://docs.airchains.io",
       "discord": "https://discord.gg/airchains",
-      "block_explorer": "https://explorer.stavr.tech/Airchains-Testnet"
+      "block_explorer": "https://exp.utsa.tech/airchains-test"
     },
     "validator": {
       "address": "airvaloper1um9rv3g08n9wzdezwcmhnp8wv6dwgyxutm3z78",
-      "validator_url": "https://explorer.stavr.tech/Airchains-Testnet/staking/airvaloper1um9rv3g08n9wzdezwcmhnp8wv6dwgyxutm3z78"
+      "validator_url": "https://exp.utsa.tech/airchains-test/staking/airvaloper1um9rv3g08n9wzdezwcmhnp8wv6dwgyxutm3z78"
     },
     "scripts": [
       "build_binary_step"
