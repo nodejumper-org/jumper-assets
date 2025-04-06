@@ -1533,5 +1533,30 @@
       "minSpecification": "4CPU 8RAM 100GB",
       "recommendedSpecification": "4CPU 16RAM 200GB"
     }
+  },
+  {
+    "chain_name": "humanstestnet",
+    "jumper_name": "humans",
+    "pretty_name": "Humans AI",
+    "network_type": "testnet",
+    "logo": "humans.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/humansdotai",
+      "github": "https://github.com/humansdotai",
+      "globe": "https://humans.ai",
+      "medium": "https://medium.com/humansdotai",
+      "docs": "https://docs.humans.zone",
+      "discord": "https://discord.gg/humansdotai",
+      "block_explorer": "https://explorer.humans.zone"
+    },
+    "validator": {
+      "address": "humanvaloper1nl28wjjnue6lv83wh4le06hc5rnj7a30hvc5sm",
+      "validator_url": "https://explorer.humans.zone/humans-testnet/staking/humanvaloper1nl28wjjnue6lv83wh4le06hc5rnj7a30hvc5sm"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    }
   }
 ]
