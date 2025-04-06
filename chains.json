@@ -416,26 +416,6 @@
     ]
   },
   {
-    "chain_name": "jackaltestnet",
-    "jumper_name": "jackal",
-    "network_type": "testnet",
-    "logo": "jackal.webp",
-    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/Jackal_Labs",
-      "github": "https://github.com/JackalLabs",
-      "globe": "https://jackalprotocol.com",
-      "medium": "https://jackaldao.medium.com",
-      "docs": "https://docs.jackalprotocol.com/",
-      "discord": "https://discord.com/invite/5GKym3p6rj",
-      "block_explorer": "https://testnet.ping.pub/jackal"
-    },
-    "validator": {
-      "address": "jklvaloper177qxzffk80hn6p033h6sgng543akvrphjv3dhq",
-      "validator_url": "https://testnet.ping.pub/jackal/staking/jklvaloper177qxzffk80hn6p033h6sgng543akvrphjv3dhq"
-    }
-  },
-  {
     "chain_name": "wardenprotocoltestnet",
     "jumper_name": "warden",
     "network_type": "testnet",
@@ -457,26 +437,6 @@
     "scripts": [
       "build_binary_step"
     ]
-  },
-  {
-    "chain_name": "0gtestnet",
-    "jumper_name": "og",
-    "network_type": "testnet",
-    "logo": "0g.webp",
-    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
-    "links": {
-      "github": "https://github.com/0glabs",
-      "twitter": "https://twitter.com/0G_labs",
-      "globe": "https://0g.ai",
-      "docs": "https://0glabs.gitbook.io/0g-doc",
-      "discord": "https://discord.com/invite/0glabs",
-      "block_explorer": "https://testnet.0g.explorers.guru",
-      "telegram": "https://testnet.itrocket.net/og/staking"
-    },
-    "validator": {
-      "address": "0gvaloper18f086ms9elk7s2x0zzu5cra359cuq2sl3603cq",
-      "validator_url": "https://testnet.0g.explorers.guru/validator/0gvaloper18f086ms9elk7s2x0zzu5cra359cuq2sl3603cq"
-    }
   },
   {
     "chain_name": "airchainsvaranasitestnet",
