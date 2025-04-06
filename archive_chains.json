@@ -1368,5 +1368,33 @@
       "stake_url": "https://restake.app/passage/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn/stake",
       "validator_url": "https://www.mintscan.io/passage/validators/pasgvaloper1xp70wy9t4cqal2guacy7n8tmjf7avz8yz95kpn"
     }
+  },
+  {
+    "chain_name": "terpnetwork",
+    "jumper_name": "terp",
+    "network_type": "mainnet",
+    "service_name": "terpd",
+    "logo": "terp.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/terpculture",
+      "github": "https://github.com/terpnetwork",
+      "globe": "https://terp.network",
+      "docs": "https://docs.terp.network",
+      "discord": "https://discord.gg/CnsMGn47tP",
+      "block_explorer": "https://ping.pub/terp"
+    },
+    "validator": {
+      "address": "terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
+      "is_genesis": true,
+      "stake_url": "https://restake.app/terpnetwork/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv",
+      "validator_url": "https://ping.pub/terp/staking/terpvaloper1rwyn6w46u3067enhpdceqasg2um8dddt6tehsv"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "is_wasm_on_state_sync_enabled": true,
+    "is_wasm_on_root_level_enabled": true
   }
 ]
