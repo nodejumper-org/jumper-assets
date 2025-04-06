@@ -332,27 +332,23 @@
     }
   },
   {
-    "chain_name": "arkeonetworktestnet",
-    "jumper_name": "arkeo",
-    "network_type": "testnet",
+    "chain_name": "arkeo",
+    "network_type": "mainnet",
     "logo": "arkeo.webp",
-    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "service_name": "arkeod",
     "links": {
       "twitter": "https://twitter.com/arkeonetwork",
       "github": "https://github.com/arkeonetwork",
-      "globe": "https://arkeo.network/",
+      "globe": "https://arkeo.network",
       "discord": "https://discord.gg/BfEHpm6uFc",
       "docs": "https://docs.arkeo.network",
-      "block_explorer": "https://testnet.arkeo.explorers.guru/"
+      "block_explorer": "https://exp.utsa.tech/arkeo-main"
     },
     "validator": {
-      "address": "tarkeovaloper1fe97d4xz99dkm7wya46j736x8jwjxhjeesew7d",
-      "validator_url": "https://testnet.arkeo.explorers.guru/validator/tarkeovaloper1fe97d4xz99dkm7wya46j736x8jwjxhjeesew7d"
-    },
-    "scripts": [
-      "build_binary_step"
-    ]
+      "address": "arkeovaloper1hcwlsuzhfk9287gdv4m08hgwxvg7pzwxj922lm",
+      "validator_url": "https://exp.utsa.tech/arkeo-main/staking/arkeovaloper1hcwlsuzhfk9287gdv4m08hgwxvg7pzwxj922lm"
+    }
   },
   {
     "chain_name": "cardchaintestnet",
