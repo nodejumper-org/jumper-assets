@@ -810,9 +810,7 @@
       "stake_url": "https://restake.app/starname/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate",
       "validator_url": "https://ping.pub/starname/staking/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate"
     },
-    "scripts": [
-      "build_binary_step"
-    ],
+    "scripts": ["build_binary_step"],
     "is_archive": true
   },
   {
@@ -906,9 +904,7 @@
       "validator_url": "https://ping.pub/injective/staking/injvaloper1kywsemgukghp6gah7yw6hmly9zc03z0479mzdn"
     },
     "denom_exponent": 18,
-    "scripts": [
-      "build_binary_step"
-    ]
+    "scripts": ["build_binary_step"]
   },
   {
     "chain_name": "sidetestnet",
@@ -956,9 +952,7 @@
       "recommendedSpecification": "8CPU 32RAM 500GB"
     },
     "is_wasm_on_root_level_enabled": true,
-    "scripts": [
-      "additional_chain_config_step"
-    ]
+    "scripts": ["additional_chain_config_step"]
   },
   {
     "chain_name": "zetachaintestnet",
@@ -1003,9 +997,7 @@
       "address": "entrypointvaloper1lldfxpj8pu8q7f7zw2h7fsuq0573zulnlgjfp0",
       "validator_url": "https://explorer.entrypoint.zone/entrypoint/staking/entrypointvaloper1lldfxpj8pu8q7f7zw2h7fsuq0573zulnlgjfp0"
     },
-    "scripts": [
-      "build_binary_step"
-    ]
+    "scripts": ["build_binary_step"]
   },
   {
     "chain_name": "dymensiontestnet",
@@ -1051,9 +1043,7 @@
       "address": "soarvaloper1a0cakvpaeutntck5cehlrk4g2d9w8rn2q3qfln",
       "validator_url": "https://explorer.soarchain.com/soar/staking/soarvaloper1a0cakvpaeutntck5cehlrk4g2d9w8rn2q3qfln"
     },
-    "scripts": [
-      "build_binary_step"
-    ]
+    "scripts": ["build_binary_step"]
   },
   {
     "chain_name": "nois",
@@ -1186,9 +1176,7 @@
       "address": "mxvaloper1nlshne60la52n6xse5nv5dsm5ep6rk3d0z5za3",
       "validator_url": "https://testnet.itrocket.net/crossfi/staking/mxvaloper1nlshne60la52n6xse5nv5dsm5ep6rk3d0z5za3"
     },
-    "scripts": [
-      "build_binary_step"
-    ]
+    "scripts": ["build_binary_step"]
   },
   {
     "chain_name": "ununifi",
@@ -1415,9 +1403,7 @@
       "address": "lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty",
       "validator_url": "https://lava.explorers.guru/validator/lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty"
     },
-    "scripts": [
-      "build_binary_step"
-    ],
+    "scripts": ["build_binary_step"],
     "regular_block_time": 300
   },
   {
@@ -1437,9 +1423,7 @@
       "address": "lava@valoper1rtz5qfm2ns2f6mw0plhuh9ld2y960mnesqepzp",
       "validator_url": "https://lava.explorers.guru/validator/lava@valoper1rtz5qfm2ns2f6mw0plhuh9ld2y960mnesqepzp"
     },
-    "scripts": [
-      "build_binary_step"
-    ],
+    "scripts": ["build_binary_step"],
     "regular_block_time": 300
   },
   {
@@ -1618,6 +1602,25 @@
     "validator": {
       "address": "artvaloper1n6ruptydl82fvcx5cd28tpg4vrkvjspjen8e79",
       "validator_url": "https://testnet.itrocket.net/artela/staking/artvaloper1n6ruptydl82fvcx5cd28tpg4vrkvjspjen8e79"
+    }
+  },
+  {
+    "chain_name": "stafihub",
+    "network_type": "mainnet",
+    "logo": "stafihub.svg",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/StaFiHub_",
+      "github": "https://github.com/stafihub",
+      "globe": "https://www.stafihub.io",
+      "discord": "https://discord.gg/98GuF8AE3D",
+      "block_explorer": "https://mintscan.io/stafi"
+    },
+    "validator": {
+      "address": "stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv",
+      "is_genesis": true,
+      "stake_url": "https://www.mintscan.io/stafi/validators/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv",
+      "validator_url": "https://www.mintscan.io/stafi/validators/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv"
     }
   }
 ]

@@ -189,28 +189,7 @@
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
-    "scripts": [
-      "build_binary_step"
-    ]
-  },
-  {
-    "chain_name": "stafihub",
-    "network_type": "mainnet",
-    "logo": "stafihub.svg",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/StaFiHub_",
-      "github": "https://github.com/stafihub",
-      "globe": "https://www.stafihub.io",
-      "discord": "https://discord.gg/98GuF8AE3D",
-      "block_explorer": "https://mintscan.io/stafi"
-    },
-    "validator": {
-      "address": "stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv",
-      "is_genesis": true,
-      "stake_url": "https://www.mintscan.io/stafi/validators/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv",
-      "validator_url": "https://www.mintscan.io/stafi/validators/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv"
-    }
+    "scripts": ["build_binary_step"]
   },
   {
     "chain_name": "uptick",
@@ -413,9 +392,7 @@
       "address": "wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs",
       "validator_url": "https://testnet.warden.explorers.guru/validator/wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs"
     },
-    "scripts": [
-      "build_binary_step"
-    ]
+    "scripts": ["build_binary_step"]
   },
   {
     "chain_name": "airchainsvaranasitestnet",
@@ -435,9 +412,7 @@
       "address": "airvaloper1um9rv3g08n9wzdezwcmhnp8wv6dwgyxutm3z78",
       "validator_url": "https://exp.utsa.tech/airchains-test/staking/airvaloper1um9rv3g08n9wzdezwcmhnp8wv6dwgyxutm3z78"
     },
-    "scripts": [
-      "build_binary_step"
-    ]
+    "scripts": ["build_binary_step"]
   },
   {
     "chain_name": "atomone",
