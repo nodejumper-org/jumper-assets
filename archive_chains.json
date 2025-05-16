@@ -1471,31 +1471,6 @@
     }
   },
   {
-    "chain_name": "humans",
-    "network_type": "mainnet",
-    "logo": "humans.webp",
-    "snapshot_server": "https://snapshots.nodejumper.io",
-    "links": {
-      "twitter": "https://twitter.com/humansdotai",
-      "github": "https://github.com/humansdotai",
-      "globe": "https://humans.ai",
-      "medium": "https://medium.com/humansdotai",
-      "docs": "https://docs.humans.ai",
-      "discord": "https://discord.gg/humansdotai",
-      "block_explorer": "https://humans.explorers.guru"
-    },
-    "validator": {
-      "address": "humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt",
-      "is_genesis": true,
-      "stake_url": "https://humans.explorers.guru/validator/humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt",
-      "validator_url": "https://humans.explorers.guru/validator/humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt"
-    },
-    "hardware_requirements": {
-      "minSpecification": "4CPU 8RAM 100GB",
-      "recommendedSpecification": "8CPU 32RAM 200GB"
-    }
-  },
-  {
     "chain_name": "ojodevnet",
     "jumper_name": "ojo",
     "network_type": "testnet",
