@@ -327,23 +327,21 @@
     }
   },
   {
-    "chain_name": "axonetestnet",
-    "jumper_name": "axone",
-    "network_type": "testnet",
-    "logo": "axone.webp",
-    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "chain_name": "axone",
+    "network_type": "mainnet",
+    "logo": "axone.png",
+    "snapshot_server": "https://snapshots.nodejumper.io",
     "links": {
       "twitter": "https://twitter.com/axonexyz",
       "github": "https://github.com/axone-protocol",
       "globe": "https://axone.xyz",
       "medium": "https://blog.axone.xyz",
       "discord": "https://discord.com/invite/axone",
-      "telegram": "https://t.me/okp4network",
-      "block_explorer": "https://testnet.axone.explorers.guru"
+      "block_explorer": "https://explorer.nodestake.org/axone"
     },
     "validator": {
       "address": "axonevaloper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6ehjxany",
-      "validator_url": "https://testnet.axone.explorers.guru/validator/axonevaloper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6ehjxany"
+      "validator_url": "https://explorer.nodestake.org/axone/staking/axonevaloper13dgy7rtjjvvlkzu2upgtntdyzy4hnr6ehjxany"
     }
   },
   {
