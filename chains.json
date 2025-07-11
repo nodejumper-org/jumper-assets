@@ -364,12 +364,7 @@
       "stake_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
       "validator_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h"
     },
-    "is_wasm_on_root_level_enabled": true,
-    "snapshots": [
-      {
-        "id": "snap3"
-      }
-    ]
+    "is_wasm_on_root_level_enabled": true
   },
   {
     "chain_name": "wardenprotocoltestnet",
