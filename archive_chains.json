@@ -1597,5 +1597,53 @@
       "stake_url": "https://www.mintscan.io/stafi/validators/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv",
       "validator_url": "https://www.mintscan.io/stafi/validators/stafivaloper18nuuhuwywsk8at72pxk94rw27nkkf7pl8ws3kv"
     }
+  },
+  {
+    "chain_name": "seda",
+    "network_type": "mainnet",
+    "logo": "seda.webp",
+    "rpc_server": "https://seda.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/sedaprotocol",
+      "github": "https://github.com/sedaprotocol",
+      "globe": "https://www.seda.xyz",
+      "medium": "https://medium.com/@SedaProtocol",
+      "docs": "https://docs.seda.xyz",
+      "discord": "https://discord.gg/Ae4V6y6qrW",
+      "telegram": "https://t.me/sedaprotocol",
+      "block_explorer": "https://sedaprotocol.github.io/test-explorer/mainnet"
+    },
+    "validator": {
+      "address": "sedavaloper10ptahx0n3zplt8v04rwh3aat54spz2wt2tj22m",
+      "is_genesis": false,
+      "stake_url": "https://sedaprotocol.github.io/test-explorer/mainnet/staking/sedavaloper10ptahx0n3zplt8v04rwh3aat54spz2wt2tj22m",
+      "validator_url": "https://sedaprotocol.github.io/test-explorer/mainnet/staking/sedavaloper10ptahx0n3zplt8v04rwh3aat54spz2wt2tj22m"
+    }
+  },
+  {
+    "chain_name": "paloma",
+    "network_type": "mainnet",
+    "logo": "paloma.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/paloma_chain",
+      "github": "https://github.com/palomachain",
+      "globe": "https://www.palomachain.com",
+      "discord": "https://discord.gg/ET4tEgWQCj",
+      "telegram": "https://t.me/palomachain",
+      "block_explorer": "https://paloma.explorers.guru"
+    },
+    "validator": {
+      "address": "palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
+      "is_genesis": true,
+      "stake_url": "https://paloma.explorers.guru/validator/palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt",
+      "validator_url": "https://paloma.explorers.guru/validator/palomavaloper1kludne80z0tcq9t7j9fqa630fechsjhxc324tt"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
+    },
+    "scripts": ["build_binary_step"]
   }
 ]
