@@ -319,27 +319,6 @@
     "is_wasm_on_root_level_enabled": true
   },
   {
-    "chain_name": "wardenprotocoltestnet",
-    "jumper_name": "warden",
-    "network_type": "testnet",
-    "logo": "warden.webp",
-    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
-    "links": {
-      "github": "https://github.com/warden-protocol",
-      "twitter": "https://x.com/wardenprotocol",
-      "globe": "https://wardenprotocol.org",
-      "docs": "https://docs.wardenprotocol.org",
-      "discord": "https://discord.gg/wardenprotocol",
-      "block_explorer": "https://testnet.warden.explorers.guru",
-      "telegram": "https://t.me/warden_news"
-    },
-    "validator": {
-      "address": "wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs",
-      "validator_url": "https://testnet.warden.explorers.guru/validator/wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs"
-    },
-    "scripts": ["build_binary_step"]
-  },
-  {
     "chain_name": "airchainsvaranasitestnet",
     "jumper_name": "airchains",
     "network_type": "testnet",
