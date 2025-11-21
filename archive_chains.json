@@ -1666,5 +1666,25 @@
       "validator_url": "https://testnet.warden.explorers.guru/validator/wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs"
     },
     "scripts": ["build_binary_step"]
+  },
+  {
+    "chain_name": "omniflixhub",
+    "network_type": "mainnet",
+    "logo": "omniflix.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/@OmniFlixNetwork",
+      "github": "https://github.com/OmniFlix",
+      "globe": "https://omniflix.network/",
+      "medium": "https://medium.com/@OmniFlix",
+      "discord": "https://discord.com/invite/6gdQ4yZSTC",
+      "block_explorer": "https://www.mintscan.io/omniflix"
+    },
+    "validator": {
+      "address": "omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe",
+      "validator_url": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe"
+    }
   }
 ]
