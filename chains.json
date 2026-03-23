@@ -124,8 +124,9 @@
     "network_type": "mainnet",
     "logo": "firmachain.svg",
     "snapshot_server": "https://snapshots.nodejumper.io",
+    "rpc_server": "https://firmachain.nodejumper.io",
     "links": {
-      "twitter": "https://twitter.com/firmachain",
+      "twitter": "https://x.com/firmachain",
       "github": "https://github.com/firmachain",
       "globe": "https://firmachain.org/",
       "medium": "https://medium.com/firmachain",
