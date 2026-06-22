@@ -810,7 +810,9 @@
       "stake_url": "https://restake.app/starname/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate",
       "validator_url": "https://ping.pub/starname/staking/starvaloper1c8p90su0tdz67xdhx5470lzvs2lw8twqw9j0vf/delegate"
     },
-    "scripts": ["build_binary_step"],
+    "scripts": [
+      "build_binary_step"
+    ],
     "is_archive": true
   },
   {
@@ -904,7 +906,9 @@
       "validator_url": "https://ping.pub/injective/staking/injvaloper1kywsemgukghp6gah7yw6hmly9zc03z0479mzdn"
     },
     "denom_exponent": 18,
-    "scripts": ["build_binary_step"]
+    "scripts": [
+      "build_binary_step"
+    ]
   },
   {
     "chain_name": "sidetestnet",
@@ -952,7 +956,9 @@
       "recommendedSpecification": "8CPU 32RAM 500GB"
     },
     "is_wasm_on_root_level_enabled": true,
-    "scripts": ["additional_chain_config_step"]
+    "scripts": [
+      "additional_chain_config_step"
+    ]
   },
   {
     "chain_name": "zetachaintestnet",
@@ -997,7 +1003,9 @@
       "address": "entrypointvaloper1lldfxpj8pu8q7f7zw2h7fsuq0573zulnlgjfp0",
       "validator_url": "https://explorer.entrypoint.zone/entrypoint/staking/entrypointvaloper1lldfxpj8pu8q7f7zw2h7fsuq0573zulnlgjfp0"
     },
-    "scripts": ["build_binary_step"]
+    "scripts": [
+      "build_binary_step"
+    ]
   },
   {
     "chain_name": "dymensiontestnet",
@@ -1043,7 +1051,9 @@
       "address": "soarvaloper1a0cakvpaeutntck5cehlrk4g2d9w8rn2q3qfln",
       "validator_url": "https://explorer.soarchain.com/soar/staking/soarvaloper1a0cakvpaeutntck5cehlrk4g2d9w8rn2q3qfln"
     },
-    "scripts": ["build_binary_step"]
+    "scripts": [
+      "build_binary_step"
+    ]
   },
   {
     "chain_name": "nois",
@@ -1176,7 +1186,9 @@
       "address": "mxvaloper1nlshne60la52n6xse5nv5dsm5ep6rk3d0z5za3",
       "validator_url": "https://testnet.itrocket.net/crossfi/staking/mxvaloper1nlshne60la52n6xse5nv5dsm5ep6rk3d0z5za3"
     },
-    "scripts": ["build_binary_step"]
+    "scripts": [
+      "build_binary_step"
+    ]
   },
   {
     "chain_name": "ununifi",
@@ -1403,7 +1415,9 @@
       "address": "lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty",
       "validator_url": "https://lava.explorers.guru/validator/lava@valoper1us3tv59r3wz57ydjafkzgpy0pccae2a2dudnty"
     },
-    "scripts": ["build_binary_step"],
+    "scripts": [
+      "build_binary_step"
+    ],
     "regular_block_time": 300
   },
   {
@@ -1423,7 +1437,9 @@
       "address": "lava@valoper1rtz5qfm2ns2f6mw0plhuh9ld2y960mnesqepzp",
       "validator_url": "https://lava.explorers.guru/validator/lava@valoper1rtz5qfm2ns2f6mw0plhuh9ld2y960mnesqepzp"
     },
-    "scripts": ["build_binary_step"],
+    "scripts": [
+      "build_binary_step"
+    ],
     "regular_block_time": 300
   },
   {
@@ -1644,7 +1660,9 @@
       "minSpecification": "3CPU 4RAM 80GB",
       "recommendedSpecification": "4CPU 8RAM 160GB"
     },
-    "scripts": ["build_binary_step"]
+    "scripts": [
+      "build_binary_step"
+    ]
   },
   {
     "chain_name": "wardenprotocoltestnet",
@@ -1665,7 +1683,9 @@
       "address": "wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs",
       "validator_url": "https://testnet.warden.explorers.guru/validator/wardenvaloper1rs7d2gzys0tx2a4q7la4w6z4fmxyurlq0agxgs"
     },
-    "scripts": ["build_binary_step"]
+    "scripts": [
+      "build_binary_step"
+    ]
   },
   {
     "chain_name": "omniflixhub",
@@ -1685,6 +1705,160 @@
       "is_genesis": false,
       "stake_url": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe",
       "validator_url": "https://restake.app/omniflixhub/omniflixvaloper17rdn2u3c46qnx0zhmat8jldp4lgk5es8ewgfpe"
+    }
+  },
+  {
+    "chain_name": "gitopia",
+    "network_type": "mainnet",
+    "logo": "gitopia.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "rpc_server": "https://gitopia.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/gitopiaDAO",
+      "github": "https://github.com/gitopia",
+      "globe": "https://gitopia.com",
+      "docs": "https://docs.gitopia.com",
+      "discord": "https://discord.com/invite/aqsKW3hUHD",
+      "block_explorer": "https://ping.pub/gitopia"
+    },
+    "validator": {
+      "address": "gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4",
+      "is_genesis": true,
+      "stake_url": "https://restake.app/gitopia/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4/stake",
+      "validator_url": "https://ping.pub/gitopia/staking/gitopiavaloper1euljtwl6k9tev2lpg69jh5402ym2vl6965g4s4"
+    },
+    "hardware_requirements": {
+      "minSpecification": "4CPU 8RAM 100GB",
+      "recommendedSpecification": "8CPU 32RAM 200GB"
+    }
+  },
+  {
+    "chain_name": "humans",
+    "network_type": "mainnet",
+    "logo": "humans.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/humansdotai",
+      "github": "https://github.com/humansdotai",
+      "globe": "https://humans.ai",
+      "medium": "https://medium.com/humansdotai",
+      "docs": "https://docs.humans.ai",
+      "discord": "https://discord.gg/humansdotai",
+      "block_explorer": "https://humans.explorers.guru"
+    },
+    "validator": {
+      "address": "humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt",
+      "is_genesis": true,
+      "stake_url": "https://humans.explorers.guru/validator/humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt",
+      "validator_url": "https://humans.explorers.guru/validator/humanvaloper1qn484lntfjkhaytvu8hv80hvdsg39afpnmhztt"
+    }
+  },
+  {
+    "chain_name": "jackal",
+    "network_type": "mainnet",
+    "logo": "jackal.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/Jackal_Labs",
+      "github": "https://github.com/JackalLabs",
+      "globe": "https://jackalprotocol.com",
+      "medium": "https://jackaldao.medium.com",
+      "docs": "https://docs.jackalprotocol.com/",
+      "discord": "https://discord.com/invite/5GKym3p6rj",
+      "block_explorer": "https://ping.pub/jackal"
+    },
+    "validator": {
+      "address": "jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h",
+      "validator_url": "https://restake.app/jackal/jklvaloper1urh0vkpfxdslmp24w3p5xnvp0wqccgsqf2qs5h"
+    },
+    "is_wasm_on_root_level_enabled": true
+  },
+  {
+    "chain_name": "airchainsvaranasitestnet",
+    "jumper_name": "airchains",
+    "network_type": "testnet",
+    "logo": "airchains.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "github": "https://github.com/airchains-network",
+      "twitter": "https://twitter.com/airchains_io",
+      "globe": "https://airchains.io",
+      "docs": "https://docs.airchains.io",
+      "discord": "https://discord.gg/airchains",
+      "block_explorer": "https://exp.utsa.tech/airchains-test"
+    },
+    "validator": {
+      "address": "airvaloper1um9rv3g08n9wzdezwcmhnp8wv6dwgyxutm3z78",
+      "validator_url": "https://exp.utsa.tech/airchains-test/staking/airvaloper1um9rv3g08n9wzdezwcmhnp8wv6dwgyxutm3z78"
+    },
+    "scripts": [
+      "build_binary_step"
+    ]
+  },
+  {
+    "chain_name": "dymension",
+    "network_type": "mainnet",
+    "logo": "dymension.webp",
+    "rpc_server": "https://dymension.nodejumper.io",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/dymension",
+      "github": "https://github.com/dymensionxyz",
+      "globe": "https://dymension.xyz/",
+      "medium": "https://medium.com/@dymensionXYZ",
+      "docs": "https://docs.dymension.xyz/",
+      "discord": "https://discord.com/invite/dymension",
+      "telegram": "https://t.me/dymensionXYZ",
+      "block_explorer": "https://dymension.explorers.guru"
+    },
+    "validator": {
+      "address": "dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0",
+      "is_genesis": false,
+      "stake_url": "https://restake.app/dymension/dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0",
+      "validator_url": "https://dymension.explorers.guru/validator/dymvaloper1cxgzx0e4w2ryalgtee2yfqwppg4xgfdy63p4h0"
+    }
+  },
+  {
+    "chain_name": "arkeo",
+    "network_type": "mainnet",
+    "logo": "arkeo.webp",
+    "snapshot_server": "https://snapshots.nodejumper.io",
+    "service_name": "arkeod",
+    "links": {
+      "twitter": "https://twitter.com/arkeonetwork",
+      "github": "https://github.com/arkeonetwork",
+      "globe": "https://arkeo.network",
+      "discord": "https://discord.gg/BfEHpm6uFc",
+      "docs": "https://docs.arkeo.network",
+      "block_explorer": "https://exp.utsa.tech/arkeo-main"
+    },
+    "validator": {
+      "address": "arkeovaloper1hcwlsuzhfk9287gdv4m08hgwxvg7pzwxj922lm",
+      "validator_url": "https://exp.utsa.tech/arkeo-main/staking/arkeovaloper1hcwlsuzhfk9287gdv4m08hgwxvg7pzwxj922lm"
+    }
+  },
+  {
+    "chain_name": "cardchaintestnet",
+    "jumper_name": "crowdcontrol",
+    "network_type": "testnet",
+    "logo": "cardchain.webp",
+    "snapshot_server": "https://snapshots-testnet.nodejumper.io",
+    "links": {
+      "twitter": "https://twitter.com/CrowdControlNet",
+      "github": "https://github.com/DecentralCardGame",
+      "globe": "https://crowdcontrol.network/",
+      "discord": "https://discord.gg/CttUtFH5W4",
+      "block_explorer": "https://testnet.itrocket.net/cardchain"
+    },
+    "validator": {
+      "address": "ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl",
+      "validator_url": "https://testnet.itrocket.net/cardchain/staking/ccvaloper1d2gnx8gxf44tkjky7ftwfkg9k0lln56x8tp7zl"
+    },
+    "hardware_requirements": {
+      "minSpecification": "3CPU 4RAM 80GB",
+      "recommendedSpecification": "4CPU 8RAM 160GB"
     }
   }
 ]
